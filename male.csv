@@ -1,0 +1,497 @@
+Diabetic,AlcoholLevel,HeartRate,BloodOxygenLevel,BodyTemperature,Weight,Prescription,Dosage in mg,Age,Education_Level,Dominant_Hand,Gender,Family_History,Smoking_Status,APOE_ε4,Physical_Activity,Depression_Status,Cognitive_Test_Scores,Medication_History,Nutrition_Diet,Sleep_Quality,Chronic_Health_Conditions,Dementia
+0,0.0169727727863545,78,93.0321223426126,36.1838737166387,56.8323353257136,Galantamine,12.0,61,Secondary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,1,Yes,Low-Carb Diet,Poor,Heart Disease,1
+0,0.0090002496143525,89,93.5665042482413,37.3263207754996,59.7590655706307,,,69,Primary School,Right,Male,Yes,Former Smoker,Negative,Moderate Activity,No,8,No,Mediterranean Diet,Poor,Heart Disease,0
+1,0.150747307429414,67,97.5089936221346,36.062120637998,67.7050273074736,Memantine,20.0,77,Secondary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,0,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.114027805460737,94,94.5467544889054,36.6780714817687,66.5923294471771,Rivastigmine,1.5,67,No School,Left,Male,No,Former Smoker,Positive,Mild Activity,Yes,1,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.0161937816919137,90,96.4233612514317,37.0246302441869,83.9765527849125,Donepezil,10.0,87,Primary School,Right,Male,No,Never Smoked,Positive,Mild Activity,No,7,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.0826712307049389,93,96.7600319752408,36.5104785000585,77.501457332882,,,69,Primary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,8,No,Balanced Diet,Good,Hypertension,0
+1,0.0293063782466076,93,96.6162990678202,36.5682860651122,92.2400482680296,,,76,Diploma/Degree,Right,Male,No,Never Smoked,Negative,Moderate Activity,No,8,No,Mediterranean Diet,Poor,Diabetes,0
+1,0.159084563890652,82,93.4253325585225,37.4674993062908,66.3959923699301,Memantine,5.0,72,Primary School,Left,Male,No,Never Smoked,Negative,Mild Activity,Yes,2,No,Balanced Diet,Poor,Diabetes,1
+1,0.0890567547381832,67,91.2092257139133,37.2282897240097,84.5919857636834,,,85,Primary School,Left,Male,No,Never Smoked,Negative,Moderate Activity,No,9,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.002244398672831,99,93.2048213069711,36.0701666048784,71.8492986156055,Rivastigmine,6.0,70,Secondary School,Right,Male,Yes,Former Smoker,Positive,Sedentary,No,4,No,Mediterranean Diet,Good,,1
+1,0.155994199231484,77,99.7168442230701,36.755958857721,64.5946983586335,,,75,Primary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,9,No,Balanced Diet,Poor,Diabetes,0
+0,0.105560502565187,66,92.9871647477154,36.8181652978586,80.2110049460755,,,69,Primary School,Right,Male,No,Never Smoked,Positive,Sedentary,No,9,Yes,Balanced Diet,Good,Heart Disease,0
+0,0.109671326089538,98,93.7502785047227,37.0570535564764,69.5325741940458,,,71,No School,Left,Male,Yes,Current Smoker,Negative,Sedentary,No,9,Yes,Low-Carb Diet,Poor,Hypertension,0
+0,0.052612734303736,74,99.1815764096369,36.241302645716,50.8048008210794,Memantine,10.0,88,Diploma/Degree,Left,Male,No,Former Smoker,Positive,Mild Activity,Yes,3,Yes,Mediterranean Diet,Poor,,1
+0,0.0162196481417721,97,91.2217663146005,37.404710670529,94.5520264753381,Donepezil,10.0,75,Primary School,Left,Male,No,Never Smoked,Positive,Sedentary,Yes,2,No,Mediterranean Diet,Poor,Heart Disease,1
+1,0.0624063346057808,88,95.9507935970603,36.0584579705268,84.3487706330256,,,87,No School,Right,Male,Yes,Former Smoker,Negative,Sedentary,No,8,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.130617630425201,71,99.019757154874,36.1485965985343,76.2933556714929,,,69,Diploma/Degree,Right,Male,Yes,Never Smoked,Negative,Mild Activity,No,8,Yes,Mediterranean Diet,Good,,0
+1,0.0811239679295662,93,96.3013142388077,36.8929074464416,78.9666345175583,,,77,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,9,No,Mediterranean Diet,Good,Diabetes,0
+0,0.165668295612874,96,96.4568782871169,37.4827185778176,85.5176545152865,Galantamine,8.0,74,Primary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,Yes,7,No,Balanced Diet,Good,,1
+0,0.0415757133269822,80,96.0795137342436,36.6469253949256,56.6024463101663,,,70,Primary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,9,Yes,Low-Carb Diet,Good,Heart Disease,0
+0,0.109911380622626,90,98.8388574833412,36.9598650962692,66.7133552791264,,,79,Secondary School,Right,Male,Yes,Former Smoker,Negative,Mild Activity,No,8,Yes,Mediterranean Diet,Good,Heart Disease,0
+1,0.146173839296572,85,90.0307634535355,36.8563837492621,54.2737137979213,Donepezil,10.0,61,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,5,No,Low-Carb Diet,Good,Diabetes,1
+1,0.0403411729399781,80,91.1526936700125,36.7222043588699,68.629452112152,,,71,Secondary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,10,No,Balanced Diet,Poor,Diabetes,0
+1,0.140177910461279,63,91.3318315394964,37.4601607920376,68.444544054182,Memantine,20.0,74,Diploma/Degree,Left,Male,No,Former Smoker,Positive,Sedentary,No,3,Yes,Low-Carb Diet,Poor,Diabetes,1
+0,0.0477835745357097,84,98.3933626934281,36.2768234469141,89.1972997432954,,,65,Primary School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,10,Yes,Low-Carb Diet,Good,Heart Disease,0
+0,0.0255633730604839,80,98.9486239744618,36.3220492610358,77.484649472752,,,75,Diploma/Degree,Left,Male,Yes,Never Smoked,Negative,Sedentary,No,9,Yes,Mediterranean Diet,Good,Hypertension,0
+0,0.0979699017053334,95,98.9708961194648,36.1203289489303,52.6327997221473,,,74,Primary School,Right,Male,No,Former Smoker,Positive,Sedentary,No,9,Yes,Low-Carb Diet,Good,Heart Disease,0
+1,0.103186462449046,89,90.4179597151762,37.1589707640223,98.2587094742972,,,90,Primary School,Left,Male,No,Never Smoked,Positive,Sedentary,No,9,No,Mediterranean Diet,Good,Diabetes,0
+1,0.108086522012842,82,98.2299297839622,36.8782207086184,50.4974096470212,Rivastigmine,3.0,61,Primary School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,3,No,Balanced Diet,Good,Diabetes,1
+1,0.166851161872447,60,96.1704748318342,36.2731184236316,56.2421754743261,,,63,No School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,10,No,Balanced Diet,Poor,Diabetes,0
+1,0.130313803326904,65,96.3890838349399,36.0670708547351,75.5469885567542,Galantamine,12.0,75,Secondary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,4,No,Mediterranean Diet,Good,Diabetes,1
+1,0.144443419015484,64,93.3342419698017,36.0323576734543,51.249225346567,Rivastigmine,6.0,60,Secondary School,Right,Male,Yes,Never Smoked,Negative,Sedentary,Yes,4,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.0474104205501174,91,95.7201007266517,37.0130045324023,50.4710327577654,,,69,Primary School,Left,Male,No,Never Smoked,Negative,Sedentary,No,10,Yes,Mediterranean Diet,Good,Hypertension,0
+1,0.176275661558889,73,98.9624197302442,36.1963309193627,68.4630395876615,,,71,Secondary School,Left,Male,No,Never Smoked,Positive,Moderate Activity,No,10,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.0504704472421672,84,95.6637148208527,36.6777172805927,71.1126249576253,Rivastigmine,6.0,65,Primary School,Left,Male,No,Former Smoker,Positive,Sedentary,No,0,No,Low-Carb Diet,Poor,Hypertension,1
+1,0.0788533648545549,94,91.7576407333869,37.3366094443009,57.3855699303126,,,84,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,9,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.122611739443008,85,95.5599317027069,36.1755704302971,59.5217171136786,Memantine,10.0,67,No School,Right,Male,No,Never Smoked,Negative,Moderate Activity,No,6,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.128787605661138,67,97.7790040935981,36.9245884257728,58.4056357219929,Memantine,10.0,85,Secondary School,Left,Male,No,Never Smoked,Positive,Moderate Activity,No,1,Yes,Low-Carb Diet,Poor,Diabetes,1
+0,0.14539247028443,79,97.6944708470574,36.7247419504213,58.491484398373,,,68,Primary School,Left,Male,Yes,Former Smoker,Negative,Mild Activity,No,9,Yes,Balanced Diet,Good,Hypertension,0
+1,0.120080871956708,93,99.6202961675307,36.7729548476865,72.549960471013,,,66,No School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,9,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.105534232627401,77,92.4919598953662,36.810780169366,99.6126185305757,,,88,Diploma/Degree,Right,Male,No,Former Smoker,Negative,Moderate Activity,No,10,No,Mediterranean Diet,Good,Diabetes,0
+0,0.148499394555236,68,91.8321859495525,37.1053314596302,82.0286906201707,Memantine,20.0,83,Secondary School,Right,Male,No,Former Smoker,Positive,Sedentary,No,5,Yes,Low-Carb Diet,Good,,1
+1,0.0820341138300333,60,93.7684572654748,36.1190936419506,66.2921163745766,,,79,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,8,No,Balanced Diet,Good,Diabetes,0
+0,0.0167451735271648,94,92.7501806676683,36.1229499900559,88.1920995558617,,,83,No School,Left,Male,Yes,Current Smoker,Negative,Mild Activity,No,8,No,Mediterranean Diet,Poor,,0
+1,0.0348211046463696,97,98.0010577548071,36.2175980819346,73.7575395211276,Memantine,10.0,79,No School,Left,Male,No,Former Smoker,Positive,Sedentary,No,2,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.164579161757823,97,97.1541957253701,37.1314511820521,86.6487532539635,Galantamine,8.0,75,Primary School,Left,Male,No,Never Smoked,Positive,Sedentary,No,1,Yes,Balanced Diet,Good,Diabetes,1
+0,0.0803036524974372,96,90.0817702037166,37.2425277579226,72.3408481770356,,,62,Diploma/Degree,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,10,Yes,Mediterranean Diet,Poor,,0
+1,0.109889813239953,94,95.2175582882498,36.0479603744379,99.1121886081646,Memantine,10.0,75,Secondary School,Left,Male,Yes,Former Smoker,Negative,Sedentary,No,0,No,Balanced Diet,Good,Diabetes,1
+0,0.176939922646689,99,99.1214238227399,36.1586619500657,96.7889707454095,,,89,No School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,10,No,Mediterranean Diet,Good,Hypertension,0
+0,0.132666516544319,96,99.0854369654698,37.3520989744749,57.7596543540951,,,81,Diploma/Degree,Right,Male,Yes,Current Smoker,Negative,Mild Activity,No,8,No,Balanced Diet,Good,Hypertension,0
+0,0.0144192752939454,98,99.6905517181352,36.0545154501787,86.8790345517617,,,72,Secondary School,Left,Male,No,Former Smoker,Negative,Sedentary,No,10,No,Balanced Diet,Poor,Hypertension,0
+1,0.106570843551684,81,90.9113968234993,37.2220295990005,74.8648109721876,Memantine,10.0,66,Secondary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,6,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.0222575786063182,69,98.8697760206243,36.5393226394525,64.5986801667304,,,89,Primary School,Left,Male,Yes,Never Smoked,Negative,Mild Activity,No,8,No,Mediterranean Diet,Good,Diabetes,0
+1,0.0289167618143209,87,93.8663328960281,36.0949492807161,87.2343217130132,Memantine,5.0,67,Primary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,2,No,Low-Carb Diet,Good,Diabetes,1
+1,0.0286158189289957,92,95.9959407700627,37.4857411615959,85.4340364704846,Donepezil,23.0,80,Primary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,Yes,6,No,Balanced Diet,Good,Diabetes,1
+1,0.159578162178168,60,91.916387285789,36.28799472232,62.7668460688444,Memantine,5.0,68,Secondary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,0,No,Mediterranean Diet,Good,Diabetes,1
+0,0.150501429769732,60,97.8991104899006,36.8757864312276,90.6732573348395,Rivastigmine,3.0,82,Primary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,7,No,Balanced Diet,Poor,Hypertension,1
+1,0.0421194312752401,95,93.374605670513,36.3577798463776,51.855628379522,,,69,No School,Left,Male,No,Never Smoked,Positive,Sedentary,No,9,No,Low-Carb Diet,Good,Diabetes,0
+0,0.0715107940456524,65,95.6944852547219,36.8345306367815,98.9510845853477,Rivastigmine,6.0,61,Primary School,Left,Male,No,Never Smoked,Negative,Sedentary,No,4,No,Mediterranean Diet,Good,,1
+1,0.0981727050251593,72,93.0580949647955,36.9695608591512,55.5695276964852,,,89,Primary School,Right,Male,No,Former Smoker,Negative,Moderate Activity,No,9,No,Balanced Diet,Good,Diabetes,0
+1,0.186733687707406,96,98.2434265722469,36.6512757763384,71.1227841767998,,,80,Primary School,Left,Male,Yes,Former Smoker,Negative,Mild Activity,No,10,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.0905232819354726,73,99.6043027148619,36.1449113595659,69.2786547982099,,,83,Primary School,Left,Male,Yes,Current Smoker,Positive,Mild Activity,No,8,Yes,Mediterranean Diet,Poor,,0
+1,0.183452930251257,74,90.2950264511579,37.2143209195804,73.8968258719352,,,67,Primary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,9,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.0764767492258134,73,96.3833290135035,37.3969139090788,78.3884016214574,,,63,Primary School,Left,Male,Yes,Current Smoker,Negative,Sedentary,No,9,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.182226715210022,92,90.6356303572134,36.5709888166951,76.5107734176403,,,80,Primary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,No,10,No,Mediterranean Diet,Good,Heart Disease,0
+1,0.132930842663001,84,97.4410801383819,36.1164615332169,96.7420296801593,,,87,Secondary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,9,No,Mediterranean Diet,Good,Diabetes,0
+0,0.141819098474864,88,97.4638287465648,37.1068427497989,62.5082894481237,Galantamine,8.0,62,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,2,No,Balanced Diet,Poor,Hypertension,1
+0,0.025385267732326,84,93.7519754724834,37.0567581748017,78.476647591186,,,86,Primary School,Right,Male,Yes,Former Smoker,Negative,Mild Activity,No,9,Yes,Balanced Diet,Good,,0
+1,0.106452555520233,62,91.0097319985956,36.8025856251442,54.0031164328699,Memantine,10.0,75,Secondary School,Left,Male,No,Never Smoked,Positive,Mild Activity,Yes,7,No,Balanced Diet,Poor,Diabetes,1
+1,0.0059694225475678,60,95.3740821162739,37.3616623098855,97.8704750632962,,,64,Secondary School,Left,Male,No,Former Smoker,Negative,Mild Activity,No,9,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.136316419178743,78,98.2749605582803,36.6601251838649,64.0175927318903,,,80,Primary School,Right,Male,No,Never Smoked,Negative,Sedentary,No,10,Yes,Low-Carb Diet,Poor,Heart Disease,0
+0,0.163859438881706,82,97.302659917491,37.434155038796,95.1176992119219,Memantine,10.0,83,Primary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,2,Yes,Low-Carb Diet,Poor,,1
+1,0.0193497326510259,70,97.7801868743705,37.352518546136,59.2989571996208,Memantine,10.0,63,No School,Left,Male,No,Never Smoked,Positive,Mild Activity,Yes,3,Yes,Low-Carb Diet,Good,Diabetes,1
+0,0.196161800531256,66,98.9719544492164,36.875676042394,96.9766804091172,Rivastigmine,3.0,75,Secondary School,Left,Male,No,Never Smoked,Positive,Sedentary,Yes,3,Yes,Balanced Diet,Good,Heart Disease,1
+1,0.0150568742116005,69,94.3375042016948,36.7644313422803,54.7329245531346,Donepezil,23.0,79,Primary School,Left,Male,No,Never Smoked,Positive,Sedentary,No,2,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.180664828520012,82,98.9609698890607,37.4819424832035,94.1328188152366,Galantamine,4.0,85,Primary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,Yes,6,Yes,Low-Carb Diet,Good,,1
+0,0.0829066499638121,95,93.8856528196734,36.5754328191219,59.0401308401208,Rivastigmine,3.0,90,Primary School,Right,Male,No,Never Smoked,Positive,Sedentary,Yes,5,No,Low-Carb Diet,Poor,Hypertension,1
+1,0.0934520561336696,74,91.740452878321,36.5411887650188,84.0881282146219,Donepezil,10.0,70,Primary School,Right,Male,No,Former Smoker,Positive,Sedentary,Yes,0,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0039274232890741,69,98.6700177516508,36.9030356344911,88.0231156894034,,,66,Secondary School,Right,Male,No,Current Smoker,Negative,Mild Activity,No,10,No,Balanced Diet,Good,Diabetes,0
+0,0.139836960284347,94,95.7611042173816,37.4404177411024,89.6360027058516,Memantine,20.0,73,Diploma/Degree,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,Yes,4,No,Balanced Diet,Good,Hypertension,1
+0,0.0047625825870144,81,99.5711813534033,36.3717096317554,82.7366353364858,,,78,Secondary School,Left,Male,No,Former Smoker,Positive,Sedentary,No,8,Yes,Low-Carb Diet,Good,Hypertension,0
+0,0.0379112154758394,67,96.4115593978136,36.3288329475388,70.5125139383649,Galantamine,4.0,67,Primary School,Right,Male,No,Former Smoker,Positive,Sedentary,Yes,3,Yes,Low-Carb Diet,Poor,,1
+0,0.0349254900504299,90,91.2404875920328,37.4015086577801,74.8388357883899,Donepezil,10.0,89,Primary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,4,No,Low-Carb Diet,Poor,,1
+1,0.000751229553052,75,95.5054109392037,36.16582412588,98.2725298761999,,,81,Secondary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,10,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.180321555168846,90,97.459243495018,36.5061817495292,99.1667014455974,,,62,Secondary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.156109209387276,98,97.7970244038821,37.1150759764037,51.0970259066371,Galantamine,12.0,73,No School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,2,Yes,Mediterranean Diet,Good,,1
+1,0.0651925054278758,69,94.0705585316545,37.1448864937488,74.1365282190937,,,71,Diploma/Degree,Left,Male,Yes,Current Smoker,Positive,Sedentary,No,9,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.197557883171445,65,90.6203087505855,36.5567041648699,60.4864855508933,Donepezil,23.0,71,Primary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,2,Yes,Low-Carb Diet,Poor,Heart Disease,1
+1,0.0764264751154403,100,99.6758207374114,37.3654956781468,58.3832880852954,Rivastigmine,3.0,67,Secondary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,Yes,1,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.150939882004243,72,99.2000505229579,37.1730692214336,91.4651893420166,,,78,Diploma/Degree,Right,Male,Yes,Current Smoker,Positive,Sedentary,No,10,No,Mediterranean Diet,Good,,0
+1,0.055369382670397,73,90.3590197323675,37.3010016098607,52.4610263502683,Memantine,5.0,73,Secondary School,Right,Male,No,Never Smoked,Positive,Moderate Activity,No,1,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.0106500990594893,90,94.4740417497244,36.2485103439329,56.5071712393646,Rivastigmine,6.0,66,Primary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,0,Yes,Mediterranean Diet,Good,Heart Disease,1
+1,0.16596604915215,70,95.8874151429112,36.2417823423899,93.6402518414061,,,69,Primary School,Left,Male,No,Former Smoker,Negative,Moderate Activity,No,8,No,Low-Carb Diet,Good,Diabetes,0
+1,0.101283528285809,62,99.0360419879211,36.3576250648375,53.9740392048981,Rivastigmine,6.0,80,Secondary School,Right,Male,No,Never Smoked,Positive,Moderate Activity,Yes,4,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.0681614600289372,94,93.4580286787389,36.6512431779016,70.7204526012523,Galantamine,4.0,87,Primary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,5,Yes,Low-Carb Diet,Poor,Diabetes,1
+0,0.0574605471385832,93,96.729211919948,36.9323352837746,83.0388730640884,,,79,Primary School,Right,Male,Yes,Current Smoker,Positive,Moderate Activity,No,10,No,Low-Carb Diet,Poor,,0
+0,0.163863720014071,64,92.2095906897834,36.0962188733357,87.3927216228987,Galantamine,12.0,60,Primary School,Left,Male,No,Never Smoked,Negative,Mild Activity,Yes,3,No,Mediterranean Diet,Poor,Hypertension,1
+1,0.0677882103743148,68,95.2799872660185,36.3468834805037,88.2295774278696,,,85,Primary School,Left,Male,Yes,Former Smoker,Negative,Mild Activity,No,10,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.11485822950982,73,90.7783870425736,37.0699961158485,68.7361697750159,,,88,Secondary School,Right,Male,Yes,Never Smoked,Negative,Sedentary,No,9,No,Low-Carb Diet,Good,Diabetes,0
+1,0.103913772825817,90,92.9998359731688,36.0740802381336,99.175386929748,,,85,Diploma/Degree,Left,Male,Yes,Current Smoker,Positive,Sedentary,No,8,Yes,Balanced Diet,Good,Diabetes,0
+1,0.193076573745839,71,92.0911118777044,36.7542236125298,73.1607486960082,Galantamine,12.0,78,Secondary School,Right,Male,Yes,Former Smoker,Positive,Sedentary,No,2,No,Balanced Diet,Poor,Diabetes,1
+1,0.169224356902109,88,99.1726559298616,36.7267719399619,88.5190244015586,Memantine,20.0,84,Secondary School,Right,Male,No,Former Smoker,Positive,Mild Activity,Yes,3,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.0645061337513324,92,98.5911039256193,36.164852152269,69.1484602701423,Galantamine,4.0,72,Primary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,2,Yes,Mediterranean Diet,Poor,,1
+0,0.126295255006643,61,93.1589363160789,36.2085483861723,58.1040412222569,,,61,Primary School,Left,Male,Yes,Never Smoked,Negative,Moderate Activity,No,10,No,Balanced Diet,Poor,Heart Disease,0
+0,0.126369765910224,66,92.0207055236005,37.0166999750374,91.312228715745,Donepezil,5.0,72,Secondary School,Left,Male,No,Never Smoked,Positive,Sedentary,Yes,2,Yes,Balanced Diet,Poor,Heart Disease,1
+1,0.0677268033177902,69,93.2244552650973,36.8929656810404,81.3249147176877,,,77,Primary School,Right,Male,No,Never Smoked,Positive,Mild Activity,No,8,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.130115897422739,61,98.8197081059476,37.1251609335789,65.3483083428798,,,67,Primary School,Left,Male,No,Current Smoker,Negative,Sedentary,No,9,No,Balanced Diet,Poor,Hypertension,0
+1,0.12960695064845,62,99.6846494625909,37.288026859766,95.7703952939249,,,67,No School,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,8,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.042831177408295,91,91.8839368610304,36.8681655989819,50.4953893951259,Donepezil,23.0,88,Secondary School,Left,Male,No,Never Smoked,Positive,Mild Activity,Yes,1,No,Low-Carb Diet,Good,Diabetes,1
+0,0.164217317428488,91,97.4245764214778,37.3695555070695,89.393894377313,,,82,Primary School,Left,Male,Yes,Never Smoked,Negative,Mild Activity,No,8,Yes,Balanced Diet,Good,Hypertension,0
+1,0.162306391655203,70,91.4311775487676,36.5190569134706,56.7010634702016,Galantamine,12.0,65,No School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,0,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.160698838515503,82,91.6726384879854,36.12770364831,99.9827220879108,Rivastigmine,1.5,69,Secondary School,Left,Male,No,Never Smoked,Positive,Moderate Activity,No,0,Yes,Mediterranean Diet,Good,Heart Disease,1
+1,0.0945614070719963,82,91.8978403497118,36.2202666137717,85.7353040277301,,,72,Primary School,Right,Male,Yes,Current Smoker,Negative,Sedentary,No,10,Yes,Mediterranean Diet,Poor,Diabetes,0
+0,0.132171629702503,96,91.8488490102587,36.6669316138687,50.4922814175977,Rivastigmine,6.0,85,No School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,6,No,Mediterranean Diet,Poor,,1
+1,0.131980441758026,74,92.9795375166056,36.361118026264,68.5049381744499,,,84,Primary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,9,No,Mediterranean Diet,Good,Diabetes,0
+0,0.0336425436846138,69,95.992483965059,36.3194006709018,58.574484955681,,,74,Diploma/Degree,Right,Male,No,Current Smoker,Negative,Mild Activity,No,10,No,Balanced Diet,Good,Heart Disease,0
+1,0.186700660351337,75,92.9194400008053,36.9182288796769,72.0667334496459,Donepezil,10.0,89,No School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,2,Yes,Balanced Diet,Good,Diabetes,1
+0,0.0713671809539678,92,91.1049542138875,36.3460627028106,84.370402884518,,,73,Primary School,Left,Male,No,Current Smoker,Positive,Mild Activity,No,9,Yes,Mediterranean Diet,Good,,0
+1,0.194689639603592,94,93.2515712600465,36.6637806451587,80.4217854906711,Rivastigmine,1.5,66,No School,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,5,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.164797592898915,97,93.3115910496137,36.6467000065611,56.8837089850376,Donepezil,10.0,64,Secondary School,Right,Male,No,Never Smoked,Positive,Mild Activity,Yes,4,No,Mediterranean Diet,Good,Diabetes,1
+1,0.129169702141859,92,94.4783917621212,36.0446480568538,85.9384315041989,Galantamine,4.0,64,Primary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,7,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.0192492858124767,73,98.9356218100451,37.2350420225081,73.8229329520386,Rivastigmine,3.0,72,Primary School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,No,7,Yes,Balanced Diet,Poor,Heart Disease,1
+1,0.0427010665123271,81,97.0169645536494,36.4612442609321,50.0697307361087,Galantamine,12.0,63,Secondary School,Right,Male,No,Former Smoker,Positive,Sedentary,Yes,6,No,Mediterranean Diet,Good,Diabetes,1
+1,0.0333519447437158,97,93.9732539304408,37.4079734520935,65.5872355164539,Donepezil,23.0,65,No School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,0,No,Balanced Diet,Good,Diabetes,1
+1,0.0377318512079606,78,97.9899955524858,36.8699315707097,51.2098147007721,,,81,Primary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,9,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0125957191506603,90,91.0899496173174,36.4870363467175,89.7067567316399,Memantine,10.0,64,Primary School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,Yes,5,Yes,Balanced Diet,Good,Heart Disease,1
+1,0.0526475644392907,92,94.3396068792416,37.3122400689164,51.4816055196841,Rivastigmine,3.0,67,Secondary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,Yes,3,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.120169181927994,83,94.1747865535322,37.0912193773623,98.7957187779144,Galantamine,4.0,83,Primary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,3,No,Low-Carb Diet,Good,Diabetes,1
+0,0.0993511713034493,71,98.9947792349815,37.1236711957696,80.8262840937799,,,80,Diploma/Degree,Right,Male,Yes,Never Smoked,Negative,Mild Activity,No,9,No,Low-Carb Diet,Poor,Heart Disease,0
+1,0.0835797660957842,67,92.1584367345411,37.4016553881921,54.7445893093731,Memantine,5.0,79,Secondary School,Right,Male,No,Former Smoker,Positive,Mild Activity,Yes,0,Yes,Low-Carb Diet,Poor,Diabetes,1
+0,0.175235630435278,66,90.3511038902811,37.0306137618443,87.0901954960146,,,79,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,10,No,Low-Carb Diet,Good,,0
+1,0.107020126635155,89,98.5049655300894,37.1392590814456,58.3702075296479,,,63,Secondary School,Left,Male,No,Never Smoked,Negative,Sedentary,No,10,No,Mediterranean Diet,Good,Diabetes,0
+1,0.158220711022813,69,98.3685461573685,37.3489326421007,61.5370804695515,,,61,No School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.0550117885639463,75,90.2356056627516,36.8649199150868,60.4378581348015,Rivastigmine,6.0,90,Primary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,Yes,3,No,Mediterranean Diet,Good,Heart Disease,1
+1,0.0854279510082506,60,97.7440460716196,36.6548383070797,50.2613147257749,Rivastigmine,1.5,63,Diploma/Degree,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,4,Yes,Low-Carb Diet,Poor,Diabetes,1
+0,0.0834565826961486,64,97.404572754113,36.1452181357748,64.1871272268415,,,65,Primary School,Right,Male,No,Never Smoked,Negative,Moderate Activity,No,10,Yes,Balanced Diet,Good,Heart Disease,0
+0,0.0864074690685314,62,97.6913084734505,36.2563169112496,57.9482989635489,,,86,Secondary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,No,8,No,Low-Carb Diet,Good,,0
+0,0.14833710425493,72,96.5788161626532,36.7996024859061,81.7569086239399,,,66,Secondary School,Right,Male,Yes,Never Smoked,Negative,Mild Activity,No,10,Yes,Mediterranean Diet,Poor,,0
+1,0.19026555671079,89,95.852078366264,37.4894609134384,86.2152072655799,,,67,Primary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,8,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0473440518460919,69,96.1046295789106,36.0400381992822,83.0378813699059,,,70,Secondary School,Left,Male,Yes,Never Smoked,Negative,Sedentary,No,8,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0952287055244371,73,97.2855547676321,37.0592843425951,87.6937590577056,Memantine,10.0,77,Primary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,No,0,No,Mediterranean Diet,Good,Heart Disease,1
+1,0.136027839574802,71,94.2409442594375,37.0475892578762,77.993174372722,Memantine,20.0,65,No School,Right,Male,No,Never Smoked,Positive,Moderate Activity,Yes,0,No,Balanced Diet,Good,Diabetes,1
+0,0.17011500413459,68,93.5370256410097,36.7635166099683,76.6512987707427,Memantine,5.0,60,No School,Right,Male,No,Never Smoked,Positive,Sedentary,No,5,Yes,Low-Carb Diet,Good,,1
+1,0.132497271079116,68,97.3931857211356,37.245033584875,64.6473535344151,,,68,Primary School,Left,Male,No,Never Smoked,Positive,Sedentary,No,9,Yes,Low-Carb Diet,Poor,Diabetes,0
+1,0.0841142064253988,86,99.5265903917835,36.965735182543,83.9864935672261,,,73,No School,Left,Male,No,Never Smoked,Negative,Mild Activity,No,8,Yes,Mediterranean Diet,Poor,Diabetes,0
+0,0.0377983938350563,90,93.4428512212421,36.4364808288348,93.8415892516652,Rivastigmine,3.0,64,Diploma/Degree,Left,Male,No,Former Smoker,Positive,Moderate Activity,Yes,3,No,Mediterranean Diet,Poor,Hypertension,1
+0,0.11936878683786,81,91.7958307181037,37.3833389510665,61.919454003568,,,86,Primary School,Right,Male,Yes,Former Smoker,Positive,Sedentary,No,8,No,Mediterranean Diet,Good,Hypertension,0
+0,0.0296123165885509,84,90.4726945541198,36.2491993914662,98.8838131473035,Galantamine,4.0,80,No School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,Yes,5,No,Low-Carb Diet,Poor,Hypertension,1
+0,0.116314079726741,84,97.8532300712691,37.2099662859541,50.1295761359344,Donepezil,23.0,66,Primary School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,5,Yes,Mediterranean Diet,Poor,Hypertension,1
+0,0.0410322874280149,72,93.5246586525725,37.3094965326033,73.5105213756826,,,65,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,No,Low-Carb Diet,Poor,,0
+1,0.0226256635099201,98,97.4742490655737,37.3421124993989,70.6445055749809,Donepezil,10.0,76,Secondary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,1,Yes,Balanced Diet,Good,Diabetes,1
+1,0.157489502849523,93,93.86183242959,36.3671532041638,65.1994162921251,,,75,Secondary School,Left,Male,Yes,Current Smoker,Negative,Moderate Activity,No,9,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.159810920455757,93,96.4792668214465,36.6776517247566,97.4556541919595,Galantamine,8.0,83,Secondary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,No,0,No,Balanced Diet,Poor,Diabetes,1
+0,0.0030529947344958,89,98.6625078363428,37.2583854374059,54.6832386646267,,,77,Secondary School,Left,Male,No,Never Smoked,Negative,Mild Activity,No,8,Yes,Low-Carb Diet,Poor,,0
+0,0.104083791249695,77,90.2792674304734,36.4150951236774,88.5406491719945,,,68,Primary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,9,Yes,Low-Carb Diet,Good,Heart Disease,0
+1,0.0903669065088657,81,96.3445556508671,36.3810364581896,66.5046640367349,Donepezil,10.0,88,Primary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,Yes,0,No,Mediterranean Diet,Good,Diabetes,1
+1,0.0649247177976049,99,98.4099763314209,36.9021376894594,66.9071638715676,Galantamine,4.0,71,Diploma/Degree,Right,Male,No,Never Smoked,Positive,Moderate Activity,Yes,4,No,Balanced Diet,Poor,Diabetes,1
+0,0.117512121553511,71,94.8217224355407,36.9765524211015,50.1656094692367,Memantine,20.0,61,Primary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,Yes,6,Yes,Low-Carb Diet,Good,,1
+0,0.180583506404364,65,91.8535731071412,37.0239334224411,92.8275417053689,,,88,No School,Right,Male,Yes,Never Smoked,Negative,Sedentary,No,8,No,Mediterranean Diet,Good,,0
+0,0.041946733305496,82,99.7373850836955,37.1706578390581,94.3572251976025,,,67,Primary School,Left,Male,No,Former Smoker,Negative,Sedentary,No,8,Yes,Balanced Diet,Poor,,0
+1,0.144869201641224,90,91.3139950260872,36.9418998020091,91.6282937384156,Galantamine,8.0,61,Secondary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,Yes,2,No,Balanced Diet,Poor,Diabetes,1
+0,0.0316263331872172,67,97.0730518306572,36.0753765168734,56.7338806611682,Memantine,5.0,79,Primary School,Left,Male,No,Former Smoker,Negative,Mild Activity,Yes,4,No,Mediterranean Diet,Good,Heart Disease,1
+1,0.179363257395811,91,99.3411426424804,36.8662088682163,65.9133241052338,,,71,Secondary School,Left,Male,Yes,Current Smoker,Negative,Sedentary,No,10,No,Mediterranean Diet,Poor,Diabetes,0
+1,0.101366662060507,71,94.5051051591473,37.0732571929258,73.0187236212774,,,67,Diploma/Degree,Right,Male,No,Former Smoker,Positive,Mild Activity,No,10,No,Balanced Diet,Poor,Diabetes,0
+1,0.0189976855803775,63,97.2265224065199,36.1105179021027,50.869327424851,Rivastigmine,6.0,66,Diploma/Degree,Left,Male,No,Former Smoker,Positive,Moderate Activity,No,0,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.0458329665177738,92,94.9644638056301,36.9989689835599,54.0926276535576,Rivastigmine,1.5,77,Secondary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,5,Yes,Mediterranean Diet,Good,Diabetes,1
+0,0.155803200621896,97,92.2078933766751,36.5424976356463,82.0827574662524,,,71,Secondary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,9,Yes,Low-Carb Diet,Poor,,0
+1,0.0659265554515431,87,94.511221099302,37.2622540285781,76.2828969787523,Galantamine,4.0,75,Primary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,Yes,5,No,Mediterranean Diet,Poor,Diabetes,1
+1,0.162149061527734,61,95.8353689553187,36.9457151730941,77.7146697387992,Donepezil,23.0,86,Primary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,0,No,Mediterranean Diet,Good,Diabetes,1
+0,0.0916895051131051,80,91.0695158668945,37.1276365954115,56.4879880408861,,,60,Primary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,8,No,Balanced Diet,Good,,0
+0,0.058128885492217,71,95.8865197455618,37.0675788302302,51.2421817936879,,,81,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,9,No,Balanced Diet,Good,,0
+1,0.127951371877443,87,96.4270296848417,36.9282365531822,52.9086668873294,Memantine,10.0,61,Secondary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,6,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.178262689627244,60,92.329191636137,36.5929201070972,91.6695579975844,,,67,Primary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,No,10,No,Balanced Diet,Poor,Hypertension,0
+0,0.0878453943694166,90,98.5037063997575,36.5803381874234,79.9264911994048,,,77,Diploma/Degree,Right,Male,Yes,Never Smoked,Negative,Sedentary,No,10,No,Mediterranean Diet,Poor,,0
+0,0.006012871919287,96,96.2194700937043,37.191050954078,61.2653982755304,Donepezil,23.0,72,Secondary School,Left,Male,No,Never Smoked,Positive,Moderate Activity,Yes,5,No,Low-Carb Diet,Good,Heart Disease,1
+1,0.107619978051751,90,99.2589091724543,36.8673021954074,95.7534205109792,Memantine,10.0,89,Primary School,Left,Male,No,Never Smoked,Positive,Moderate Activity,Yes,2,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.0288455867749205,65,95.4322231816907,37.279079973145,52.0055216574047,Rivastigmine,3.0,90,No School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,2,No,Mediterranean Diet,Poor,Diabetes,1
+1,0.192079429875349,66,99.9020507974562,36.5252502518392,82.2323982583117,Rivastigmine,6.0,66,Secondary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,0,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.0770066297117554,73,92.1613868910126,36.5864316059663,61.4402241857829,Rivastigmine,6.0,71,Secondary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,7,No,Balanced Diet,Good,,1
+1,0.107742246132014,98,90.7901375150099,37.2623603913246,87.2347262659039,Rivastigmine,1.5,79,Diploma/Degree,Left,Male,No,Former Smoker,Positive,Moderate Activity,Yes,6,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.110799945208605,89,92.0171232081564,36.363175880118,50.357746803072,Rivastigmine,3.0,84,Primary School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,Yes,1,No,Mediterranean Diet,Poor,Diabetes,1
+1,0.0607096130660445,78,91.9739332874294,37.4297554224416,69.0647703581789,,,69,Primary School,Right,Male,Yes,Former Smoker,Positive,Sedentary,No,9,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.110547617086814,69,96.7286031039415,36.2694110469183,83.0689868096008,Memantine,5.0,88,Primary School,Left,Male,No,Former Smoker,Positive,Sedentary,No,6,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.117671533728552,98,94.1754301063679,36.136857703638,70.5780465677277,Galantamine,8.0,88,Primary School,Right,Male,No,Never Smoked,Positive,Mild Activity,No,1,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.192037001854337,72,95.3314100379354,36.1733405182464,68.3891242840333,Rivastigmine,6.0,68,No School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,Yes,0,No,Balanced Diet,Poor,Heart Disease,1
+0,0.193842331698263,89,91.134243265602,36.868963510408,75.4611391732233,,,82,Primary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,9,Yes,Mediterranean Diet,Poor,Heart Disease,0
+1,0.165232943130036,65,96.0450418362222,36.9962547174794,73.6185274776184,Rivastigmine,1.5,90,Secondary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,3,No,Low-Carb Diet,Good,Diabetes,1
+0,0.0853887970206886,95,99.7589040450307,37.1138536884313,53.5952021601196,Galantamine,4.0,65,No School,Left,Male,No,Never Smoked,Positive,Sedentary,Yes,5,Yes,Balanced Diet,Poor,Hypertension,1
+0,0.0009490971689677,97,97.0511754513816,36.7843920111108,88.4325515643177,Galantamine,4.0,60,No School,Right,Male,No,Never Smoked,Positive,Mild Activity,No,7,Yes,Mediterranean Diet,Good,,1
+0,0.102662061913496,83,95.7347482930863,37.1485010813889,93.6819711126031,Rivastigmine,3.0,66,Primary School,Right,Male,No,Never Smoked,Positive,Mild Activity,Yes,7,Yes,Low-Carb Diet,Poor,Hypertension,1
+1,0.169327294253865,88,95.0845575384434,36.521340894676,69.4708132869064,Memantine,10.0,84,Primary School,Left,Male,No,Never Smoked,Positive,Moderate Activity,No,3,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.194580656341795,65,97.6756400456027,36.1474495779854,65.0499184634333,,,88,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,10,Yes,Balanced Diet,Poor,Hypertension,0
+1,0.16528735144551,84,96.3968871031861,36.0447063068674,97.4616901967459,Rivastigmine,1.5,89,Primary School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,Yes,6,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.104262520721676,74,97.1934713817584,36.2190585541507,96.8635479115603,,,84,Diploma/Degree,Right,Male,No,Never Smoked,Negative,Mild Activity,No,9,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.0776054064377039,100,97.1813345199786,37.496808622202,86.3778756929523,Rivastigmine,3.0,62,Primary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,Yes,5,Yes,Low-Carb Diet,Poor,Heart Disease,1
+0,0.0254457742133343,76,91.622098545154,36.1687088322662,92.1386762264353,Galantamine,12.0,84,Primary School,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,5,No,Low-Carb Diet,Poor,Hypertension,1
+0,0.164740162643523,64,98.7574805554137,36.7374798603021,93.2660282105353,Galantamine,4.0,86,Primary School,Left,Male,No,Former Smoker,Positive,Mild Activity,Yes,6,Yes,Mediterranean Diet,Poor,,1
+0,0.159123515707156,60,92.2624675618762,36.3181562445426,82.555223678438,Galantamine,8.0,72,No School,Left,Male,No,Never Smoked,Positive,Sedentary,No,1,No,Low-Carb Diet,Good,,1
+1,0.151160915348138,82,97.4892994158615,36.974055718441,79.881123391509,,,68,Primary School,Left,Male,Yes,Former Smoker,Negative,Sedentary,No,8,No,Balanced Diet,Good,Diabetes,0
+1,0.104839184013256,65,94.2947024536788,36.6583990693508,66.753772307331,,,62,No School,Left,Male,No,Former Smoker,Negative,Sedentary,No,10,No,Balanced Diet,Poor,Diabetes,0
+0,0.0524186218969965,80,98.3523744902132,37.1384810715102,93.6908540599836,Donepezil,23.0,81,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,3,No,Mediterranean Diet,Poor,Heart Disease,1
+1,0.098857598381561,71,96.9684302454039,36.7601639694444,91.0452895362401,,,78,Diploma/Degree,Right,Male,Yes,Never Smoked,Negative,Sedentary,No,9,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.0989281310452947,75,99.1497264034026,37.0449858036226,77.6950686872301,Donepezil,5.0,88,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Sedentary,Yes,7,Yes,Low-Carb Diet,Poor,,1
+1,0.095259517571955,100,93.78287585651,36.5413900708719,82.3503359693322,,,68,Diploma/Degree,Right,Male,No,Never Smoked,Negative,Mild Activity,No,10,No,Low-Carb Diet,Good,Diabetes,0
+1,0.025812653871365,72,95.9404475415017,37.2314645809401,62.9271385619861,Memantine,10.0,63,Secondary School,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,7,Yes,Balanced Diet,Poor,Diabetes,1
+1,0.118171347707997,95,97.9564692632278,36.5190338926984,87.1517457940149,,,85,Secondary School,Left,Male,No,Former Smoker,Positive,Sedentary,No,9,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.152818304171322,78,91.5700414128348,37.1472536830824,97.6664744443623,,,73,Primary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,No,10,No,Balanced Diet,Poor,Diabetes,0
+1,0.009927479440716,71,98.0689696512282,36.968406819204,83.4235222113403,Galantamine,12.0,77,Primary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,2,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.0366282726060337,100,93.7032523149905,36.4837605737445,85.6906743225216,Donepezil,10.0,77,Secondary School,Left,Male,No,Never Smoked,Positive,Sedentary,Yes,4,Yes,Balanced Diet,Poor,,1
+1,0.0901600780384059,89,90.1979166893995,36.308170179013,70.2139986888623,,,62,Diploma/Degree,Right,Male,No,Never Smoked,Negative,Moderate Activity,No,9,Yes,Balanced Diet,Good,Diabetes,0
+1,0.117156015190912,93,90.0817690364293,37.3420449712685,53.6642684100434,,,84,Secondary School,Left,Male,No,Never Smoked,Negative,Moderate Activity,No,10,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.185919666481418,62,97.8717655517134,37.0120365694263,64.7155006996838,Donepezil,10.0,65,Primary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,Yes,4,Yes,Low-Carb Diet,Good,,1
+1,0.0240578962673412,81,91.328503958093,37.2022810610349,50.8865508786487,Galantamine,4.0,79,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,6,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.134052133670191,86,94.7207700962524,36.8195166176469,50.2204959199637,Memantine,20.0,60,Primary School,Left,Male,No,Former Smoker,Negative,Moderate Activity,Yes,6,Yes,Balanced Diet,Good,Diabetes,1
+0,0.176299546257803,95,99.0997610440511,37.1965268154411,70.1520784026087,,,83,Secondary School,Right,Male,Yes,Current Smoker,Positive,Mild Activity,No,8,No,Low-Carb Diet,Poor,,0
+1,0.164117317508268,84,90.4236402897073,36.4338851531017,93.1815439759838,,,82,Primary School,Left,Male,No,Never Smoked,Negative,Mild Activity,No,9,Yes,Balanced Diet,Good,Diabetes,0
+1,0.109326008410359,75,90.2315261499822,36.9302094450632,83.9714729950876,Galantamine,12.0,61,No School,Right,Male,No,Never Smoked,Positive,Sedentary,Yes,7,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.0146244373685699,66,90.175270798872,37.4014519739207,78.9855167320154,Memantine,5.0,73,Primary School,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,4,No,Mediterranean Diet,Good,Diabetes,1
+1,0.0606475036828505,72,95.1687500536046,37.0785191029247,77.8468996843061,Memantine,10.0,71,Primary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,4,No,Low-Carb Diet,Good,Diabetes,1
+1,0.166355805262165,76,98.6851719667929,36.4670724065331,70.9108688755044,Galantamine,8.0,81,Secondary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,3,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.0422487937247342,76,97.789621554475,37.1541376608466,60.4691096115374,,,68,Primary School,Left,Male,Yes,Current Smoker,Negative,Moderate Activity,No,10,No,Low-Carb Diet,Poor,Hypertension,0
+0,0.154067707781375,96,92.1314255252957,36.1299427552153,91.2691002880102,,,86,Secondary School,Left,Male,Yes,Never Smoked,Negative,Mild Activity,No,9,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.106636271303077,72,94.7604297850941,36.9488119565157,69.8099217060982,,,81,Secondary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,9,Yes,Balanced Diet,Poor,Hypertension,0
+0,0.163008057558267,62,99.9992302332667,36.989471940987,75.2952173331887,,,83,No School,Right,Male,No,Never Smoked,Positive,Moderate Activity,No,9,Yes,Low-Carb Diet,Poor,Hypertension,0
+0,0.108522632594816,90,97.6863793656588,36.2567952986626,90.609958225434,,,86,Primary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,9,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.069908550876278,77,95.3092119378604,36.4345702759118,65.7002779733371,Galantamine,12.0,88,Secondary School,Right,Male,No,Never Smoked,Positive,Moderate Activity,Yes,5,No,Balanced Diet,Poor,,1
+1,0.0061216492941822,97,94.0440387019472,37.0078000042997,91.5555895934061,,,88,Diploma/Degree,Left,Male,Yes,Never Smoked,Negative,Moderate Activity,No,8,No,Balanced Diet,Poor,Diabetes,0
+1,0.111858243039524,96,90.8785975214813,37.1389682106705,84.9492468664912,Donepezil,23.0,85,Secondary School,Left,Male,Yes,Former Smoker,Negative,Sedentary,No,0,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.180394330115313,63,95.3281087648664,36.2243671392627,58.5606393171769,,,78,No School,Right,Male,No,Never Smoked,Positive,Sedentary,No,10,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.0539327828987734,63,90.2310996086925,36.8489539387719,83.3170666757436,Rivastigmine,1.5,69,Primary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,6,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.0401979872170336,71,99.7890706645192,37.3561554737851,66.8963590123151,Galantamine,4.0,89,Primary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,No,1,No,Low-Carb Diet,Poor,Diabetes,1
+0,0.0340041972326722,68,93.1958429170347,36.2076107444672,71.2856722800064,Galantamine,8.0,71,Secondary School,Left,Male,No,Never Smoked,Positive,Sedentary,No,4,Yes,Low-Carb Diet,Poor,Hypertension,1
+1,0.0043439430189136,80,99.3532921696358,37.3034511089083,89.4995805963797,,,82,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,9,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.0890067353580834,81,95.4475879496988,36.7592099810185,72.5741068344178,,,85,Secondary School,Left,Male,Yes,Former Smoker,Negative,Sedentary,No,8,No,Balanced Diet,Good,Diabetes,0
+1,0.16804437111961,94,95.3135252285399,36.0368892834536,72.702647373293,,,79,Secondary School,Left,Male,No,Former Smoker,Negative,Moderate Activity,No,10,No,Balanced Diet,Poor,Diabetes,0
+0,0.18590945355145,71,92.1879466203573,36.3772045793874,99.3451325117856,Rivastigmine,6.0,88,Secondary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,Yes,6,Yes,Low-Carb Diet,Poor,,1
+0,0.197412690647484,64,98.0593998528035,37.4004171125498,81.9418348143041,,,85,Primary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,9,No,Balanced Diet,Good,,0
+1,0.155399890312551,94,99.7701722119166,37.3679540106325,77.4818620652843,Donepezil,23.0,82,Primary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,5,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.0764025780991135,77,92.1404841753192,37.1164876427411,75.288139025631,Donepezil,23.0,78,Secondary School,Left,Male,No,Former Smoker,Positive,Sedentary,Yes,7,No,Mediterranean Diet,Good,Hypertension,1
+0,0.109915686582208,73,92.7267449094624,37.2407230074161,79.9402277041392,,,80,Secondary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,No,9,No,Mediterranean Diet,Poor,,0
+0,0.193609832635868,74,94.1183886786324,37.1897569394471,50.8954289170561,,,87,No School,Left,Male,Yes,Never Smoked,Negative,Mild Activity,No,10,No,Low-Carb Diet,Poor,Heart Disease,0
+0,0.0744458393088579,79,91.0848938846127,36.5933836754823,58.8095020960094,,,86,No School,Left,Male,Yes,Former Smoker,Negative,Sedentary,No,10,No,Balanced Diet,Poor,Hypertension,0
+1,0.0362512866646881,82,90.6077400234481,36.1737686509875,61.4931377138828,Donepezil,10.0,80,Primary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,No,1,No,Low-Carb Diet,Good,Diabetes,1
+0,0.043466408027603,84,98.8507859422909,37.0938286212347,59.1182207311229,Memantine,5.0,76,Primary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,Yes,3,Yes,Low-Carb Diet,Good,Heart Disease,1
+0,0.111306113502373,90,97.9476274044267,36.9729399816158,71.3006888774999,Galantamine,8.0,88,Primary School,Right,Male,No,Never Smoked,Positive,Sedentary,Yes,2,Yes,Balanced Diet,Good,,1
+0,0.0654420087012116,87,91.4379144503083,36.7819662626479,81.0557768528753,,,72,Secondary School,Left,Male,Yes,Never Smoked,Negative,Sedentary,No,8,Yes,Mediterranean Diet,Poor,Heart Disease,0
+1,0.0930056283333208,81,92.7567952180361,36.2560237047815,92.3851749829219,,,81,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,10,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.0070898869296555,97,99.620308405557,36.51354263187,75.4272220927008,,,79,No School,Right,Male,No,Never Smoked,Positive,Mild Activity,No,9,No,Low-Carb Diet,Good,,0
+0,0.168875562492901,91,99.5411967203334,36.9117353239746,75.1238429341697,Rivastigmine,3.0,68,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,3,No,Balanced Diet,Good,,1
+0,0.124807689335001,97,99.6527951994179,37.0599760787483,55.0257115558469,Rivastigmine,3.0,60,Secondary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,Yes,7,No,Mediterranean Diet,Good,Hypertension,1
+1,0.18178174684768,88,94.1300366160062,37.1438231286126,74.8976823033184,,,65,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,10,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.0056706501581665,62,94.8725938704974,36.6563904688081,53.1387325970165,Rivastigmine,1.5,79,No School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,Yes,7,Yes,Mediterranean Diet,Good,Diabetes,1
+0,0.10001655392006,72,96.7823483750857,36.7683059947754,74.7915429691866,Rivastigmine,1.5,71,Secondary School,Right,Male,No,Never Smoked,Positive,Moderate Activity,Yes,4,No,Balanced Diet,Good,,1
+1,0.0455580652362274,82,95.3272520019362,36.3375685566572,56.7763941999563,,,85,Diploma/Degree,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.0144544186393286,99,97.4454700091284,36.9290790726006,77.8622870996722,,,83,Diploma/Degree,Left,Male,No,Former Smoker,Negative,Sedentary,No,10,Yes,Balanced Diet,Poor,Hypertension,0
+1,0.0276077793646401,64,97.3614218684974,36.4643055648207,84.8077483880753,,,80,Diploma/Degree,Right,Male,Yes,Former Smoker,Negative,Sedentary,No,8,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.179110270483797,70,91.7966658463749,37.0699851218824,77.1969291124709,,,73,Secondary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,8,Yes,Low-Carb Diet,Poor,Diabetes,0
+1,0.0611036908150863,95,96.1693381677131,36.2744686742496,51.3899010136749,,,83,Secondary School,Left,Male,No,Never Smoked,Negative,Moderate Activity,No,9,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0012257278491583,84,97.4530212255524,37.0442387597483,74.0968104815989,Donepezil,23.0,61,Primary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,5,No,Balanced Diet,Good,,1
+0,0.187115668187237,75,98.6987487204128,36.7813944699582,76.6540521924923,,,71,Primary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,9,Yes,Mediterranean Diet,Poor,Hypertension,0
+1,0.0146211604559963,77,93.7608780073423,36.5531772404695,87.5589488506146,Galantamine,12.0,65,Diploma/Degree,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,7,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.123342795202041,93,90.7431804746243,36.349124484222,77.7754652088741,Donepezil,10.0,70,Secondary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,Yes,0,No,Mediterranean Diet,Poor,,1
+1,0.149198542090566,60,94.5837329724156,37.2426065670093,83.72262655613,Rivastigmine,3.0,80,No School,Left,Male,No,Never Smoked,Positive,Mild Activity,Yes,1,No,Low-Carb Diet,Good,Diabetes,1
+0,0.114736951168485,70,98.3032699721741,36.9717835712083,97.2760449051611,,,81,Primary School,Left,Male,Yes,Former Smoker,Negative,Mild Activity,No,10,No,Mediterranean Diet,Good,Heart Disease,0
+0,0.0125448245323636,84,93.4467064139087,36.1755655231603,56.0790987603902,Galantamine,12.0,67,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,Yes,7,No,Mediterranean Diet,Good,Heart Disease,1
+1,0.174243775436071,60,97.1836968778495,37.358624331102,65.8165740777248,Memantine,10.0,88,Primary School,Left,Male,Yes,Never Smoked,Negative,Moderate Activity,No,2,Yes,Balanced Diet,Good,Diabetes,1
+1,0.0443262387884207,71,96.3869989226852,36.2965978207938,95.9079115995119,,,80,No School,Right,Male,No,Never Smoked,Positive,Mild Activity,No,8,Yes,Balanced Diet,Good,Diabetes,0
+0,0.126028875351178,73,95.8478110451672,36.1235136803524,76.4835773218441,Galantamine,12.0,66,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,2,Yes,Low-Carb Diet,Good,,1
+1,0.0639659860321628,73,98.0522075555663,36.6375427013497,81.5503012827979,,,70,Primary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,No,10,Yes,Balanced Diet,Good,Diabetes,0
+1,0.169271919731555,65,95.3812709082119,37.494522769924,79.8123520067291,Donepezil,5.0,68,Primary School,Left,Male,No,Never Smoked,Negative,Mild Activity,Yes,7,No,Balanced Diet,Poor,Diabetes,1
+1,0.0712339213966552,97,97.9697703547585,37.3320457234554,60.7736901982306,,,83,Secondary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,9,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.0099447477814053,60,90.1819777938102,36.4783181161541,64.6439465899343,,,72,Secondary School,Right,Male,Yes,Never Smoked,Negative,Moderate Activity,No,9,Yes,Balanced Diet,Poor,Hypertension,0
+0,0.0463598062955869,85,95.584348225274,37.0324945551405,62.1970454795607,Rivastigmine,6.0,81,Primary School,Right,Male,No,Former Smoker,Positive,Sedentary,Yes,6,Yes,Balanced Diet,Good,,1
+1,0.0439931284031529,71,91.6875498332229,36.8351642536935,80.6280897216603,Rivastigmine,1.5,63,No School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,5,No,Balanced Diet,Good,Diabetes,1
+1,0.137059110363483,62,91.0654491819714,37.1100268963113,62.4552817231021,,,85,Diploma/Degree,Right,Male,Yes,Current Smoker,Positive,Sedentary,No,8,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.0942162783587418,89,90.4517577601328,36.3048512220747,95.990613596512,,,71,Diploma/Degree,Left,Male,No,Former Smoker,Negative,Moderate Activity,No,10,No,Low-Carb Diet,Poor,Hypertension,0
+1,0.176983573298002,95,96.6604562458245,36.5263499340432,72.8869840110091,,,62,Diploma/Degree,Right,Male,No,Never Smoked,Negative,Sedentary,No,8,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.0813488043254918,76,96.5782489481331,36.5638214648806,66.0606843852815,,,72,Diploma/Degree,Right,Male,No,Former Smoker,Positive,Mild Activity,No,8,No,Low-Carb Diet,Good,Hypertension,0
+1,0.17949537624568,89,90.6978556956816,36.1693995025981,69.5637795489294,,,70,Primary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,8,No,Balanced Diet,Poor,Diabetes,0
+0,0.112701540910249,74,91.9498579799502,36.9610891201414,52.7339999216461,Rivastigmine,6.0,79,Diploma/Degree,Right,Male,No,Never Smoked,Positive,Sedentary,Yes,0,No,Mediterranean Diet,Poor,Hypertension,1
+0,0.15380923752926,72,94.6745868239444,36.5994332406788,54.6427476728339,Galantamine,8.0,65,Secondary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,4,Yes,Low-Carb Diet,Good,Hypertension,1
+0,0.0990670803482141,79,94.5828913567997,36.5163923349624,62.9259997291493,,,81,No School,Right,Male,Yes,Former Smoker,Negative,Moderate Activity,No,10,Yes,Mediterranean Diet,Poor,Heart Disease,0
+1,0.0967290490061542,79,97.852858208083,36.7102244534833,76.1333515497748,Donepezil,10.0,82,Primary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,7,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.0286719222836122,80,95.8623038616014,36.3362070443534,90.1674607998617,Galantamine,8.0,71,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,Yes,1,Yes,Mediterranean Diet,Good,Diabetes,1
+1,0.0154852213662184,88,90.4207563159877,37.3986182901488,57.2465080469638,Donepezil,5.0,70,Secondary School,Left,Male,No,Former Smoker,Positive,Sedentary,No,7,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.176745524316908,74,96.7695726529475,36.3156976915934,70.7247330510785,Donepezil,5.0,63,No School,Right,Male,Yes,Never Smoked,Positive,Sedentary,Yes,7,No,Low-Carb Diet,Poor,Diabetes,1
+0,0.145392531884083,84,97.3089863536678,36.1483051374717,69.651309911994,,,67,Secondary School,Right,Male,Yes,Never Smoked,Negative,Sedentary,No,8,Yes,Balanced Diet,Good,,0
+1,0.160467137806734,71,93.2716867186725,36.0547797237934,98.1974970009141,Galantamine,12.0,75,Secondary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,1,No,Low-Carb Diet,Good,Diabetes,1
+1,0.1760390845447,79,99.3684395224056,37.1257684578118,84.1329839173768,Memantine,10.0,74,Secondary School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,2,No,Mediterranean Diet,Good,Diabetes,1
+0,0.0226070536522936,100,95.9380404969435,36.8462728899683,84.224878817116,,,89,Primary School,Left,Male,Yes,Current Smoker,Positive,Sedentary,No,9,No,Mediterranean Diet,Good,Heart Disease,0
+0,0.0360231374496919,92,99.0531100602968,36.875880364029,54.8917376445889,Rivastigmine,1.5,66,Diploma/Degree,Right,Male,No,Never Smoked,Positive,Moderate Activity,Yes,7,No,Mediterranean Diet,Poor,,1
+1,0.149862326086532,95,96.6296311149063,36.2244371691363,85.6153117012037,,,72,Primary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,8,No,Low-Carb Diet,Good,Diabetes,0
+0,0.0728287400005454,96,99.3192748639276,36.3444877072641,93.0000607362621,,,87,Primary School,Left,Male,No,Never Smoked,Positive,Sedentary,No,8,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.197872359143423,71,95.6212967448987,36.1412607456984,68.3665576192338,,,84,Secondary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,10,No,Low-Carb Diet,Poor,,0
+0,0.0314244767035741,100,90.49417835198,36.3954806401636,65.5747216021181,Galantamine,12.0,73,No School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,5,Yes,Balanced Diet,Good,,1
+0,0.193818577775354,76,95.7823460717115,37.0904155036388,99.5195381056875,Memantine,20.0,78,No School,Right,Male,No,Former Smoker,Negative,Moderate Activity,No,4,No,Low-Carb Diet,Poor,Hypertension,1
+0,0.0680130423785518,83,96.4662921782346,36.1978460739416,53.8913810454727,,,86,Secondary School,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,8,No,Mediterranean Diet,Good,,0
+0,0.109790436566639,97,93.0957500935893,36.654113637978,83.8131615727713,,,72,Secondary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,10,Yes,Balanced Diet,Good,Hypertension,0
+0,0.127969667694956,62,95.1365092989247,37.2197433658914,97.1350702938332,,,75,Secondary School,Right,Male,Yes,Never Smoked,Negative,Moderate Activity,No,9,No,Balanced Diet,Good,,0
+1,0.0369174102489014,60,92.0595785289674,36.4494588374563,80.8742353969021,,,79,Diploma/Degree,Left,Male,No,Never Smoked,Negative,Sedentary,No,8,No,Balanced Diet,Poor,Diabetes,0
+0,0.13405386131971,69,97.8531882941047,36.5187745376403,56.3187746288233,,,65,Secondary School,Left,Male,Yes,Current Smoker,Positive,Sedentary,No,10,No,Balanced Diet,Poor,,0
+1,0.0884969634170129,95,99.6042457984026,36.5016427346562,79.6174876898641,,,69,No School,Right,Male,Yes,Former Smoker,Negative,Mild Activity,No,9,Yes,Mediterranean Diet,Poor,Diabetes,0
+0,0.168381922131046,61,98.600417308584,36.6878681144022,60.7103221205329,,,84,Primary School,Right,Male,No,Never Smoked,Negative,Mild Activity,No,8,Yes,Low-Carb Diet,Good,,0
+1,0.0739020908331132,87,97.3675393043662,36.8157929490349,91.7677968911918,Donepezil,10.0,87,Secondary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,5,Yes,Low-Carb Diet,Good,Diabetes,1
+0,0.14030189273112,90,96.4943168906229,37.3010269806749,69.9343078894445,Memantine,20.0,61,Secondary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,Yes,7,No,Low-Carb Diet,Poor,Heart Disease,1
+1,0.091374369881611,98,96.7051141635524,37.1783205825381,56.1930606264462,,,64,Secondary School,Left,Male,No,Never Smoked,Positive,Sedentary,No,10,No,Balanced Diet,Good,Diabetes,0
+1,0.155479816485556,95,97.1664245796959,36.5977794438178,54.6824004925508,,,87,Primary School,Right,Male,No,Never Smoked,Negative,Moderate Activity,No,10,No,Balanced Diet,Poor,Diabetes,0
+0,0.14610965540991,71,91.3270983960551,37.4923418773944,69.6229623917318,Memantine,5.0,68,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,4,No,Balanced Diet,Good,Hypertension,1
+1,0.0366978569970823,60,94.8149583969996,37.2606500116668,53.6514268283492,Galantamine,12.0,83,Diploma/Degree,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,3,Yes,Balanced Diet,Good,Diabetes,1
+0,0.187261790536362,86,94.173521538818,37.3417259800121,58.1248811094625,,,79,No School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,Yes,Mediterranean Diet,Poor,Hypertension,0
+0,0.16690252595844,64,99.1444441252424,36.8844112926667,88.392599744901,,,85,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,10,No,Balanced Diet,Good,Hypertension,0
+1,0.0169713232117061,95,92.5523161064213,36.200687905309,89.5739337539523,Rivastigmine,3.0,62,Primary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,1,Yes,Mediterranean Diet,Good,Diabetes,1
+1,0.0176810785836722,88,93.3162922641336,36.3084764266591,84.775792352762,,,89,Secondary School,Left,Male,No,Former Smoker,Negative,Mild Activity,No,9,No,Mediterranean Diet,Poor,Diabetes,0
+1,0.0589327397499617,65,95.7914107815413,36.9660383837431,74.2795786569169,Galantamine,4.0,70,No School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,2,No,Balanced Diet,Poor,Diabetes,1
+1,0.043775107213488,88,98.3364720257003,36.4981934615539,53.520429454458,Donepezil,5.0,86,Primary School,Left,Male,Yes,Former Smoker,Positive,Mild Activity,Yes,1,No,Mediterranean Diet,Good,Diabetes,1
+0,0.0617174333942108,60,90.3961272133511,36.4658929767266,52.8308130770869,,,71,Secondary School,Right,Male,No,Former Smoker,Negative,Mild Activity,No,9,No,Low-Carb Diet,Poor,Hypertension,0
+0,0.0311373653738743,92,99.3458114399106,36.5294665385461,66.7458713819508,,,61,Primary School,Right,Male,Yes,Former Smoker,Negative,Moderate Activity,No,9,No,Mediterranean Diet,Poor,Hypertension,0
+0,0.10039841413265,99,93.2697083765696,36.5751060142168,66.5859430018344,Memantine,10.0,70,Secondary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,6,Yes,Mediterranean Diet,Good,,1
+0,0.0900954444577362,86,96.169896906522,37.0772612831332,71.3300461781243,,,71,No School,Right,Male,Yes,Current Smoker,Negative,Sedentary,No,8,Yes,Balanced Diet,Poor,,0
+1,0.0513444905953173,92,96.120679793025,37.1762750880188,63.0099285511886,Rivastigmine,1.5,77,No School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,5,Yes,Balanced Diet,Good,Diabetes,1
+0,0.161200817098893,79,93.0664707978475,37.4438490569552,78.5066924362227,Rivastigmine,1.5,73,Primary School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,3,Yes,Balanced Diet,Poor,Heart Disease,1
+1,0.0468235898227844,94,99.3698308679569,36.4005724099863,58.7220174681679,,,85,No School,Left,Male,No,Current Smoker,Positive,Mild Activity,No,10,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.198356055958443,80,94.3527313568126,37.2695976130508,51.8052087173589,Memantine,5.0,74,No School,Left,Male,No,Former Smoker,Positive,Mild Activity,Yes,3,No,Low-Carb Diet,Good,Diabetes,1
+1,0.0240647866747782,90,90.9147524421899,36.0711270586909,92.030980976716,Rivastigmine,1.5,85,Primary School,Right,Male,No,Former Smoker,Positive,Mild Activity,Yes,3,Yes,Balanced Diet,Good,Diabetes,1
+1,0.0469130012848775,68,97.0636764539626,36.6033798859101,85.0570979252704,,,89,Secondary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,8,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.0638873485047104,62,91.9287808651892,36.0311829116724,68.2572736554991,Donepezil,23.0,90,No School,Right,Male,No,Never Smoked,Positive,Sedentary,Yes,2,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.0461121992121015,91,94.1147232759578,36.00565324043,52.8999076463308,Memantine,5.0,82,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,1,Yes,Balanced Diet,Poor,Hypertension,1
+0,0.166485564916164,98,97.0176405962167,36.7746609115143,61.1423209720544,Memantine,10.0,87,Primary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,No,4,Yes,Low-Carb Diet,Poor,Heart Disease,1
+0,0.164632310836261,91,96.6246454823698,37.1910710549294,66.8763948294268,,,83,Primary School,Right,Male,No,Former Smoker,Negative,Moderate Activity,No,10,No,Low-Carb Diet,Good,,0
+0,0.17420051569294,62,92.9407521953102,36.9541780302357,84.6235890192511,Galantamine,8.0,66,Primary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,Yes,3,No,Low-Carb Diet,Good,,1
+1,0.0252922304345546,99,92.6937554246248,36.9408616511035,60.4107772973327,Rivastigmine,6.0,84,No School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,3,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.0198567348527076,91,94.9861904187289,36.5123733491495,63.083990006761,,,72,Secondary School,Right,Male,No,Never Smoked,Negative,Mild Activity,No,10,No,Balanced Diet,Poor,Diabetes,0
+0,0.0353576194343781,68,98.6106209883949,37.317899799459,66.7578674118582,,,69,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,8,No,Balanced Diet,Poor,Hypertension,0
+0,0.113553371411411,86,95.4528655043663,36.4363566493938,92.6442041194069,Galantamine,4.0,89,Diploma/Degree,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,7,Yes,Low-Carb Diet,Poor,Heart Disease,1
+0,0.0780712128684593,89,90.6718434300862,37.4731307941648,98.8601367933874,Rivastigmine,3.0,61,Diploma/Degree,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,3,Yes,Mediterranean Diet,Poor,Hypertension,1
+1,0.14076703548291,77,99.9709850236228,36.5382470027103,92.9116689851477,Galantamine,8.0,88,Primary School,Right,Male,Yes,Former Smoker,Positive,Sedentary,No,5,No,Mediterranean Diet,Poor,Diabetes,1
+1,0.0691489584089245,78,90.0466609962089,36.4419611029834,90.8789220402627,,,87,Primary School,Left,Male,No,Never Smoked,Negative,Mild Activity,No,9,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.164236573810108,99,98.8071889035612,36.2013747627046,74.8300511940812,,,67,Secondary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,10,No,Balanced Diet,Good,Diabetes,0
+1,0.0669277006428171,80,96.643748516577,36.7959594122153,52.4175249440735,,,85,Primary School,Left,Male,No,Never Smoked,Negative,Sedentary,No,9,No,Mediterranean Diet,Good,Diabetes,0
+1,0.198797158917047,71,98.3378350260487,37.0188211277199,59.1410433751153,Rivastigmine,3.0,63,Secondary School,Right,Male,No,Never Smoked,Negative,Sedentary,No,6,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.0922995078099142,64,91.2635932896712,36.8689008851579,72.9898771207507,,,71,Primary School,Right,Male,No,Current Smoker,Negative,Sedentary,No,10,No,Low-Carb Diet,Good,Diabetes,0
+0,0.172895000849441,63,91.3641272789713,37.0867468639349,69.6477623432913,,,65,Diploma/Degree,Right,Male,No,Never Smoked,Negative,Moderate Activity,No,10,No,Balanced Diet,Poor,Heart Disease,0
+1,0.0304610403863013,87,98.3867605491983,37.4622846598708,93.2462556659036,Donepezil,23.0,66,No School,Left,Male,No,Former Smoker,Positive,Moderate Activity,Yes,5,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.157457167806532,87,93.120103245008,37.2556147040561,98.3634581951535,Rivastigmine,3.0,78,Primary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,Yes,4,No,Balanced Diet,Good,Diabetes,1
+0,0.0614361943322105,67,98.7317273164659,37.0358055420014,66.4717384357637,Donepezil,23.0,66,Primary School,Left,Male,No,Former Smoker,Positive,Sedentary,No,7,Yes,Mediterranean Diet,Good,,1
+0,0.141927768236256,77,90.6435212642528,36.5340089182288,68.0896275744392,,,90,Primary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,10,No,Mediterranean Diet,Poor,Hypertension,0
+1,0.0851334821248304,77,91.8880923815662,37.2404629224936,88.4415826011478,Memantine,20.0,79,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,5,No,Mediterranean Diet,Poor,Diabetes,1
+1,0.151787091382164,99,94.6050102741597,37.4428094130826,61.9921671851648,Donepezil,10.0,66,Secondary School,Right,Male,Yes,Former Smoker,Negative,Mild Activity,Yes,1,Yes,Balanced Diet,Good,Diabetes,1
+1,0.0290361235047282,83,95.9554475465258,37.3835582527359,90.7516531261545,,,61,No School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,9,Yes,Balanced Diet,Good,Diabetes,0
+1,0.0606292555578182,82,93.1762022634703,37.2810237157958,57.282470125924,,,61,Secondary School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,8,No,Balanced Diet,Good,Diabetes,0
+0,0.0972011370470775,90,95.6246857030176,36.6054863831226,61.5926674258636,Galantamine,12.0,73,Primary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,0,No,Balanced Diet,Good,Heart Disease,1
+0,0.0780837281245731,75,94.0209052734902,36.5912110644491,50.7175293387282,Donepezil,23.0,82,Secondary School,Right,Male,Yes,Former Smoker,Positive,Sedentary,No,7,Yes,Low-Carb Diet,Poor,Hypertension,1
+1,0.0960867898767213,97,93.5766304455686,36.8638698752469,58.6680540515906,Galantamine,12.0,67,Secondary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,5,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.121597339566771,89,98.4985865147579,36.2538453812189,53.6537863148374,,,77,Primary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,8,Yes,Low-Carb Diet,Good,,0
+0,0.0227396854870435,66,93.1617848853001,36.8699086023235,78.7801112670677,,,86,Secondary School,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,9,No,Low-Carb Diet,Poor,,0
+1,0.18121015687993,91,91.4800572699085,36.8759378479681,88.1027807759168,Memantine,10.0,62,Secondary School,Left,Male,Yes,Former Smoker,Negative,Sedentary,Yes,2,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.030648071330322,92,92.7422619138037,36.0681563038865,85.8057185037672,,,81,Secondary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,8,No,Mediterranean Diet,Poor,,0
+1,0.0535815737821317,74,92.2553882975388,36.6701903022821,89.4915284850785,Memantine,5.0,79,Primary School,Right,Male,No,Former Smoker,Positive,Sedentary,No,1,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.052910887158511,78,93.4554682888558,37.3213419267527,65.5840825516828,,,86,Secondary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,9,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.184055293534205,68,90.6330769986679,37.1321022381128,81.3573795698025,Donepezil,23.0,61,Secondary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,Yes,3,No,Balanced Diet,Poor,Diabetes,1
+1,0.157157261137723,100,93.7378917111098,36.6396052718515,61.350194338239,,,86,Primary School,Right,Male,Yes,Current Smoker,Positive,Sedentary,No,9,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.176234043432135,82,92.7788081201801,36.1515504195188,57.2730129440941,,,81,Secondary School,Left,Male,Yes,Former Smoker,Negative,Moderate Activity,No,9,Yes,Low-Carb Diet,Poor,Hypertension,0
+1,0.157838442956961,68,96.9656175763311,37.1680825178171,92.0933936716789,Rivastigmine,1.5,82,Primary School,Left,Male,No,Never Smoked,Negative,Mild Activity,Yes,5,Yes,Balanced Diet,Good,Diabetes,1
+0,0.064752788011596,82,93.9638776563389,36.5677685939974,95.2073918348089,,,69,Diploma/Degree,Right,Male,No,Current Smoker,Positive,Moderate Activity,No,10,Yes,Mediterranean Diet,Poor,,0
+0,0.17322468192503,80,97.8510795171465,36.488018444421,80.9598711741616,,,73,No School,Right,Male,Yes,Current Smoker,Negative,Sedentary,No,8,No,Balanced Diet,Poor,Heart Disease,0
+0,0.0680149434677844,73,90.2144143328249,36.2758860522307,71.707628189917,,,82,Primary School,Right,Male,No,Former Smoker,Negative,Sedentary,No,10,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.0846831672484171,97,99.3494115071144,37.4384157696001,87.5452214334121,Donepezil,10.0,87,Secondary School,Right,Male,No,Never Smoked,Positive,Moderate Activity,No,5,No,Low-Carb Diet,Poor,Heart Disease,1
+0,0.0906925154015915,73,93.4373248124734,37.2314629483461,57.0170712792958,Donepezil,10.0,90,Diploma/Degree,Right,Male,Yes,Former Smoker,Negative,Mild Activity,No,1,No,Low-Carb Diet,Good,,1
+1,0.180939725752181,62,99.0838481173536,36.849016260457,54.5693289163736,Memantine,5.0,61,Primary School,Left,Male,No,Never Smoked,Negative,Moderate Activity,No,3,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.0326644516983357,64,97.1610480656768,36.1475099380016,67.6033638697983,,,86,Secondary School,Right,Male,Yes,Current Smoker,Positive,Moderate Activity,No,10,Yes,Balanced Diet,Poor,,0
+1,0.0617510325349471,87,91.1251495157936,37.4171254639532,59.7412940774133,Galantamine,12.0,60,Primary School,Left,Male,Yes,Never Smoked,Negative,Moderate Activity,Yes,4,No,Balanced Diet,Good,Diabetes,1
+0,0.0843848166801219,81,90.0106767658751,36.5054791589675,51.6209432044747,Memantine,5.0,87,Primary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,Yes,6,No,Mediterranean Diet,Poor,,1
+0,0.151859616925071,91,92.5149640479959,37.0324987671085,53.2843425650157,Donepezil,23.0,78,No School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,Yes,2,Yes,Balanced Diet,Good,Heart Disease,1
+1,0.110573479572676,70,97.5853637328908,37.1883981094477,89.1284244243928,,,89,No School,Right,Male,Yes,Former Smoker,Negative,Mild Activity,No,10,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.118919086743502,99,94.4671326578574,36.0021080686535,96.2328309242073,,,63,Secondary School,Right,Male,Yes,Never Smoked,Negative,Sedentary,No,10,Yes,Mediterranean Diet,Poor,,0
+1,0.0592025462202215,100,97.7734611688391,36.2680652790446,77.0528720206803,Memantine,5.0,89,Secondary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,No,6,Yes,Balanced Diet,Poor,Diabetes,1
+1,0.0814044783337384,79,91.4033215910567,36.3159751062398,95.4719699386518,,,83,Diploma/Degree,Left,Male,No,Former Smoker,Negative,Moderate Activity,No,8,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.0613626151189278,63,99.9277430115975,36.9378554075965,72.5165352680032,,,79,Diploma/Degree,Left,Male,No,Current Smoker,Positive,Moderate Activity,No,8,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.0544441886150523,87,97.4191160082234,36.8723063026014,89.8265128016296,,,68,Primary School,Left,Male,Yes,Former Smoker,Negative,Sedentary,No,10,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.156122362757568,82,95.398890425042,37.1877882179917,96.8687604118589,Rivastigmine,3.0,81,Secondary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,2,No,Mediterranean Diet,Good,Hypertension,1
+1,0.0368972813122524,80,90.0261903145479,36.9488544597505,89.360689251985,,,67,Primary School,Left,Male,Yes,Current Smoker,Positive,Sedentary,No,9,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.180274050290545,99,98.9592223243638,36.4467641913469,97.1761412191439,,,89,No School,Right,Male,Yes,Current Smoker,Negative,Sedentary,No,10,Yes,Balanced Diet,Good,,0
+0,0.0218075038416609,89,96.1928821845962,37.0603192144754,87.0898539149199,,,86,No School,Left,Male,No,Never Smoked,Positive,Moderate Activity,No,8,No,Mediterranean Diet,Good,Hypertension,0
+1,0.108661557885868,69,94.7348355372094,37.4017321364926,54.3180505911164,Rivastigmine,3.0,87,Primary School,Left,Male,Yes,Former Smoker,Positive,Sedentary,No,2,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.138955913375364,73,97.529800769507,37.3430486701999,69.6624082001926,,,81,Secondary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,9,Yes,Mediterranean Diet,Poor,Diabetes,0
+0,0.186321229920374,83,95.1770737859582,36.8069332929149,79.3841144571368,,,76,Secondary School,Right,Male,No,Current Smoker,Negative,Mild Activity,No,9,No,Mediterranean Diet,Poor,,0
+0,0.163544395902042,69,91.9511384004353,37.4561557372007,70.0459200521738,,,89,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,No,Mediterranean Diet,Poor,Hypertension,0
+1,0.129840567281421,65,98.9046123470062,36.8356785965405,65.9568056894306,Memantine,20.0,72,Secondary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,5,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0417478548570964,92,96.8841985708732,36.8328487643812,61.926781945402,Memantine,20.0,87,Diploma/Degree,Right,Male,No,Never Smoked,Positive,Mild Activity,Yes,6,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.187833257798587,67,93.1320273001411,36.5410374147917,70.0315282272708,,,79,Secondary School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,No,Low-Carb Diet,Poor,Hypertension,0
+0,0.166430138779731,64,94.9257849355959,37.3479072450975,96.7965774723071,,,85,Primary School,Right,Male,No,Former Smoker,Negative,Moderate Activity,No,10,No,Mediterranean Diet,Poor,Heart Disease,0
+1,0.126880930394439,81,97.2005434920109,37.0302272414528,58.7801477737922,Donepezil,5.0,72,Secondary School,Right,Male,No,Never Smoked,Positive,Moderate Activity,Yes,0,No,Mediterranean Diet,Good,Diabetes,1
+1,0.0081742402430817,72,94.3774161524522,36.3467272446348,56.4179046345105,,,84,Primary School,Left,Male,No,Former Smoker,Negative,Sedentary,No,9,No,Mediterranean Diet,Good,Diabetes,0
+0,0.113855927383062,77,96.7511935593664,36.4198677747848,51.2451060478415,,,70,Primary School,Right,Male,No,Never Smoked,Positive,Moderate Activity,No,9,No,Low-Carb Diet,Good,Heart Disease,0
+0,0.149300511666714,95,94.5994153599455,37.472932107177,87.6927478699505,,,66,Secondary School,Right,Male,Yes,Never Smoked,Negative,Moderate Activity,No,10,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.129596028651755,61,90.5955944865166,37.3074729432584,95.1948699418962,,,86,Diploma/Degree,Right,Male,No,Former Smoker,Negative,Moderate Activity,No,9,No,Low-Carb Diet,Good,,0
+0,0.139309759967601,97,93.4064785002946,36.4034809144518,85.8147672941096,,,67,Primary School,Left,Male,No,Current Smoker,Positive,Sedentary,No,10,Yes,Mediterranean Diet,Good,Hypertension,0
+1,0.188017737515308,100,94.8258974616722,36.3368570069528,78.4475938752099,,,68,Secondary School,Right,Male,No,Current Smoker,Positive,Mild Activity,No,9,No,Mediterranean Diet,Good,Diabetes,0
+1,0.0366543174459976,80,94.3814701440097,37.3051622505482,53.0846630925983,,,66,Primary School,Right,Male,No,Current Smoker,Negative,Moderate Activity,No,8,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.130586837772322,62,98.6924268569932,36.0325558157615,65.154724460562,,,64,Primary School,Right,Male,No,Current Smoker,Negative,Moderate Activity,No,8,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.019633423954905,64,93.373465569263,36.8976807928551,90.578733744327,Donepezil,23.0,86,Primary School,Left,Male,Yes,Never Smoked,Negative,Mild Activity,No,1,No,Low-Carb Diet,Poor,Hypertension,1
+1,0.005629367753832,67,90.0823834586931,36.3513199807575,74.8308336842405,,,85,Secondary School,Right,Male,Yes,Former Smoker,Positive,Mild Activity,No,10,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.0505903580064035,62,97.6095676340043,37.178259405957,88.7788352625728,Galantamine,4.0,61,Primary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,Yes,7,Yes,Mediterranean Diet,Good,Heart Disease,1
+0,0.160531714722101,68,94.3676310855255,36.9526877164501,95.2614592985356,,,89,Secondary School,Right,Male,Yes,Current Smoker,Negative,Mild Activity,No,9,Yes,Mediterranean Diet,Good,,0
+0,0.107778871608387,85,91.122884728372,36.5578845182775,60.0610050099545,,,81,Diploma/Degree,Right,Male,Yes,Former Smoker,Positive,Sedentary,No,10,No,Low-Carb Diet,Poor,,0
+0,0.180760876948428,60,94.0842375994384,36.8497931342554,54.0092341680627,Rivastigmine,1.5,81,No School,Right,Male,No,Never Smoked,Positive,Mild Activity,Yes,3,Yes,Balanced Diet,Good,Heart Disease,1
+0,0.151706122428441,60,90.9685770535109,37.2687838783113,97.313149622053,Donepezil,23.0,63,Secondary School,Left,Male,No,Former Smoker,Positive,Mild Activity,No,2,Yes,Balanced Diet,Good,Hypertension,1
+1,0.0750590408929428,72,91.2290577544969,37.2688671859544,64.7569718810453,Donepezil,23.0,80,Primary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,6,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.0389427359564224,64,96.6751182565662,36.2472310501446,74.3898842003213,,,81,Secondary School,Left,Male,Yes,Former Smoker,Negative,Sedentary,No,9,No,Balanced Diet,Good,Heart Disease,0
+0,0.0345610774545171,82,99.387029128388,36.5523413653279,78.7677239128841,,,67,Primary School,Left,Male,No,Former Smoker,Negative,Sedentary,No,8,No,Balanced Diet,Poor,Heart Disease,0
+1,0.189534714808615,67,98.5669333027116,37.1640801902122,51.3697230330478,,,71,Primary School,Right,Male,Yes,Current Smoker,Negative,Moderate Activity,No,8,No,Mediterranean Diet,Good,Diabetes,0
+0,0.13568962050802,67,98.2918515421752,36.2187906020193,92.5394229082638,,,82,No School,Left,Male,Yes,Former Smoker,Negative,Moderate Activity,No,10,No,Low-Carb Diet,Poor,Hypertension,0
+1,0.0868224265328437,99,98.8829564452359,37.4095737227459,62.6115080784677,,,80,Primary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,9,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.17100783347361,75,90.8730198733199,36.037807003996,97.5871046216,,,74,Primary School,Left,Male,Yes,Current Smoker,Positive,Moderate Activity,No,10,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.171762235285642,97,97.5562826895084,36.4754533519856,95.702982523786,Donepezil,5.0,82,Secondary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,Yes,0,No,Mediterranean Diet,Poor,Hypertension,1
+1,0.165956974336443,92,99.7050048922122,36.9118882162607,68.4913201776178,,,71,Primary School,Right,Male,No,Current Smoker,Negative,Mild Activity,No,8,Yes,Low-Carb Diet,Poor,Diabetes,0
+1,0.13171792598773,60,91.5816716625878,37.27938446577,76.8419295391728,,,71,Primary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,8,Yes,Balanced Diet,Good,Diabetes,0
+1,0.160818192385019,78,99.8719339400809,37.1689619695766,71.9738882203627,,,62,Primary School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.0624685437122015,81,92.2381584475015,37.0825771888343,69.7661220799819,,,70,Primary School,Left,Male,Yes,Never Smoked,Positive,Sedentary,No,9,Yes,Mediterranean Diet,Poor,,0
+1,0.0713221269607414,83,93.6214141386767,36.533064768169,82.2536558865958,,,89,Primary School,Left,Male,No,Former Smoker,Negative,Mild Activity,No,8,No,Balanced Diet,Good,Diabetes,0
+0,0.186351684971584,90,94.3261661672056,36.1071148303804,82.9433319454035,Memantine,10.0,74,No School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,4,Yes,Mediterranean Diet,Poor,,1
+0,0.159224128047487,81,93.1279115433335,37.4775814950598,66.5408658103478,Donepezil,10.0,82,No School,Left,Male,No,Never Smoked,Positive,Sedentary,No,4,No,Mediterranean Diet,Good,,1
+0,0.173196677276554,78,96.7087462373081,36.8916410810022,96.205428064169,,,86,Primary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,9,No,Mediterranean Diet,Good,,0
+1,0.0695986888377632,67,95.9010019128917,36.8393343550818,86.0216687381293,Donepezil,5.0,63,Secondary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,No,4,No,Balanced Diet,Good,Diabetes,1
+1,0.130568143189738,93,91.817221737979,37.1394995063142,74.6089630881541,,,65,Primary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,10,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.193524267042412,76,92.5934303409892,36.4260155014171,99.4141848801649,,,67,Primary School,Right,Male,Yes,Current Smoker,Negative,Sedentary,No,8,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.009155549257368,94,97.3921246292086,37.053829008908,71.870012945617,Memantine,5.0,66,No School,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,1,No,Mediterranean Diet,Poor,Hypertension,1
+0,0.166437920869431,61,99.5782015616874,37.0384188569158,70.80113214177,,,85,Primary School,Right,Male,No,Current Smoker,Positive,Moderate Activity,No,9,No,Mediterranean Diet,Good,,0
+1,0.0076894960112601,68,92.44064167104,36.0155934807476,87.115323547908,,,71,Secondary School,Right,Male,Yes,Former Smoker,Positive,Moderate Activity,No,10,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.0374068595265019,83,93.7739354266169,37.0505235766695,53.8822771375335,,,74,Diploma/Degree,Right,Male,Yes,Current Smoker,Positive,Sedentary,No,9,No,Balanced Diet,Poor,Heart Disease,0
+1,0.0173758897100707,100,97.6937331763009,37.0635226780474,71.2940970715767,,,64,Secondary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,10,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0459117661983072,70,94.186124999399,36.4809829663521,51.4446597571315,,,70,Primary School,Left,Male,Yes,Former Smoker,Negative,Mild Activity,No,10,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.0870282859720964,81,96.5564266068266,36.616234124061,81.1691300262832,Rivastigmine,3.0,88,Secondary School,Left,Male,No,Former Smoker,Positive,Mild Activity,Yes,7,Yes,Balanced Diet,Good,Diabetes,1
+1,0.159780652394368,67,93.6989995023787,36.1296882095374,65.7027498564275,,,87,Diploma/Degree,Left,Male,No,Never Smoked,Negative,Sedentary,No,8,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.183321290821464,65,95.2753792085409,36.2369586864814,71.6780502201638,,,90,Secondary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,9,No,Balanced Diet,Good,Hypertension,0
+1,0.0353750992427806,78,92.822746953286,36.6886137283867,93.9294446849092,Rivastigmine,1.5,71,Secondary School,Right,Male,No,Former Smoker,Positive,Moderate Activity,Yes,1,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.184577216131674,61,98.4783105802725,37.0848616237215,74.6219083106815,,,87,Primary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,No,Balanced Diet,Good,Diabetes,0
+0,0.148172069959457,89,96.3168193378784,36.4683789259371,61.4503783538617,,,87,Secondary School,Left,Male,Yes,Current Smoker,Negative,Mild Activity,No,10,Yes,Low-Carb Diet,Poor,,0
+1,0.0229289804985644,64,95.5504889373954,36.0661727808616,97.1719426448711,,,60,Secondary School,Right,Male,Yes,Former Smoker,Negative,Mild Activity,No,8,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.0527623964115161,89,99.6306005117852,36.4668878550578,86.2596949050882,Galantamine,4.0,85,No School,Left,Male,Yes,Former Smoker,Positive,Sedentary,Yes,2,No,Mediterranean Diet,Poor,Heart Disease,1
+1,0.123567414634607,92,91.7106138824189,36.7161016393915,79.6838805844765,Donepezil,5.0,64,Primary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,No,6,Yes,Balanced Diet,Good,Diabetes,1
+0,0.040064915361538,79,95.2494856168702,36.241959761615,54.579691183139,Donepezil,5.0,71,No School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,6,No,Mediterranean Diet,Good,Hypertension,1
+1,0.192069642353789,61,99.7734165140236,36.288694795243,85.7730290507405,,,70,Primary School,Right,Male,Yes,Former Smoker,Negative,Moderate Activity,No,10,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.155352089654948,68,97.8724390537277,36.2288344863632,61.3178496358746,,,85,Primary School,Left,Male,No,Former Smoker,Negative,Sedentary,No,10,No,Balanced Diet,Poor,Diabetes,0
+0,0.105527467854448,99,91.261753793527,37.2477979555939,78.7900983059965,Rivastigmine,3.0,81,No School,Left,Male,No,Never Smoked,Positive,Sedentary,No,4,No,Mediterranean Diet,Good,Hypertension,1
+0,0.124704138179215,69,90.0749658999004,37.1437202066433,84.6565095620745,,,66,Primary School,Right,Male,Yes,Current Smoker,Negative,Sedentary,No,9,Yes,Low-Carb Diet,Poor,,0
+0,0.133482411701527,89,97.1718384119298,37.4323984871331,61.3389106944548,,,81,Secondary School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,8,No,Balanced Diet,Poor,Heart Disease,0
+0,0.0159013535458522,81,92.5571879059613,36.3199083685279,69.7141610255233,,,66,Secondary School,Left,Male,No,Former Smoker,Positive,Sedentary,No,9,Yes,Low-Carb Diet,Poor,Hypertension,0
+0,0.057404134946732,84,95.3500390842874,37.496209804364,94.3629380227305,Memantine,10.0,86,Secondary School,Right,Male,Yes,Former Smoker,Negative,Mild Activity,No,7,Yes,Balanced Diet,Good,Heart Disease,1
+0,0.0300446457137175,80,99.7616632531693,37.3730142766053,57.9992500381028,Rivastigmine,6.0,88,Secondary School,Right,Male,No,Never Smoked,Negative,Mild Activity,No,1,Yes,Mediterranean Diet,Good,,1
+0,0.199866364595489,79,96.7396864770944,37.1263281031271,51.1333392433995,,,68,Secondary School,Left,Male,Yes,Current Smoker,Positive,Moderate Activity,No,8,No,Balanced Diet,Good,Heart Disease,0
+0,0.165886451052645,93,93.9732784671913,37.241557110057,57.2317593707253,Rivastigmine,6.0,69,Diploma/Degree,Right,Male,No,Never Smoked,Negative,Mild Activity,Yes,7,Yes,Low-Carb Diet,Poor,,1
+0,0.105434794766921,92,91.152279578152,37.0734432229244,86.1412377266672,Rivastigmine,3.0,61,Primary School,Right,Male,Yes,Never Smoked,Positive,Mild Activity,Yes,5,Yes,Balanced Diet,Poor,Heart Disease,1
+1,0.183521235662428,60,94.722624958384,36.3510678399732,93.0461212869433,,,66,Primary School,Left,Male,No,Never Smoked,Negative,Moderate Activity,No,10,No,Low-Carb Diet,Good,Diabetes,0
+0,0.0862579322453306,78,91.823648889904,37.0084988330205,54.031516168391,Galantamine,4.0,60,Secondary School,Left,Male,No,Former Smoker,Positive,Mild Activity,Yes,2,Yes,Low-Carb Diet,Good,Hypertension,1
+1,0.120546219436239,65,97.384851938575,36.3721547629732,87.9367840663508,,,82,No School,Left,Male,Yes,Never Smoked,Negative,Sedentary,No,10,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.0053092454921822,77,99.7134472757104,36.4469736724738,94.9960354639023,,,83,No School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,8,No,Low-Carb Diet,Good,Diabetes,0
+1,0.103683641033415,88,96.4551533954067,37.2737959849049,99.0564237359251,,,80,Primary School,Left,Male,No,Former Smoker,Positive,Moderate Activity,No,10,No,Mediterranean Diet,Good,Diabetes,0
+1,0.165964660382182,74,99.8408658359211,37.3729758653953,83.5418371607041,,,78,Primary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,9,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0101311935923638,100,97.607488154317,36.425949229544,83.2198844012245,,,71,Diploma/Degree,Left,Male,No,Never Smoked,Positive,Moderate Activity,No,10,No,Balanced Diet,Good,Diabetes,0
+0,0.103938442015124,65,96.6145441068513,37.2366499002148,75.7797327173389,,,89,Secondary School,Left,Male,Yes,Never Smoked,Negative,Mild Activity,No,9,Yes,Mediterranean Diet,Good,Heart Disease,0
+1,0.167407908870788,65,92.7630194929072,36.6940771585085,59.5711541433569,,,64,Diploma/Degree,Right,Male,Yes,Never Smoked,Negative,Sedentary,No,8,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.165851588930416,86,93.5809561666948,37.2381281740332,86.7914003697315,Donepezil,23.0,83,No School,Left,Male,No,Former Smoker,Positive,Moderate Activity,Yes,5,Yes,Balanced Diet,Poor,Diabetes,1
+1,0.0331239457107707,95,95.057780762146,37.157728899112,59.6450174012918,Memantine,10.0,89,Primary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,3,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.0453454347415069,86,98.5812327236355,37.2570820152476,90.0333744101023,,,85,Diploma/Degree,Right,Male,No,Current Smoker,Positive,Sedentary,No,9,No,Balanced Diet,Poor,Heart Disease,0
+0,0.0435600010125294,78,98.888439572384,36.9145272141611,81.6037581468882,,,60,Secondary School,Right,Male,No,Former Smoker,Positive,Sedentary,No,10,No,Low-Carb Diet,Poor,Hypertension,0
+1,0.0743596513310055,85,97.1010716301836,36.3950089649707,52.2105638387336,Memantine,20.0,73,Secondary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,Yes,0,No,Low-Carb Diet,Good,Diabetes,1
+1,0.092349206160469,99,92.1144555851924,36.6426538974253,61.819088722411,Rivastigmine,6.0,66,Secondary School,Left,Male,Yes,Never Smoked,Positive,Moderate Activity,Yes,1,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.088811264332205,64,97.8246800916712,36.094588788041,51.9071652211963,,,88,Primary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,8,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.0325364658248512,63,99.7831162619026,36.731356862966,55.8889565658886,Rivastigmine,1.5,68,Secondary School,Left,Male,No,Former Smoker,Positive,Mild Activity,Yes,7,No,Balanced Diet,Good,Heart Disease,1
+0,0.165444220838478,98,97.2563178349244,37.3560314606593,68.7076062249619,,,73,Secondary School,Left,Male,Yes,Never Smoked,Negative,Sedentary,No,10,Yes,Balanced Diet,Poor,,0
+0,0.151350572032433,99,99.0805878209628,36.2939762490848,72.8182311379879,,,70,No School,Left,Male,Yes,Never Smoked,Negative,Moderate Activity,No,10,Yes,Mediterranean Diet,Good,Hypertension,0
+0,0.187241357509667,100,91.5490672352329,37.4345426948515,86.7884461419056,Donepezil,5.0,62,Secondary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,0,No,Balanced Diet,Good,,1
+1,0.175465908842626,86,91.1242710394051,36.6516607785144,87.2015129475508,Donepezil,23.0,72,Primary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,Yes,3,No,Mediterranean Diet,Good,Diabetes,1
+1,0.157904109882634,76,97.0055641727233,36.7627650131052,95.3095084438547,Memantine,10.0,90,Primary School,Right,Male,Yes,Never Smoked,Positive,Moderate Activity,No,2,No,Balanced Diet,Poor,Diabetes,1
+1,0.189096816691619,62,96.2581012693318,37.2577957465368,54.593136726355,Memantine,20.0,78,Secondary School,Right,Male,No,Never Smoked,Positive,Moderate Activity,Yes,0,No,Balanced Diet,Poor,Diabetes,1
+1,0.0840179778555286,81,98.2816570631466,36.2549900825889,89.6040955114105,Rivastigmine,1.5,81,No School,Left,Male,Yes,Never Smoked,Negative,Mild Activity,No,1,No,Low-Carb Diet,Good,Diabetes,1
+1,0.104299693251918,80,95.7372571551643,36.505474961068,69.1569730007903,Galantamine,12.0,86,No School,Left,Male,No,Never Smoked,Positive,Sedentary,Yes,6,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0224435864723115,63,98.1836071362864,36.0523412604623,73.4247496015273,Donepezil,5.0,69,Primary School,Left,Male,No,Never Smoked,Positive,Sedentary,No,2,No,Mediterranean Diet,Good,Diabetes,1
+0,0.13957858597077,93,97.7912830901389,36.4430907740271,78.3273760716471,,,78,Primary School,Left,Male,No,Never Smoked,Negative,Sedentary,No,8,Yes,Low-Carb Diet,Good,Heart Disease,0
+1,0.06311411485161,78,99.9988015436897,36.2520652931879,54.5818551524354,,,73,Primary School,Left,Male,No,Former Smoker,Negative,Moderate Activity,No,9,Yes,Mediterranean Diet,Poor,Diabetes,0
+0,0.115707047216454,74,91.9489063051444,37.3152937932927,88.6039783315306,,,86,Primary School,Right,Male,Yes,Never Smoked,Positive,Sedentary,No,8,No,Low-Carb Diet,Poor,Hypertension,0
+1,0.0811329084731298,100,97.5258207940371,36.0366518491841,68.3815502964091,,,76,Diploma/Degree,Left,Male,Yes,Current Smoker,Positive,Moderate Activity,No,8,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.175873660859727,77,93.4357437988733,37.0424134121962,89.9965319171975,Rivastigmine,1.5,82,Primary School,Right,Male,Yes,Former Smoker,Negative,Moderate Activity,Yes,7,Yes,Mediterranean Diet,Poor,,1
+1,0.0549901805826617,93,91.9496686374262,37.2426538339034,61.1245252381927,Rivastigmine,3.0,61,No School,Left,Male,Yes,Former Smoker,Positive,Sedentary,Yes,3,No,Mediterranean Diet,Good,Diabetes,1
+1,0.044070957501819,83,90.1746310832814,37.2793689449149,75.351710289915,,,77,Diploma/Degree,Left,Male,No,Former Smoker,Negative,Moderate Activity,No,10,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.118956374307515,78,99.8231392697111,36.7830875411733,80.9820793964289,,,64,Secondary School,Left,Male,No,Never Smoked,Positive,Mild Activity,No,9,Yes,Low-Carb Diet,Poor,Hypertension,0
+0,0.0264191471618178,64,97.5352714854337,36.5394098536951,51.1533312961796,Donepezil,23.0,81,Primary School,Right,Male,No,Former Smoker,Positive,Mild Activity,No,7,No,Low-Carb Diet,Poor,Heart Disease,1
+1,0.191651895743061,91,93.0898501025267,36.2004880014375,75.3316035597073,Memantine,5.0,66,No School,Left,Male,Yes,Former Smoker,Positive,Moderate Activity,No,5,Yes,Mediterranean Diet,Good,Diabetes,1
+1,0.0908169642369354,94,92.9311380515804,36.032226421583,63.1927882374892,,,66,Secondary School,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,10,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.166841511512998,62,94.712022724019,36.7175163467755,70.1484862975831,Memantine,10.0,90,Secondary School,Right,Male,Yes,Former Smoker,Positive,Sedentary,Yes,0,Yes,Balanced Diet,Good,Hypertension,1
+1,0.0174961754259769,75,99.859657959558,37.3114956338491,59.076367759487,,,72,Primary School,Right,Male,No,Current Smoker,Positive,Sedentary,No,9,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0305311941375808,76,96.493361058253,37.1453438223299,87.0385821175633,Memantine,5.0,70,Diploma/Degree,Right,Male,Yes,Never Smoked,Positive,Sedentary,Yes,0,Yes,Mediterranean Diet,Poor,Hypertension,1
+0,0.128752351357978,78,90.7272748742755,36.7975704090137,96.1588036989354,Rivastigmine,1.5,77,Primary School,Right,Male,Yes,Former Smoker,Negative,Mild Activity,No,7,Yes,Low-Carb Diet,Good,Hypertension,1
+1,0.0818246540932428,87,93.8519626057708,36.4951342460961,50.3801061530077,Donepezil,10.0,88,Diploma/Degree,Left,Male,Yes,Never Smoked,Positive,Mild Activity,No,5,No,Balanced Diet,Poor,Diabetes,1
+0,0.0373472332856569,71,91.2985804071984,37.0372020979039,95.3222102497136,Memantine,20.0,62,No School,Left,Male,Yes,Never Smoked,Positive,Sedentary,Yes,2,No,Low-Carb Diet,Good,,1

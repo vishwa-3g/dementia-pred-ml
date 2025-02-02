@@ -1,0 +1,505 @@
+Diabetic,AlcoholLevel,HeartRate,BloodOxygenLevel,BodyTemperature,Weight,Age,Education_Level,Dominant_Hand,Gender,Family_History,Smoking_Status,APOE_ε4,Physical_Activity,Depression_Status,Medication_History,Nutrition_Diet,Sleep_Quality,Chronic_Health_Conditions,Dementia
+1,0.084973629127051,98,96.2307429559532,36.22485167820368,57.563977538334406,60,Primary School,Left,Female,No,Current Smoker,Negative,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.0864372601272126,60,93.906509658536,37.03061990697326,58.266470938314384,78,Secondary School,Left,Female,Yes,Never Smoked,Negative,Mild Activity,Yes,Yes,Balanced Diet,Poor,Hypertension,1
+0,0.1611580773368509,98,92.00736986221789,36.05029415603524,69.65356380576068,66,Secondary School,Right,Female,No,Former Smoker,Negative,Mild Activity,No,Yes,Low-Carb Diet,Poor,Hypertension,0
+0,0.0157542488891086,69,99.85948976722445,36.9552585141368,53.72507845650098,66,Secondary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Mediterranean Diet,Poor,,0
+1,0.0973395374973267,64,90.31906814213734,36.39628624549445,58.36669799165753,87,Diploma/Degree,Left,Female,No,Former Smoker,Positive,Sedentary,Yes,Yes,Balanced Diet,Good,Diabetes,1
+0,0.067485640388519,97,91.9740940094955,37.11506381860478,81.58275528312672,73,Secondary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Mediterranean Diet,Good,Heart Disease,0
+1,0.0280771710714005,93,98.88929761976932,36.62579950561958,56.72634126002372,76,Secondary School,Right,Female,Yes,Former Smoker,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0880515529948539,91,97.40051131922408,37.36267602565288,58.80968507493745,64,Primary School,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.1565636060356225,95,93.71809560426392,36.85063965210093,54.15882135190285,90,Secondary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.1659715959359476,84,97.20612313057065,36.0124461661614,72.61512432826729,87,Secondary School,Left,Female,Yes,Current Smoker,Negative,Mild Activity,No,No,Balanced Diet,Good,,0
+0,0.0356713092517087,74,99.7836102856036,37.07471740859933,54.39984485561481,89,Primary School,Left,Female,No,Former Smoker,Positive,Mild Activity,Yes,Yes,Balanced Diet,Good,Heart Disease,1
+0,0.1971071573245437,60,95.38163664780618,36.42523947303009,84.86484366726486,89,Secondary School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,Yes,Low-Carb Diet,Good,Heart Disease,1
+0,0.0923422253167878,69,93.85527549918748,37.13423420889333,55.45003325206279,73,Secondary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,Heart Disease,1
+1,0.0470649852378425,76,99.3556162604856,36.532762157495895,74.93656185800897,85,Primary School,Left,Female,No,Never Smoked,Positive,Sedentary,No,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.1413210974818002,87,90.42674725977534,36.55439078419746,64.1362536591231,60,Primary School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Good,,0
+0,0.1455562566454706,75,97.78071352100818,37.333780724930655,53.92537119481416,78,No School,Right,Female,Yes,Never Smoked,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Heart Disease,0
+1,0.1894373016778991,67,90.2649811218918,37.065598165919134,66.85323858182417,63,No School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,1
+1,0.1663698403040264,83,92.34521739238932,36.94383722690716,63.73845261926126,83,No School,Right,Female,Yes,Former Smoker,Positive,Sedentary,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.1500877440226387,70,90.28152843786827,36.67295287954979,99.6835013912595,83,Primary School,Left,Female,Yes,Never Smoked,Positive,Sedentary,Yes,No,Low-Carb Diet,Poor,Hypertension,1
+0,0.0999241501886959,61,97.1227878294422,37.34388999010411,62.41025505420886,63,Secondary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,,0
+0,0.0544550472410308,85,95.8354258600066,36.40242364381297,77.86183580417062,88,No School,Left,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Balanced Diet,Poor,Heart Disease,0
+0,0.1907845419716282,61,90.20538533180056,36.56133506049519,74.24871231521016,65,No School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Mediterranean Diet,Poor,Hypertension,1
+0,0.0732148327240554,70,91.82060602242272,37.03394512624388,79.9712245641404,62,Secondary School,Left,Female,No,Former Smoker,Positive,Sedentary,No,No,Low-Carb Diet,Poor,Hypertension,1
+1,0.0227363959421087,72,93.49867799445018,36.07022782196962,85.50335707811655,82,Primary School,Left,Female,Yes,Never Smoked,Negative,Mild Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.0880754700973584,66,92.45727538068353,37.470660840909865,62.35518661073128,66,Primary School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Good,Heart Disease,0
+1,0.1861761652679573,82,95.47146541317234,36.80788523244552,78.69037336777252,74,No School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Diabetes,1
+0,0.0490659768107442,60,94.0660487422596,36.66692817698016,55.281860794993726,73,Primary School,Right,Female,No,Never Smoked,Positive,Sedentary,No,No,Balanced Diet,Good,Heart Disease,0
+0,0.1556614498274129,71,90.4580730361826,37.0250433048877,83.45782433134846,71,Diploma/Degree,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,No,No,Mediterranean Diet,Poor,Heart Disease,1
+1,0.0013265317885556,61,96.26787073223213,37.48798953830269,91.3584695978046,82,Primary School,Right,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.0385586202159594,93,95.6958615343427,36.31133831729163,77.048557716522,83,Primary School,Right,Female,Yes,Current Smoker,Negative,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0289448012235997,60,94.52240669138186,36.58202185585053,52.6707015169334,69,Primary School,Right,Female,No,Never Smoked,Negative,Moderate Activity,Yes,No,Mediterranean Diet,Poor,,1
+1,0.1006580287611669,89,95.08579518568142,37.40550579403,98.09646195584324,89,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.1410284854872932,76,93.23033658156126,36.5054097700251,63.47597360381013,69,Primary School,Left,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,,1
+1,0.027150069295258,87,95.70534422105196,36.95712679064424,91.4243673046397,75,Primary School,Left,Female,No,Current Smoker,Positive,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.115604267527886,83,90.78808381896202,37.35137478573348,54.73249333639489,60,Diploma/Degree,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Mediterranean Diet,Poor,,0
+1,0.0018474523208339,62,94.36495493780832,36.33280748387427,80.91328768666187,71,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,Yes,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.0059320013948072,90,98.25086113798478,37.13071953431867,95.5368322894706,62,Primary School,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Balanced Diet,Poor,Hypertension,0
+0,0.1805410557826834,75,91.72561502401828,36.15670994729995,81.2630640849897,63,No School,Left,Female,Yes,Never Smoked,Positive,Sedentary,No,No,Balanced Diet,Good,,0
+0,0.0214792896026431,94,93.52685654521017,36.15598412588786,66.3505729838438,81,Secondary School,Left,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Low-Carb Diet,Good,Heart Disease,0
+0,0.17595820307787,87,98.0970131419664,37.06735620974335,83.12899482970577,89,Primary School,Right,Female,No,Current Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Good,Heart Disease,0
+1,0.1757079106924022,94,98.66477576549072,36.15631131260966,83.91961958839995,66,Secondary School,Left,Female,No,Former Smoker,Positive,Mild Activity,No,No,Low-Carb Diet,Good,Diabetes,0
+0,0.0837801192645189,76,94.34961633088908,36.3064766387249,98.25539992799746,60,Secondary School,Left,Female,No,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,0
+1,0.0094658193813747,66,98.88475158860962,36.25475742464746,71.00012536482517,78,Diploma/Degree,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Diabetes,1
+0,0.0828870850054374,68,93.97560586695428,36.45378624294471,60.32050842143839,76,Primary School,Left,Female,Yes,Never Smoked,Negative,Moderate Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,0
+1,0.0198375013778372,93,95.30247853742527,36.96201257746079,51.22866171231145,83,No School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,1
+1,0.04393754113505,92,99.13778106244598,36.12090307448737,98.1179661769756,68,Primary School,Right,Female,No,Former Smoker,Negative,Sedentary,No,No,Mediterranean Diet,Good,Diabetes,1
+1,0.1258007854038621,68,93.76841256647786,36.69810525973757,51.31424629101111,78,Primary School,Left,Female,No,Former Smoker,Positive,Sedentary,No,No,Balanced Diet,Good,Diabetes,0
+1,0.0903790883337454,75,93.5149287653541,37.22533046765032,60.81373212420978,71,Primary School,Left,Female,No,Former Smoker,Negative,Sedentary,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.0990516115954848,89,90.41456104750696,36.520572791899525,92.79274746277892,83,No School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,No,Low-Carb Diet,Poor,Diabetes,1
+0,0.0755677829604543,88,93.30748808034136,36.88829968882643,63.7001255363012,62,Primary School,Left,Female,No,Never Smoked,Positive,Sedentary,No,No,Mediterranean Diet,Good,Heart Disease,1
+0,0.1641666232880715,70,93.51485259078731,36.66121782666053,85.35390829178573,67,Secondary School,Right,Female,No,Never Smoked,Positive,Mild Activity,Yes,Yes,Low-Carb Diet,Good,Hypertension,1
+1,0.1249207319864295,82,90.32461440040925,36.66236903448366,53.46344214286509,86,Primary School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0844225975250447,99,98.06771894807076,37.49120272450914,51.59060681156444,84,Secondary School,Left,Female,No,Former Smoker,Positive,Mild Activity,Yes,Yes,Balanced Diet,Poor,Hypertension,1
+0,0.1582306467276982,89,99.08794901714288,36.07602972423787,84.60170317446273,83,Secondary School,Right,Female,No,Former Smoker,Negative,Moderate Activity,No,No,Mediterranean Diet,Poor,Hypertension,0
+0,0.1699843460543813,61,91.0869973825177,36.2438441456577,72.76719416683787,73,No School,Right,Female,Yes,Former Smoker,Positive,Sedentary,No,No,Mediterranean Diet,Poor,Hypertension,0
+0,0.0053895653044469,100,90.70117884153206,36.94644427813082,90.39520320738688,66,Primary School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Poor,Hypertension,1
+0,0.0308804103627405,93,98.6675050340366,37.14202040255677,93.57931868001936,88,Primary School,Left,Female,No,Former Smoker,Positive,Sedentary,No,No,Low-Carb Diet,Poor,Hypertension,0
+0,0.1674183148272101,64,93.58498354217896,36.59166730398136,90.09891832572684,85,Secondary School,Left,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Balanced Diet,Poor,Heart Disease,0
+1,0.131061104072824,62,99.20303093442746,36.17960551491675,91.9530527607098,79,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0482131444566666,99,98.04158144611132,36.36768389752895,90.66524050973696,76,Primary School,Left,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.1984182925533898,69,99.8246987294774,36.73310553214471,56.90926762103338,61,Secondary School,Left,Female,No,Never Smoked,Positive,Sedentary,Yes,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.182328268775492,92,96.2212336947252,36.50530678273661,59.46700473616477,78,Primary School,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,Yes,Low-Carb Diet,Poor,Heart Disease,1
+0,0.0127268225158208,88,93.43357594402173,36.84123584766795,87.24441197753097,66,Diploma/Degree,Left,Female,Yes,Former Smoker,Negative,Sedentary,No,Yes,Mediterranean Diet,Good,,0
+1,0.0059499082693222,66,97.9050304129906,36.06791012773905,90.64786898985469,61,Primary School,Left,Female,No,Never Smoked,Positive,Sedentary,Yes,No,Balanced Diet,Poor,Diabetes,1
+0,0.0022387548936193,75,95.85022549051024,36.111215724494,67.67356149794742,60,Secondary School,Right,Female,No,Never Smoked,Positive,Sedentary,Yes,No,Balanced Diet,Good,Heart Disease,1
+1,0.1848944965803559,71,95.88342469584713,36.02032860807487,61.49966532995372,90,Diploma/Degree,Left,Female,No,Never Smoked,Positive,Mild Activity,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.0288362343685924,86,93.07694128400344,37.22228917658528,69.75217400507381,67,Diploma/Degree,Right,Female,Yes,Current Smoker,Negative,Sedentary,No,Yes,Balanced Diet,Good,Heart Disease,0
+1,0.1752278247054359,79,99.8649783414751,37.24274398017285,76.03801522350167,89,Diploma/Degree,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Mediterranean Diet,Good,Diabetes,0
+1,0.0079788239368854,62,95.91327376135136,36.54325879445021,95.48031246550558,70,Secondary School,Right,Female,No,Current Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0117631350155236,66,95.50820727349137,36.139485921274506,73.21112672852743,61,Primary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,Hypertension,1
+1,0.0413828241249681,60,96.61127509307558,36.2902032973498,89.85231833438623,83,Secondary School,Left,Female,Yes,Former Smoker,Negative,Mild Activity,No,No,Balanced Diet,Good,Diabetes,1
+0,0.0354364235150465,100,95.95461403892864,37.00625662340386,52.75517583965181,66,Primary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Poor,Heart Disease,0
+1,0.0906646486626767,96,92.32543775666537,36.51762377273087,55.13440310825853,87,Primary School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,Yes,Yes,Low-Carb Diet,Good,Diabetes,1
+0,0.194181586585096,70,99.08296268828592,36.677897281765546,73.70605831841851,67,No School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Hypertension,1
+0,0.1100079580768876,93,97.4270462098642,37.35110303338372,95.45858585467104,71,Primary School,Left,Female,Yes,Current Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,,0
+1,0.0613610195132351,90,96.76471251537124,36.19451717818062,83.93853840955967,90,Secondary School,Right,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.077572139970246,93,98.78035378223876,36.06140227369954,91.33147045657866,69,Diploma/Degree,Left,Female,No,Never Smoked,Positive,Mild Activity,Yes,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.18044711132883,72,90.5579559573335,36.842438235792144,59.20338778339683,75,Primary School,Right,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.0221911626071581,63,93.87223990206898,36.06592767422728,97.45991927681436,78,Primary School,Right,Female,No,Never Smoked,Positive,Sedentary,Yes,No,Balanced Diet,Poor,Hypertension,1
+1,0.1444718392279723,66,94.10923546947542,37.00508287710932,93.5460730543598,73,Secondary School,Left,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0332158080031039,83,95.38195046960789,36.25556595163442,74.14619958401889,83,Primary School,Left,Female,No,Never Smoked,Positive,Moderate Activity,No,No,Balanced Diet,Poor,Hypertension,0
+0,0.1633071296284187,76,95.59471892743038,37.10391645817912,61.290215265843095,88,Diploma/Degree,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,Hypertension,0
+0,0.0885705048604066,93,94.02042810555676,37.2528874958692,85.1281121670086,70,Secondary School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Good,Hypertension,0
+0,0.0244723468965513,61,93.5555129017307,36.80980654239654,95.15879625912228,67,Secondary School,Left,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Balanced Diet,Poor,,0
+0,0.1014064622239333,97,93.0471338293158,36.07614945837624,71.08826360158699,79,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Poor,,0
+0,0.0564523520785027,89,94.5203743685068,36.2638282284249,83.71969984807652,66,Primary School,Right,Female,Yes,Former Smoker,Positive,Sedentary,Yes,Yes,Balanced Diet,Poor,Hypertension,1
+1,0.0770868005956607,66,95.5076481077826,36.89058458015125,58.77977675776626,81,Secondary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,Yes,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.0781569017231988,70,95.66563983355329,37.37793956885014,99.51342805600692,61,No School,Left,Female,No,Never Smoked,Positive,Moderate Activity,Yes,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.1056527358605912,88,95.22598845490796,36.39824523997788,55.55989322669421,81,Secondary School,Right,Female,No,Former Smoker,Positive,Mild Activity,Yes,No,Balanced Diet,Poor,Heart Disease,1
+0,0.1986857836946418,100,94.4718313816725,37.39061678574335,63.65598671712258,72,Primary School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Balanced Diet,Good,,0
+1,0.0972756694254398,73,97.49994834555812,37.35969296600332,97.80530260295384,86,Primary School,Left,Female,No,Current Smoker,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.0500433305447071,89,96.99597501852986,36.92155567193792,55.3523044282687,89,Secondary School,Left,Female,No,Never Smoked,Positive,Moderate Activity,Yes,No,Mediterranean Diet,Good,Diabetes,1
+1,0.0849729432024091,68,99.43104405642164,37.360707231916216,53.63243244240114,66,Secondary School,Right,Female,Yes,Former Smoker,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.0551057208752814,60,98.32054756824488,37.40976328374537,64.23694014294152,77,Primary School,Left,Female,No,Current Smoker,Negative,Sedentary,No,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.1711866447672325,61,91.5062349213995,36.43216604222316,72.53432426296627,87,No School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.1420527647802119,99,93.8199387125704,36.44717490134112,74.36408384585181,73,Primary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Good,Hypertension,1
+1,0.0754063936727009,63,98.71540111258886,36.71922122008031,51.26513920212239,62,Secondary School,Left,Female,Yes,Never Smoked,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.042430034075408,66,98.86042139516424,36.93802807131308,71.74920643362066,83,Secondary School,Left,Female,Yes,Former Smoker,Negative,Mild Activity,No,No,Mediterranean Diet,Good,Diabetes,0
+0,0.0335746224881373,77,99.56571110762629,36.47254092852862,61.399720859180206,71,Primary School,Left,Female,No,Never Smoked,Positive,Moderate Activity,Yes,Yes,Mediterranean Diet,Poor,Heart Disease,1
+0,0.1518329503659908,70,96.83362160634437,36.85138396394809,71.35459971615843,79,Primary School,Left,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,,0
+0,0.1174862743244569,63,98.83497965368387,36.12207955845032,80.77014484609063,90,Secondary School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Good,,1
+1,0.098296668597143,67,93.58115674065068,37.31436455792301,91.85847654363384,69,Primary School,Right,Female,Yes,Former Smoker,Negative,Mild Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0747736099349198,94,95.55109756441232,37.02120413742341,80.14213158042838,90,Primary School,Left,Female,Yes,Former Smoker,Positive,Sedentary,Yes,No,Balanced Diet,Good,Diabetes,1
+1,0.0894587102006451,79,91.6111515538279,37.42578344348996,77.56160545429407,70,Primary School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.1862843500563493,96,94.70693414200296,36.47086181795866,94.10628049546796,65,Primary School,Right,Female,No,Never Smoked,Positive,Moderate Activity,Yes,No,Balanced Diet,Good,Diabetes,1
+1,0.0498411865802329,91,95.83319280020947,37.088704518279016,56.8160272919791,65,Secondary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.1447085263825508,65,92.76702069505058,36.94032092552014,83.05900250432688,85,Secondary School,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,,0
+1,0.0478347204167526,83,90.87852376708088,36.84543882510911,58.381998527761866,72,Primary School,Right,Female,No,Never Smoked,Positive,Sedentary,No,Yes,Mediterranean Diet,Good,Diabetes,1
+0,0.0569743331195921,96,96.90696908841572,36.09394537481704,71.58006009682042,64,Primary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Poor,,0
+1,0.0486915528877897,81,95.71709418768678,37.31576582806436,57.63179005494547,61,Secondary School,Left,Female,Yes,Never Smoked,Positive,Sedentary,No,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.0624085662236984,99,93.15329218556204,36.346066541140935,73.78069997000432,79,Secondary School,Left,Female,No,Current Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,Hypertension,0
+1,0.0070977612920374,64,95.46174236904476,36.73729207752066,80.91297264844286,63,No School,Right,Female,No,Former Smoker,Positive,Sedentary,No,No,Low-Carb Diet,Good,Diabetes,1
+0,0.030832374333381,67,91.81782316164626,37.2667862516275,61.82560144901564,70,Primary School,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,Yes,Low-Carb Diet,Poor,Heart Disease,0
+1,0.1412604915453024,100,92.01952666015588,36.62067976186717,94.01220307474463,63,Primary School,Left,Female,Yes,Never Smoked,Positive,Sedentary,No,No,Balanced Diet,Poor,Diabetes,1
+0,0.0182821904466634,100,90.51431495307746,36.34957976365892,92.42136571325844,72,Primary School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,Yes,Low-Carb Diet,Good,Heart Disease,1
+0,0.0678691291182997,75,97.9136698055948,37.39557845138752,50.07380354488141,63,Diploma/Degree,Right,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Low-Carb Diet,Good,Heart Disease,0
+0,0.0664912413121047,82,93.846374663908,37.3003928790332,69.64737361770008,79,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Mediterranean Diet,Poor,,0
+0,0.1284179265473315,98,96.66257579929214,36.83658928099612,74.72739987910238,87,Secondary School,Left,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Mediterranean Diet,Poor,Hypertension,0
+1,0.1500373002848705,75,98.20207360998032,36.58333260600555,90.03613749050088,74,Secondary School,Right,Female,No,Never Smoked,Positive,Mild Activity,Yes,No,Mediterranean Diet,Good,Diabetes,1
+0,0.1570588869098373,76,99.66193473589836,36.43446192512447,91.81319611617052,61,Primary School,Left,Female,No,Former Smoker,Positive,Sedentary,Yes,Yes,Balanced Diet,Poor,Hypertension,1
+1,0.0101265255400477,83,90.43302331478814,37.12577483317564,56.23320480038143,66,Primary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+1,0.1379034717016796,68,93.96263146616086,37.2076528299878,87.38454503625184,77,Secondary School,Right,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.1791715711654603,66,92.81535030800126,36.32350099440071,64.63483608031484,73,No School,Right,Female,Yes,Former Smoker,Positive,Sedentary,Yes,Yes,Balanced Diet,Poor,Heart Disease,1
+1,0.1130961171110152,63,91.08139807260945,37.10881939064015,70.51282366802388,64,Primary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Good,Diabetes,1
+1,0.1784274747875371,63,99.7185954166122,36.09872555493829,54.942578265178746,77,Primary School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,Yes,Balanced Diet,Good,Diabetes,1
+1,0.0658814596920524,64,98.65576341423804,36.42564380110897,83.07938224090151,90,Secondary School,Left,Female,Yes,Former Smoker,Positive,Sedentary,Yes,Yes,Balanced Diet,Good,Diabetes,1
+0,0.133403667415419,85,92.12462793785826,36.62675356678856,50.11936025666532,79,Diploma/Degree,Right,Female,No,Former Smoker,Negative,Moderate Activity,No,No,Balanced Diet,Poor,,0
+0,0.0356608043487499,85,90.2739871955498,36.22010796272516,55.6785174527484,82,No School,Left,Female,Yes,Former Smoker,Negative,Sedentary,No,Yes,Low-Carb Diet,Good,Hypertension,0
+1,0.1241380414667455,79,95.8164752569586,36.87668053066807,83.38036271158819,90,Primary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Low-Carb Diet,Good,Diabetes,0
+0,0.1326813788275982,67,90.98865490217062,36.9389745541957,85.49271641671427,76,Secondary School,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Low-Carb Diet,Poor,,0
+0,0.0213756154637727,84,93.79422982177232,36.51240676126409,60.07459138009786,79,No School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,,0
+1,0.139688467444804,87,98.17109485194948,36.81363766946555,61.29702728016809,61,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.0152867821385514,99,98.50110755202456,37.2057442067132,96.43848434861458,61,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Sedentary,No,Yes,Balanced Diet,Poor,Diabetes,0
+1,0.1616563416907741,75,98.29711723222668,37.03077581283964,85.15401888634601,85,No School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,Yes,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.0284769365871386,78,99.86822558468111,36.71994418213414,73.89717298952142,71,Secondary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.1932685877753601,71,90.39939969737662,36.61270386317101,96.15375706488128,83,Diploma/Degree,Right,Female,Yes,Current Smoker,Negative,Sedentary,No,No,Mediterranean Diet,Poor,Hypertension,0
+1,0.1667695759196998,69,92.600825122977,36.38633456491662,97.79924116459686,60,Secondary School,Right,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Balanced Diet,Good,Diabetes,1
+0,0.1931512139697216,65,95.92299567189428,36.35140833915733,84.97544206711191,64,No School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,Yes,Yes,Mediterranean Diet,Good,Hypertension,1
+0,0.1155109537946691,63,94.48601098132916,36.90954543146542,82.34370054428643,73,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Heart Disease,1
+0,0.0179281907322143,65,92.87808211691087,36.88792841629685,80.1578140593181,77,Primary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,No,Balanced Diet,Poor,,1
+1,0.1469593499889235,84,96.2571675684946,36.598983112783145,60.01396785590101,60,Secondary School,Left,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.1659668858637752,89,98.76404210394792,37.298601173307546,54.788991712458674,70,Primary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Mediterranean Diet,Poor,,1
+1,0.0421543457607302,90,95.69468561922662,36.4993302776844,88.72377872722632,85,No School,Right,Female,Yes,Never Smoked,Positive,Sedentary,Yes,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.0081378704977597,71,97.67344788422864,36.989442332794034,70.41123180980713,62,Primary School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Mediterranean Diet,Poor,Heart Disease,0
+1,0.0688220124439387,67,98.95770474311718,36.93985378104645,86.06728414939487,66,Primary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,1
+0,0.0884560803044267,79,94.36070895847972,37.1186337476997,61.77919887405685,67,Primary School,Left,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Mediterranean Diet,Poor,Heart Disease,0
+0,0.1371764915101531,79,97.78360796618676,37.28847869721041,85.2564501888244,73,Diploma/Degree,Right,Female,Yes,Former Smoker,Negative,Mild Activity,No,No,Balanced Diet,Poor,Hypertension,0
+1,0.0027993041899305,75,90.2498463073482,36.0238723847629,73.02412413228399,70,Primary School,Left,Female,No,Former Smoker,Negative,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+0,0.1285947910168417,81,96.59975363013308,37.11410275043744,52.45142280452187,70,Secondary School,Left,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,,1
+0,0.0731124361547682,63,98.30096213136488,36.821341585509934,84.44335359725068,61,Primary School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,Yes,No,Low-Carb Diet,Poor,Hypertension,1
+0,0.1438953062506917,83,90.91669404615394,37.17685027568541,87.01962027169944,71,No School,Left,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Mediterranean Diet,Poor,,1
+0,0.003377458234012,79,90.53308665795456,36.92931994872914,90.8994163531818,61,Secondary School,Right,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Balanced Diet,Good,Hypertension,0
+0,0.1329481530006386,92,96.71592747448044,36.05805174666399,56.51864740330207,70,Primary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Poor,Heart Disease,0
+1,0.1520974384704665,64,96.0471198800226,36.69005100202293,52.38394013896974,78,Primary School,Right,Female,No,Former Smoker,Negative,Sedentary,No,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.1932994395693311,63,97.82637672138463,36.38517690654172,55.8779215717998,64,Secondary School,Right,Female,No,Never Smoked,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Poor,,0
+0,0.1290287756650678,92,92.13156252049104,37.0845029289466,56.780016298614775,71,Primary School,Left,Female,No,Former Smoker,Positive,Sedentary,Yes,No,Low-Carb Diet,Good,,1
+1,0.1811404634077863,78,95.16310051493168,36.47500892096684,65.42705052666182,64,Primary School,Right,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.1369424175888669,92,93.95673097345228,36.72869735983721,99.152082418309,68,Primary School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,No,Balanced Diet,Good,,1
+1,0.1882796504104022,73,91.51756421733565,36.40815938358672,61.879088874252766,83,Primary School,Left,Female,Yes,Never Smoked,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.1475905824599107,88,91.38251227237404,36.34928360841953,51.6358173028991,85,Primary School,Right,Female,Yes,Never Smoked,Positive,Sedentary,No,Yes,Low-Carb Diet,Poor,Hypertension,0
+0,0.0176746518671629,74,97.95034784851634,36.91048798613791,72.5179967180025,69,Primary School,Left,Female,No,Current Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,,0
+1,0.0952503446744232,93,98.70571844851467,36.6523030024124,94.20895127957556,80,Primary School,Left,Female,No,Current Smoker,Positive,Mild Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.1782874672558005,68,94.94967596078452,37.33063467060133,50.77128134726453,70,Primary School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,No,No,Balanced Diet,Poor,,0
+0,0.1891477866527923,72,99.85792258415913,36.346912338088245,63.651507473033845,60,Secondary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Good,Heart Disease,1
+1,0.1718555241968195,85,91.71404361558106,36.62742141748342,91.96091943085572,82,Secondary School,Left,Female,Yes,Former Smoker,Negative,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+1,0.0719459414155565,64,91.02595144064148,36.064893188381845,81.38060146493692,60,Primary School,Left,Female,No,Former Smoker,Negative,Moderate Activity,No,Yes,Balanced Diet,Poor,Diabetes,0
+1,0.0515782779931637,67,92.1847675296984,36.23033487115555,85.60722589051481,69,Diploma/Degree,Right,Female,Yes,Never Smoked,Positive,Sedentary,No,No,Low-Carb Diet,Good,Diabetes,0
+1,0.0420945295575653,60,96.84460003152768,36.58702439348556,87.9570365423468,80,Diploma/Degree,Right,Female,No,Never Smoked,Positive,Sedentary,No,No,Low-Carb Diet,Good,Diabetes,0
+1,0.131735192620142,71,92.79533763634473,37.31055404023578,91.97828281411026,61,Primary School,Left,Female,Yes,Former Smoker,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.1747687397380305,67,93.40467287339295,36.09264280197677,94.55738153401512,63,Secondary School,Right,Female,No,Never Smoked,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.0847892960604625,64,96.56839694816811,36.05607195335397,59.02572607881385,86,Primary School,Left,Female,No,Current Smoker,Positive,Sedentary,No,Yes,Balanced Diet,Poor,Diabetes,0
+1,0.1267721353817636,98,97.52334922754189,37.00374957687214,97.69838653898628,71,Diploma/Degree,Right,Female,Yes,Current Smoker,Negative,Sedentary,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.1567141648751956,73,91.29782363826196,36.86113820147738,93.95984453749848,75,Diploma/Degree,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Mediterranean Diet,Good,Diabetes,1
+0,0.1974741698613737,87,98.19250685239328,37.35074127212725,97.27326136153928,75,Primary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Poor,Hypertension,1
+1,0.0764514647410117,75,95.76567935229689,36.02899364855926,80.8742677671745,81,No School,Left,Female,No,Never Smoked,Negative,Sedentary,No,No,Mediterranean Diet,Poor,Diabetes,0
+1,0.0046915404544066,87,90.59561391979798,37.49220504616464,70.10304540329764,77,No School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,1
+0,0.1872475327006707,67,98.3236975993714,37.47092513630347,52.1385871962302,81,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Good,,1
+0,0.0486233931130653,86,99.70375791259832,37.16851131589341,68.34781783363646,60,Secondary School,Left,Female,No,Current Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Hypertension,0
+0,0.0755604560964708,95,94.24350063527908,37.357556506590285,80.05501272013704,80,Diploma/Degree,Left,Female,No,Current Smoker,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,Hypertension,0
+1,0.163482758986126,86,90.69605290285172,37.04645022087066,77.38424434272687,86,Primary School,Right,Female,Yes,Former Smoker,Positive,Mild Activity,Yes,No,Balanced Diet,Poor,Diabetes,1
+1,0.0513126437293814,63,99.92503924886913,36.75544792593031,73.16105232797494,62,No School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+1,0.1442192891626304,71,94.69601743937238,36.45404516404458,61.54763721436376,65,Diploma/Degree,Right,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0908612270781748,95,99.87859270348396,37.12272984808948,50.41411803840653,87,No School,Left,Female,Yes,Former Smoker,Negative,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+1,0.1133727478654206,99,97.77886559307804,37.3019165354543,86.20769322418414,68,Primary School,Right,Female,No,Never Smoked,Positive,Moderate Activity,Yes,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.1317877960532214,72,94.69309071656774,37.2729064488536,91.94552457995528,72,No School,Left,Female,No,Former Smoker,Negative,Mild Activity,No,Yes,Mediterranean Diet,Poor,Heart Disease,0
+1,0.1389382592951075,94,90.9508412950308,36.57826445016713,62.03112143662193,77,Primary School,Left,Female,No,Never Smoked,Positive,Mild Activity,Yes,Yes,Low-Carb Diet,Poor,Diabetes,1
+0,0.1800791615744416,67,97.87570881843062,37.217989203616405,98.2213758894226,81,Diploma/Degree,Right,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.1631429553520221,64,92.26532340432613,36.42802935257498,90.13337596151834,74,Secondary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Poor,,0
+1,0.0718407128500764,70,94.57963554518614,36.16095955411033,59.17712959204106,73,Secondary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+1,0.0782353249160619,99,92.99688360078171,37.43117724331051,58.55389976135069,77,No School,Right,Female,No,Former Smoker,Negative,Moderate Activity,Yes,Yes,Balanced Diet,Good,Diabetes,1
+1,0.1246028733414883,100,92.78284647593796,36.79649151726068,76.49378067550609,86,No School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Diabetes,1
+1,0.0255179795589956,81,97.05697819195584,36.06504363496472,93.9150668203514,72,Diploma/Degree,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.138838959328896,63,91.0740244612204,37.31521772201068,73.32569047362773,90,Primary School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.0468544020090648,63,92.6639521215038,37.4467656508534,85.28872546113696,79,Primary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Mediterranean Diet,Poor,Diabetes,0
+1,0.105302954149478,72,98.40422880983706,36.96350759661456,52.33132794219416,87,Diploma/Degree,Right,Female,Yes,Never Smoked,Positive,Sedentary,No,No,Mediterranean Diet,Good,Diabetes,0
+0,0.1867186759955797,98,92.50332732736652,37.41440091047392,80.39137759000297,79,Secondary School,Left,Female,No,Former Smoker,Positive,Sedentary,Yes,No,Low-Carb Diet,Poor,,1
+0,0.0004137617898343,71,91.90942086394703,36.01473383173039,71.3469669608144,75,Primary School,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,Yes,Balanced Diet,Good,Hypertension,1
+1,0.0914751602930274,86,98.22432503405568,36.46632997524826,89.30248288604088,64,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,No,Balanced Diet,Poor,Diabetes,1
+1,0.0647033572775223,98,99.89680887773284,36.93472318168536,88.12035746243956,61,Secondary School,Right,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Balanced Diet,Poor,Diabetes,1
+0,0.022978955562558,65,91.2012536971558,36.30981517626012,74.52428973210911,71,Primary School,Right,Female,Yes,Former Smoker,Positive,Sedentary,No,Yes,Balanced Diet,Good,Hypertension,1
+1,0.0767753813346265,84,96.81989634952023,36.99356241882798,55.3701244922713,62,No School,Left,Female,Yes,Former Smoker,Positive,Sedentary,No,No,Balanced Diet,Good,Diabetes,1
+0,0.1055419053473527,65,91.25482835807937,36.112808722238114,78.4662070034562,69,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Mediterranean Diet,Poor,Heart Disease,0
+1,0.1006980530120224,88,95.630024858165,36.08431819820618,94.91061147770591,60,Secondary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.0023052401291058,92,92.93683657130852,36.80518980402609,92.0435868975899,87,Secondary School,Left,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Balanced Diet,Poor,Heart Disease,1
+0,0.0517634397529512,68,95.15126797850982,36.947167859448506,92.8303753891627,65,Diploma/Degree,Left,Female,Yes,Former Smoker,Negative,Moderate Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,0
+1,0.0824811795293768,62,92.67305126568851,36.06703528233757,91.1869138998994,68,Diploma/Degree,Left,Female,No,Former Smoker,Positive,Moderate Activity,Yes,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0474124571942588,74,90.08845045838028,36.33657402735505,89.24701575183997,68,Secondary School,Right,Female,No,Former Smoker,Negative,Moderate Activity,No,No,Mediterranean Diet,Good,Diabetes,1
+1,0.1564519996125137,71,99.58163598608697,36.422451233190266,82.72831129675112,87,Primary School,Left,Female,No,Current Smoker,Negative,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+1,0.0227535626117809,90,97.58862482244274,36.56457663236216,70.16611501380271,64,Primary School,Right,Female,Yes,Never Smoked,Positive,Sedentary,No,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.1150091491082962,70,95.05266104389553,37.16551936824023,53.33627789153837,65,No School,Right,Female,No,Never Smoked,Positive,Mild Activity,Yes,Yes,Balanced Diet,Poor,Hypertension,1
+0,0.092339128939084,98,92.86582028376476,36.69223464821986,99.44396895759591,68,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,1
+1,0.1626666189813714,81,99.93726658474488,36.68593501305456,64.0122076046363,68,Diploma/Degree,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Diabetes,1
+1,0.1909256407253494,60,91.08798445347011,36.53925312066533,53.5201433681988,66,Secondary School,Right,Female,Yes,Former Smoker,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.039097017433259,86,92.57152741824338,36.067675782117306,53.12721779904972,84,Secondary School,Left,Female,No,Never Smoked,Positive,Moderate Activity,Yes,No,Low-Carb Diet,Good,Diabetes,1
+1,0.1945487019109166,67,90.63676773779017,36.137679039001405,79.14810921006844,89,Diploma/Degree,Left,Female,No,Current Smoker,Positive,Mild Activity,No,No,Balanced Diet,Poor,Diabetes,0
+1,0.0359228479282049,68,99.43511742057696,36.35906927183315,98.37144196113954,90,Primary School,Left,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0131095430181959,66,95.00750805103276,36.5660930857101,99.82500353704282,78,Secondary School,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,0
+0,0.1769737127760622,63,94.6573363660042,37.40260851498816,84.49116769637028,86,Secondary School,Left,Female,No,Former Smoker,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Poor,,0
+1,0.0170219623210566,67,92.47704237852714,37.03289890008319,95.1670702559436,77,Secondary School,Right,Female,No,Never Smoked,Positive,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,1
+0,0.098011163281033,67,99.54026096064754,37.32010081348157,73.42670386303337,89,No School,Left,Female,Yes,Former Smoker,Negative,Moderate Activity,Yes,Yes,Low-Carb Diet,Good,Hypertension,1
+0,0.1367848502992565,60,95.88213582411367,36.84552124429751,78.29422051815389,82,Primary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,Yes,Yes,Low-Carb Diet,Good,,1
+1,0.0803842301815522,85,90.7233293569656,36.494443096095296,99.79016570471585,63,Primary School,Left,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0932125429531241,69,97.30957278190128,37.29071689391109,93.30571713909193,76,Primary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,No,Low-Carb Diet,Poor,Heart Disease,1
+1,0.0126009163437994,79,97.3389531095406,36.48076633409459,75.67459597588346,84,Primary School,Left,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.0167597359614054,68,98.80668469525416,36.975658032627,51.446860665315135,77,Diploma/Degree,Right,Female,Yes,Current Smoker,Negative,Mild Activity,No,No,Balanced Diet,Poor,Diabetes,0
+0,0.1013131264142932,93,94.1728288626322,36.01331563953947,54.28366625867179,86,Primary School,Right,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Low-Carb Diet,Poor,Heart Disease,1
+0,0.0306177257621353,99,96.776656612192,36.27290924922023,88.7317455306436,70,No School,Left,Female,Yes,Current Smoker,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Good,Hypertension,0
+0,0.0613556095718759,74,96.62648586281011,36.958886236055065,70.86674349434257,69,Diploma/Degree,Right,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Heart Disease,0
+0,0.1198703569212858,81,99.52185423878376,37.41917124733888,70.3290268749904,84,Secondary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Good,Heart Disease,0
+1,0.1728965135270073,94,95.19371541098658,36.50823783242989,91.06507199942256,69,Secondary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Good,Diabetes,1
+1,0.0750055479933807,80,98.8026824377098,36.0471501366688,65.56113334118727,60,Secondary School,Right,Female,No,Former Smoker,Negative,Moderate Activity,No,No,Balanced Diet,Poor,Diabetes,1
+0,0.0500569753262626,74,97.90599159830604,36.18789007254527,68.77514431475602,64,Primary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,No,Low-Carb Diet,Good,Hypertension,0
+1,0.0963014727980529,63,99.1882593529186,36.71822845932152,84.22343050876314,72,Secondary School,Right,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Low-Carb Diet,Good,Diabetes,0
+0,0.1330435743662795,78,95.34702956254472,37.328644727255465,92.17340479259296,65,Primary School,Left,Female,Yes,Former Smoker,Negative,Mild Activity,No,Yes,Mediterranean Diet,Poor,,0
+1,0.0088785676566705,67,94.40441414536517,36.42782439942387,87.38962476693338,84,Primary School,Right,Female,No,Former Smoker,Negative,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0215890192032701,82,97.43415290456149,36.16277706731235,65.87927233354054,81,Secondary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.1152673225192134,100,98.3509047716474,37.06971414621792,74.37747327406667,67,Secondary School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Low-Carb Diet,Good,Diabetes,1
+1,0.1364880469941813,81,90.30964099548558,36.97082575321309,56.63872026865569,74,Primary School,Left,Female,No,Current Smoker,Negative,Mild Activity,No,No,Mediterranean Diet,Good,Diabetes,0
+0,0.0849987274917471,81,95.20325097443026,37.131213656648754,79.45654999660555,77,Diploma/Degree,Left,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Low-Carb Diet,Poor,Heart Disease,0
+0,0.1149557372159478,84,90.8432305855462,36.03250039497709,87.81595461335485,69,No School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Low-Carb Diet,Poor,,1
+0,0.1971681990873251,92,95.74951121204028,36.866421780816914,62.156358121843226,87,Secondary School,Right,Female,Yes,Never Smoked,Positive,Sedentary,Yes,No,Mediterranean Diet,Poor,,1
+1,0.0253193792994019,99,95.51353968689038,36.61988386819142,66.229328031318,89,Primary School,Right,Female,Yes,Former Smoker,Positive,Sedentary,No,No,Balanced Diet,Poor,Diabetes,0
+0,0.1251600268478809,69,95.68225232736845,36.11027317615249,60.724771542465696,77,Primary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Hypertension,0
+1,0.121758311780023,79,93.86303386858296,37.322707982330414,85.3278445379282,68,Secondary School,Right,Female,No,Former Smoker,Positive,Sedentary,No,No,Balanced Diet,Good,Diabetes,1
+1,0.0222637294637245,94,97.47597566416786,36.48155854750219,87.03727535508767,63,No School,Right,Female,No,Never Smoked,Negative,Moderate Activity,No,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.0128592133127699,90,98.30933747294948,36.26899180320643,94.57025858009868,78,Secondary School,Left,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Low-Carb Diet,Good,Hypertension,0
+0,0.1092829949090803,83,95.56921163588868,37.36853085678825,64.42348068263868,81,Diploma/Degree,Right,Female,No,Never Smoked,Positive,Sedentary,No,Yes,Mediterranean Diet,Poor,,0
+0,0.0996731519305338,69,93.48578791122722,37.00836767286403,80.73286540271286,83,Primary School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,No,Low-Carb Diet,Poor,Heart Disease,1
+0,0.0180240634890495,77,99.63650101697785,37.36325310533978,67.33648219449842,88,No School,Left,Female,Yes,Never Smoked,Positive,Sedentary,Yes,Yes,Mediterranean Diet,Poor,Hypertension,1
+0,0.0237974966946515,71,90.60665571865428,36.77702604553042,80.56652428922811,83,No School,Right,Female,No,Former Smoker,Negative,Sedentary,Yes,No,Balanced Diet,Good,,1
+0,0.1563830422572947,71,97.18885740928032,37.29844014276682,79.60055128899457,89,Primary School,Left,Female,Yes,Former Smoker,Positive,Sedentary,No,No,Mediterranean Diet,Poor,,0
+1,0.1392012610168649,94,97.6626660246242,36.57122711758964,58.368863120467296,78,Primary School,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.0769309281441312,64,95.90731887211516,36.49376409360866,55.23680315047248,87,Primary School,Right,Female,No,Former Smoker,Positive,Sedentary,No,No,Balanced Diet,Poor,Hypertension,1
+1,0.0603576439417257,99,94.20692075081344,37.22372240953628,78.28704288015281,88,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Diabetes,1
+1,0.1850737114546549,93,95.60589021850264,36.72922277376451,69.28294003193605,86,Secondary School,Left,Female,No,Current Smoker,Positive,Sedentary,No,No,Mediterranean Diet,Good,Diabetes,0
+1,0.1279736425642522,98,97.96175011085838,37.32657690019919,97.59215624494878,83,Secondary School,Right,Female,Yes,Never Smoked,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0118649657783278,87,94.70521574216038,36.71113863450696,59.72070701314237,87,Secondary School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.1029671227018004,92,93.3127340512215,36.147783952215,64.05454939408054,73,Primary School,Left,Female,No,Former Smoker,Positive,Sedentary,Yes,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.1188213606929219,60,99.47975606844771,37.38486742666955,69.05054178234786,80,Primary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Poor,Hypertension,0
+1,0.1287193295705012,66,95.48562411124,37.22712392227618,53.31230967749582,60,Primary School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.1588062673600339,86,90.18208379894804,36.06287961553854,62.65811907384912,63,Secondary School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Mediterranean Diet,Poor,Hypertension,0
+0,0.1282085788587312,74,95.90985268175126,36.97388343206322,82.5030611955518,60,Primary School,Right,Female,Yes,Never Smoked,Negative,Mild Activity,Yes,No,Balanced Diet,Poor,Hypertension,1
+1,0.0204646187973184,68,97.60650393909198,36.04111096745007,84.77956885805246,67,Primary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,Yes,No,Low-Carb Diet,Good,Diabetes,1
+1,0.1582863146360976,95,96.97667777067171,37.21738985093485,95.04096826763268,62,Primary School,Left,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.0560476917938193,99,95.45533724691848,37.25351369260336,94.31317654816678,83,No School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Mediterranean Diet,Poor,Hypertension,0
+0,0.1700738338641205,76,99.9700574664448,37.48182154582053,63.56495592292609,69,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,Hypertension,0
+1,0.1014229448325953,77,94.87200879976564,37.0938405463793,78.23937875273022,79,Diploma/Degree,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.1055037887288259,87,99.43841373146844,37.438724462879925,91.49601404789382,83,Diploma/Degree,Left,Female,No,Former Smoker,Negative,Sedentary,No,No,Mediterranean Diet,Poor,,0
+1,0.1539743806032968,66,90.3554085413996,37.4508844495759,89.49804112596098,76,Diploma/Degree,Right,Female,No,Former Smoker,Negative,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.1084571756199147,71,98.57265109516268,36.91789198741013,77.7551345397042,78,Diploma/Degree,Right,Female,Yes,Current Smoker,Negative,Sedentary,No,Yes,Mediterranean Diet,Poor,Heart Disease,0
+1,0.0187083491887867,77,93.22871615172777,36.07385534064765,59.43811573619499,84,No School,Left,Female,Yes,Current Smoker,Negative,Sedentary,No,No,Low-Carb Diet,Good,Diabetes,0
+0,0.1455813092537122,72,95.58712289694216,37.30296883687436,51.92652364245431,71,No School,Left,Female,No,Never Smoked,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,Hypertension,0
+0,0.1406467550731482,87,92.75359146657291,36.614227208567065,77.78956551961124,76,Secondary School,Right,Female,No,Former Smoker,Negative,Moderate Activity,No,Yes,Balanced Diet,Poor,,0
+1,0.0881380705529115,85,93.09984108508402,36.11250154454551,69.27808498180032,86,Diploma/Degree,Left,Female,No,Never Smoked,Positive,Sedentary,No,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.0700720704602403,85,98.10635096161536,37.46352440380363,71.20410552081381,88,Secondary School,Right,Female,Yes,Never Smoked,Positive,Sedentary,No,No,Low-Carb Diet,Good,Heart Disease,0
+1,0.1526471914701734,96,95.75826601786162,36.42100554275977,75.19900657762948,79,Diploma/Degree,Left,Female,No,Never Smoked,Positive,Sedentary,Yes,No,Balanced Diet,Poor,Diabetes,1
+1,0.0586424389315741,63,97.43589180572762,36.64123569979488,54.621990933139976,80,Secondary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,Yes,Yes,Balanced Diet,Poor,Diabetes,1
+1,0.0224263817449567,66,93.39864885055223,36.71834754862612,83.68384291563194,66,Diploma/Degree,Right,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,Yes,Mediterranean Diet,Good,Diabetes,1
+1,0.1989632557027733,60,92.844390011477,36.928269769827885,71.29586973507188,73,Diploma/Degree,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Balanced Diet,Poor,Diabetes,0
+0,0.1577084633046636,79,94.87689367724796,37.3257547505788,75.64491630116818,81,Secondary School,Right,Female,Yes,Former Smoker,Positive,Sedentary,No,Yes,Low-Carb Diet,Poor,Hypertension,1
+0,0.0122597852937822,60,90.11348083698503,36.5389377550172,59.86063452749609,61,Secondary School,Left,Female,No,Former Smoker,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,0
+1,0.189919781210615,88,95.03682663578807,36.92643735542465,54.335303784714014,89,Secondary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.0204967743994955,74,99.2749754709094,37.34637090787842,89.23996719167498,88,Primary School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Hypertension,0
+1,0.1699749386343429,62,93.12019858144424,36.04524854941285,77.48673606350026,63,No School,Right,Female,No,Never Smoked,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.0040026495192146,66,92.01979414880375,37.46795434978352,86.20409935356994,63,Primary School,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Mediterranean Diet,Poor,Heart Disease,0
+1,0.1685339605519748,94,93.46153685567631,37.252424521352864,94.80793600848556,90,Primary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Mediterranean Diet,Poor,Diabetes,1
+1,0.1089010741368379,63,99.08586229105516,36.00347971294319,66.82171309271916,74,Diploma/Degree,Left,Female,Yes,Former Smoker,Positive,Sedentary,Yes,No,Low-Carb Diet,Good,Diabetes,1
+1,0.1334113035377325,99,98.99500040706585,36.15344951471749,91.85441963057066,78,Primary School,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Low-Carb Diet,Good,Diabetes,0
+1,0.1694612903158356,93,99.49030216370537,36.51643190577877,83.26937229639267,66,Primary School,Left,Female,No,Current Smoker,Negative,Mild Activity,No,Yes,Mediterranean Diet,Poor,Diabetes,0
+0,0.008865791110762,65,90.12975025732808,37.08787315498111,95.06256072721123,79,Diploma/Degree,Left,Female,No,Never Smoked,Positive,Sedentary,Yes,Yes,Balanced Diet,Poor,Heart Disease,1
+0,0.106094570943609,74,96.72878727050455,37.31254736704627,60.26358746150788,75,Diploma/Degree,Right,Female,No,Former Smoker,Negative,Sedentary,No,No,Low-Carb Diet,Good,Hypertension,0
+0,0.0091685788222872,97,97.59380646648324,37.11390007723965,90.60207164337166,67,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Sedentary,No,No,Balanced Diet,Poor,Hypertension,1
+0,0.0510016222224907,91,96.7595787030403,36.34710392849538,87.81759158852479,66,Primary School,Right,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.1407722116982337,90,92.92724819298716,36.74094686136462,75.07002262854985,76,Primary School,Left,Female,No,Current Smoker,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Good,,0
+1,0.1275874985636403,79,97.61184935519546,36.0368462583164,74.90639204236078,72,Primary School,Right,Female,No,Former Smoker,Negative,Moderate Activity,Yes,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0786036126445143,80,97.17251084676536,36.75510120020441,63.30575508453474,63,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,Yes,Mediterranean Diet,Poor,Diabetes,1
+0,0.0289474552957869,62,93.55944601144988,36.38140433647827,57.484419238335136,78,Diploma/Degree,Right,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,No,Low-Carb Diet,Good,,1
+1,0.093733919491345,75,90.28801595850406,36.625409719971394,53.06646643890901,82,Primary School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.1322383723666118,88,99.99486638907202,36.34566265607078,85.73595834310973,69,No School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,Yes,Low-Carb Diet,Good,Hypertension,1
+0,0.1560367440880724,67,99.93613422452135,36.00851573152665,67.83009524604881,72,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Sedentary,No,No,Mediterranean Diet,Poor,,0
+1,0.1455048431278351,95,98.18636111178373,36.95525635528176,60.27566781720982,61,No School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Good,Diabetes,1
+1,0.1723553286468419,90,94.49146982008996,36.21230617596984,85.73888471017088,84,Diploma/Degree,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,Yes,Mediterranean Diet,Poor,Diabetes,0
+0,0.1936863548999746,87,90.15450415008398,36.20721020250867,91.42191553238936,71,Secondary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,0
+1,0.0410546656201653,61,98.60075615603289,36.24203046461357,65.55489370540612,77,Primary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,No,Balanced Diet,Poor,Diabetes,1
+1,0.1050500000892485,96,90.5875881325755,37.01434695038223,72.45812289002714,68,No School,Right,Female,Yes,Current Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,Diabetes,0
+1,0.1498778498100779,80,90.62488399439198,37.08229647320049,96.99203202967747,82,No School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,Yes,No,Low-Carb Diet,Good,Diabetes,1
+0,0.1778626854524883,72,96.94418438874686,36.33630908275988,82.27165684891753,83,Primary School,Left,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Balanced Diet,Good,,0
+1,0.0490607862283856,74,93.45709395516508,37.08892259012401,91.46910890466722,74,Primary School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.0391714971771656,99,92.95137702098236,36.994049607190405,57.940815167075066,80,Diploma/Degree,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.1838255077206758,73,99.96513042992255,36.84276794390946,89.00375633150881,77,Secondary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Good,,1
+0,0.0140506560458737,94,93.3265350796365,36.5060697349315,79.2043017593675,65,Primary School,Right,Female,No,Never Smoked,Positive,Mild Activity,Yes,Yes,Mediterranean Diet,Good,Heart Disease,1
+0,0.1264795558640715,92,99.9809068930422,36.71429133655022,68.34561146781009,85,Secondary School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,,0
+0,0.0306670280592628,81,91.20567474614028,36.47564466563711,77.19735651100738,72,Primary School,Right,Female,No,Former Smoker,Negative,Mild Activity,No,No,Mediterranean Diet,Good,Hypertension,1
+0,0.1310666272112503,93,94.604288156867,36.06418144041548,64.54242869891775,60,Primary School,Right,Female,No,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Poor,Heart Disease,1
+0,0.1738437983765937,88,98.58865724791676,36.44436089868734,54.562276261671045,81,No School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,1
+1,0.1035498846504394,86,93.4900514876143,37.12845957544085,59.42817717968176,68,Secondary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Diabetes,1
+1,0.0932987848222993,99,97.98214057972874,37.464553444310496,88.54887240927363,90,Secondary School,Left,Female,No,Former Smoker,Positive,Sedentary,No,No,Mediterranean Diet,Good,Diabetes,0
+0,0.1589059240642386,94,99.2362995844305,36.83893380517817,90.63445862308352,87,Diploma/Degree,Left,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Low-Carb Diet,Poor,Heart Disease,0
+1,0.1704196012581978,60,93.6288057026302,36.12758990373433,75.27157108154805,64,Secondary School,Right,Female,No,Former Smoker,Positive,Mild Activity,Yes,No,Balanced Diet,Good,Diabetes,1
+0,0.1465237288372115,76,92.51257555439868,37.145689438164,81.49467481921197,73,Secondary School,Right,Female,Yes,Former Smoker,Positive,Sedentary,No,No,Balanced Diet,Poor,,0
+1,0.1097475699851224,89,94.93318650298689,36.64388880317005,57.78800994494174,81,Primary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,Yes,Mediterranean Diet,Good,Diabetes,1
+1,0.0089616867787099,87,98.25888642094266,37.42496785420026,60.360780250192086,87,Primary School,Left,Female,Yes,Never Smoked,Positive,Sedentary,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.1339038050520401,65,98.78716129026276,37.1695671390611,55.71205107093763,64,No School,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Balanced Diet,Poor,Heart Disease,0
+0,0.1332040001550131,84,98.82450078212123,37.42143616752195,85.67247663659217,75,Diploma/Degree,Right,Female,No,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Heart Disease,0
+1,0.1836879265806557,93,93.03237563726834,36.09506528277353,52.675867290509565,77,Diploma/Degree,Left,Female,Yes,Former Smoker,Positive,Sedentary,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.099730357585493,95,90.34687264646806,36.29396760270634,88.95348281648852,62,Primary School,Right,Female,No,Never Smoked,Negative,Moderate Activity,No,No,Low-Carb Diet,Good,,0
+1,0.1839547307419866,93,95.2528440118337,36.7142534846158,79.5592750079532,70,Primary School,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,No,Low-Carb Diet,Good,Diabetes,0
+0,0.1686128933353166,78,95.93767349438993,37.07401534297351,94.97403285610412,73,Secondary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,No,Mediterranean Diet,Good,Heart Disease,1
+0,0.1989890323454736,63,99.9537766145544,36.95850239400664,59.94107651076717,69,Primary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,No,Mediterranean Diet,Poor,Hypertension,0
+1,0.0465290201150041,63,91.95665672404355,36.866852784709394,92.16587042153309,82,No School,Left,Female,No,Former Smoker,Negative,Sedentary,No,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.0660313571652864,97,97.416932590528,36.85598783968689,50.96988806976376,80,Diploma/Degree,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Good,Hypertension,0
+0,0.0559913884094584,86,94.48800205699358,36.66771512096668,96.3095952279606,74,Primary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,No,Mediterranean Diet,Poor,Hypertension,0
+0,0.1943326028924505,79,95.33624801969697,36.62152129518793,78.21799763238684,86,Secondary School,Right,Female,No,Former Smoker,Positive,Sedentary,Yes,Yes,Mediterranean Diet,Good,,1
+0,0.0015629292150293,83,95.83073444834716,36.81030025422282,87.07025947070574,88,Secondary School,Right,Female,No,Never Smoked,Positive,Moderate Activity,Yes,No,Mediterranean Diet,Good,,1
+0,0.0353061155482824,79,98.1031717899743,36.95190170550357,52.19542042897537,61,Secondary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,,1
+1,0.1552182692458089,66,97.04326610857514,36.93626152409871,90.96359171356954,63,Secondary School,Left,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.0188766374604721,82,95.79637886178644,36.44825947477956,61.1228456496399,85,Primary School,Left,Female,No,Former Smoker,Negative,Mild Activity,Yes,No,Low-Carb Diet,Poor,,1
+1,0.0342329801601523,98,94.1190971396322,36.12290348774194,52.49650210150856,84,No School,Left,Female,Yes,Former Smoker,Positive,Sedentary,No,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.1474076378006753,69,97.49780744879308,37.48424383417332,70.784935806216,71,No School,Left,Female,No,Never Smoked,Positive,Sedentary,No,No,Balanced Diet,Poor,Heart Disease,0
+0,0.1058738926159031,96,95.89331786788637,37.03119820081426,84.55636098511977,73,Secondary School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Mediterranean Diet,Good,Heart Disease,1
+1,0.1044908333327094,86,97.99133143851044,36.24718150487917,52.56152731365745,69,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.1754200116105089,71,97.07885717340174,36.32096875689123,84.06282878936787,74,Primary School,Left,Female,No,Former Smoker,Positive,Mild Activity,Yes,Yes,Mediterranean Diet,Poor,Hypertension,1
+0,0.0784728198607448,61,98.34586305109872,36.86827658619011,93.01545557285596,84,Primary School,Left,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,,1
+0,0.1720283146274721,91,96.9071109073387,37.15317385981755,84.30843740901624,61,Primary School,Left,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Balanced Diet,Good,,0
+1,0.126435963774765,90,93.5807973567134,37.35508524994856,64.2110280048918,65,No School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,1
+1,0.0274283732778829,74,90.21133300552626,37.47851231889402,85.81977132533844,66,No School,Left,Female,No,Former Smoker,Positive,Moderate Activity,Yes,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0307866775550649,74,96.76302744656071,36.83806596351466,76.61677953725328,65,No School,Left,Female,Yes,Never Smoked,Negative,Moderate Activity,No,No,Balanced Diet,Good,Diabetes,0
+0,0.0714881205873154,74,98.85052890860926,36.32237282213484,84.38867682247593,89,Secondary School,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Mediterranean Diet,Poor,Heart Disease,0
+1,0.0587652099099369,74,90.1948215795002,37.1574780547282,77.19173087143997,69,Secondary School,Right,Female,No,Former Smoker,Positive,Sedentary,No,No,Balanced Diet,Good,Diabetes,1
+1,0.1668177351429295,94,98.88255538591464,36.21033723453531,67.06821711280654,60,Primary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+1,0.1446286366181,80,90.14561625153976,37.22329304932324,84.30286891014369,62,Diploma/Degree,Left,Female,No,Never Smoked,Positive,Sedentary,Yes,Yes,Balanced Diet,Good,Diabetes,1
+1,0.0488272325274709,69,97.29380020215632,37.25489523348714,78.58903092908288,71,Primary School,Right,Female,Yes,Former Smoker,Positive,Sedentary,No,Yes,Balanced Diet,Good,Diabetes,0
+1,0.1152451558850209,95,99.0097260426576,37.39027107141944,64.4799506712451,62,No School,Left,Female,Yes,Former Smoker,Positive,Sedentary,Yes,No,Balanced Diet,Poor,Diabetes,1
+1,0.0297483476217593,68,90.47643073348829,37.05008777693905,63.54098785488242,70,Primary School,Left,Female,Yes,Former Smoker,Negative,Mild Activity,Yes,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.1338064807331435,94,93.60083858891704,36.47003883119883,77.3113442030253,69,No School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,Yes,Yes,Balanced Diet,Poor,,1
+1,0.1716480750947469,69,98.45233873564646,36.1289722924211,66.04926552290631,68,Primary School,Left,Female,Yes,Current Smoker,Positive,Mild Activity,No,No,Low-Carb Diet,Good,Diabetes,0
+1,0.0160918125763707,68,92.54656937625316,36.6856066979359,58.27687041562953,76,Primary School,Right,Female,No,Never Smoked,Positive,Mild Activity,Yes,Yes,Mediterranean Diet,Good,Diabetes,1
+1,0.0822574319139377,87,90.07524978167956,37.23547881631801,53.9981616945632,90,Primary School,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,Yes,Low-Carb Diet,Good,Diabetes,0
+1,0.1112404504454164,66,91.63483424350638,37.21451578868258,56.96624698485293,72,No School,Left,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Diabetes,1
+0,0.1308687659875282,75,94.58913308000515,36.46646197068258,52.22229710009974,63,Primary School,Right,Female,Yes,Never Smoked,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Heart Disease,0
+0,0.1595852220865621,93,94.63725124076208,36.82803556183718,64.9229615296195,60,No School,Left,Female,No,Former Smoker,Positive,Sedentary,No,No,Low-Carb Diet,Poor,Hypertension,1
+0,0.0291523906085191,78,92.00528251055856,36.80385691442022,57.82690932935124,79,Secondary School,Right,Female,No,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,0
+0,0.0400309061138462,69,93.36240511460944,36.93715959029488,84.7084897661395,64,Secondary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,Yes,No,Balanced Diet,Poor,Hypertension,1
+0,0.0974986131581928,78,95.58086027959254,36.49620867607109,67.44955858460673,73,Secondary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Poor,,1
+1,0.0260109700625646,67,94.00815571686086,36.76669427894094,91.58520477149152,73,Primary School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.0109454367370589,66,91.56115176897416,37.44050537355271,53.99607771989169,70,Primary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Diabetes,1
+1,0.1824179233625652,77,93.50397581353064,37.33271391642285,89.41069936032241,83,No School,Right,Female,No,Former Smoker,Positive,Sedentary,Yes,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.0598428605138204,65,99.5358993581553,36.66879921380778,89.57360055712746,88,Primary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Good,Diabetes,1
+1,0.187081960661983,90,98.69752324091888,36.85246475747215,90.51165553979912,83,Secondary School,Left,Female,No,Former Smoker,Negative,Mild Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.1762791135744408,83,91.8602062645712,37.44330930238064,80.51311662062315,77,No School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,Yes,Yes,Low-Carb Diet,Good,Heart Disease,1
+0,0.0128184018550346,91,95.19424867083958,36.90994579525688,92.60005328988478,90,Primary School,Right,Female,No,Never Smoked,Positive,Moderate Activity,Yes,Yes,Mediterranean Diet,Poor,Hypertension,1
+0,0.1088193723253606,65,95.30370748337204,36.22285053148932,71.83563648093694,74,Secondary School,Left,Female,Yes,Never Smoked,Negative,Mild Activity,No,No,Balanced Diet,Poor,Heart Disease,0
+1,0.0036523828850913,74,97.2310432357411,36.25602749193485,82.70929886670407,81,Secondary School,Right,Female,Yes,Current Smoker,Negative,Mild Activity,No,No,Balanced Diet,Poor,Diabetes,0
+1,0.0699964952059846,66,95.59977512036002,36.50332631832441,87.89556385778349,74,Secondary School,Left,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Mediterranean Diet,Good,Diabetes,0
+0,0.0514222780400364,61,99.60582590989604,36.251915631484266,75.77450177724322,85,Secondary School,Right,Female,Yes,Former Smoker,Negative,Mild Activity,Yes,No,Balanced Diet,Good,,1
+1,0.0154297530047211,73,98.89625887578816,37.19461117773604,63.937148644216,71,Secondary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,1
+0,0.0112142037787559,73,97.2329903792784,36.8455714596437,74.47157152350833,89,Primary School,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,,0
+0,0.0981646805556247,72,91.14781271659282,36.95341056695835,93.13867486028562,64,No School,Right,Female,No,Never Smoked,Positive,Sedentary,Yes,No,Low-Carb Diet,Good,Heart Disease,1
+1,0.1413333807026637,81,97.19682267204595,36.721532254881154,67.67737156630572,64,Primary School,Left,Female,No,Never Smoked,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.1084836937241527,74,90.50341618901604,37.27393395217725,88.3038396272546,85,Diploma/Degree,Left,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Mediterranean Diet,Good,Heart Disease,1
+0,0.1222420626006894,62,94.10348146865678,37.04835031128457,59.88791371256018,85,Secondary School,Left,Female,Yes,Never Smoked,Positive,Sedentary,Yes,No,Low-Carb Diet,Good,,1
+1,0.0332318372565164,77,99.02273938307766,36.177002173354936,52.43510058594149,87,Secondary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,No,Mediterranean Diet,Good,Diabetes,1
+1,0.0185133389729735,70,96.70651872026752,36.60554100737096,63.31696450712103,82,Primary School,Right,Female,No,Former Smoker,Negative,Moderate Activity,Yes,Yes,Mediterranean Diet,Good,Diabetes,1
+1,0.0092532504755253,98,93.66103335764392,36.60605226460354,78.0681439603047,70,Primary School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,Yes,Mediterranean Diet,Good,Diabetes,1
+0,0.0389647546153263,62,99.38590983258312,36.67178298099192,55.44628304355077,64,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Heart Disease,1
+0,0.1285440003112795,82,97.85853816270595,37.2855603573671,93.04718237530696,62,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Low-Carb Diet,Poor,Heart Disease,0
+1,0.1824628769185437,83,99.44534232703256,36.0815674890782,68.21162600900944,77,No School,Right,Female,No,Never Smoked,Positive,Sedentary,Yes,Yes,Mediterranean Diet,Good,Diabetes,1
+0,0.0140985914886259,96,94.65430860939824,36.827040586844994,79.30714363501383,60,Diploma/Degree,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,No,Balanced Diet,Good,Heart Disease,0
+1,0.0458189323215615,91,93.7422525174158,37.07002198711314,79.51612364620465,73,Diploma/Degree,Left,Female,Yes,Current Smoker,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.0941970719446126,92,91.12983529038888,36.19088350012456,87.88281712358992,82,No School,Right,Female,Yes,Former Smoker,Negative,Mild Activity,No,No,Balanced Diet,Good,Hypertension,1
+1,0.0564116340057259,84,99.79067752128076,36.17495804735511,84.99791138183514,71,Secondary School,Right,Female,Yes,Former Smoker,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Poor,Diabetes,1
+1,0.1635057690260676,91,98.4346704893222,37.04687226692291,95.62373928567176,89,No School,Right,Female,Yes,Former Smoker,Positive,Sedentary,Yes,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.0015708988875123,78,96.5247433872452,37.44034114414629,54.477186723574114,80,Primary School,Left,Female,No,Former Smoker,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Good,Diabetes,1
+0,0.1261911895382145,90,93.77548563229158,36.61177347323597,54.209805428817006,60,Diploma/Degree,Right,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Balanced Diet,Poor,,0
+0,0.095036497084537,62,97.93668140940385,36.15303770576562,73.31547707670929,60,Secondary School,Right,Female,No,Former Smoker,Positive,Mild Activity,Yes,No,Low-Carb Diet,Good,,1
+1,0.1510813611276158,97,97.2309768285359,36.77945319753817,68.34168570107926,62,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Sedentary,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+1,0.0700466766357295,85,95.07376794605749,37.1190947251602,95.10240507365792,74,Secondary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,Diabetes,0
+1,0.0083349528223044,66,96.82000374370868,37.28418804765332,80.73186915054116,78,Primary School,Left,Female,Yes,Current Smoker,Positive,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.1334372670535845,75,97.94563754974904,37.38306513218631,72.48657550600709,83,No School,Right,Female,No,Former Smoker,Positive,Sedentary,No,No,Mediterranean Diet,Poor,,1
+1,0.1045808965565979,90,93.2196908857576,36.86882079958066,86.53785817491399,78,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Diabetes,0
+0,0.1137602845868338,63,99.44848410330032,36.14486951334533,93.79817748334824,62,Primary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Mediterranean Diet,Poor,,1
+1,0.0778877775912788,80,98.85963349127606,36.505498380185,63.49195637034472,78,Primary School,Right,Female,No,Former Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0359173552551613,78,99.83689142882336,37.04022578634272,62.38800907747596,77,Diploma/Degree,Right,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.1946557898936173,65,93.55858795194354,37.00453592186087,67.02650244681985,90,Secondary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,,1
+0,0.1762383660249819,66,92.19577844170163,36.96164728917163,80.6209148505905,77,Primary School,Right,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Low-Carb Diet,Good,Heart Disease,0
+0,0.02525326182231,62,95.03842008872464,37.10751194783547,60.400322511024,86,Secondary School,Left,Female,No,Former Smoker,Positive,Mild Activity,Yes,Yes,Mediterranean Diet,Poor,Heart Disease,1
+0,0.1543108217132466,79,98.473705011179,37.3810537699401,57.6429433844172,76,Primary School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Poor,,1
+1,0.0533878977088075,79,94.29335697367732,36.04130671065538,54.21356791203955,64,Primary School,Right,Female,Yes,Current Smoker,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+0,0.1820650300098677,85,90.62464185557415,36.51982268736063,68.22880903978796,77,Secondary School,Left,Female,Yes,Never Smoked,Positive,Sedentary,No,Yes,Mediterranean Diet,Poor,Hypertension,1
+1,0.0014001066261678,72,90.02020958970158,37.09394879080011,80.43087567314862,86,Primary School,Left,Female,Yes,Former Smoker,Negative,Moderate Activity,No,Yes,Balanced Diet,Good,Diabetes,0
+1,0.0632403297696968,70,97.43995984508916,37.36218597473883,70.32181221863378,78,Secondary School,Right,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.1881626627247777,61,96.32046165206611,36.43947782241619,70.64296036465021,78,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,No,Balanced Diet,Poor,Diabetes,1
+0,0.0579035919664198,80,93.48306738932511,37.03675889624813,85.58568475664099,63,Primary School,Right,Female,Yes,Never Smoked,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Good,Hypertension,0
+1,0.0678517198549551,81,92.23848198860762,36.78009581055807,54.78617597032709,89,Secondary School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Balanced Diet,Poor,Diabetes,1
+1,0.1956113244478831,61,96.86881657303265,36.77210427497487,86.34440814834244,62,Primary School,Right,Female,Yes,Current Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.0601128995569897,91,99.38366751726016,36.777954156380446,55.48303059585165,86,Secondary School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,Yes,Yes,Balanced Diet,Good,Hypertension,1
+0,0.0893581515781766,91,93.19707496620865,36.878250417046985,68.44589498475797,69,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Sedentary,No,No,Mediterranean Diet,Poor,Hypertension,0
+0,0.168057095141924,62,99.95639919846796,37.42093929640406,69.02085536774477,60,Diploma/Degree,Right,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Poor,Hypertension,0
+1,0.0642634881449979,81,91.63489471807333,37.24538203117565,71.82417691172829,72,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,Yes,Yes,Balanced Diet,Good,Diabetes,1
+1,0.1427162604309416,88,99.64989842882828,36.58058832588036,73.01564360500824,80,Secondary School,Right,Female,No,Never Smoked,Positive,Sedentary,No,Yes,Low-Carb Diet,Poor,Diabetes,1
+0,0.0084827195279767,96,99.26078947530274,36.76655290288042,59.7251459936755,83,Secondary School,Left,Female,No,Never Smoked,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Good,,0
+0,0.0866176039767572,87,94.4472820869915,36.80503318221153,86.48191820985201,64,Secondary School,Right,Female,Yes,Current Smoker,Negative,Mild Activity,No,Yes,Mediterranean Diet,Poor,Heart Disease,0
+1,0.1977986601365028,97,92.0499367164978,36.70732980560395,75.26406182179717,82,No School,Right,Female,No,Former Smoker,Positive,Sedentary,No,No,Mediterranean Diet,Poor,Diabetes,0
+0,0.0250454705149012,81,91.31017645678828,37.42862776043146,99.67132541255394,84,Secondary School,Right,Female,No,Never Smoked,Positive,Mild Activity,Yes,No,Mediterranean Diet,Poor,,1
+1,0.1634143151320372,92,91.25098428160396,36.452809485571386,69.8340539847418,79,Secondary School,Right,Female,Yes,Former Smoker,Positive,Mild Activity,Yes,No,Balanced Diet,Poor,Diabetes,1
+1,0.0210088633252603,72,92.33753505868091,36.38692111998377,82.6547242333549,83,Secondary School,Left,Female,No,Former Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.0378239544639932,78,95.67284748954988,36.25896794131595,71.73948014540811,62,Diploma/Degree,Right,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.1832365089014433,99,99.0802586588265,36.84623724279628,62.90759653471824,83,Primary School,Left,Female,No,Never Smoked,Positive,Sedentary,No,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.1124313311341721,84,97.8959753232658,37.17894480854398,92.65392715357538,72,Secondary School,Left,Female,No,Current Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,,0
+1,0.1161193969754709,61,90.20235192406234,37.46076033589614,69.60614444003923,74,Primary School,Left,Female,No,Current Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.082723767559993,70,91.7968896981992,36.48142305940232,91.92492329968827,75,Secondary School,Right,Female,Yes,Never Smoked,Positive,Sedentary,Yes,Yes,Mediterranean Diet,Poor,,1
+0,0.0103917440673636,76,97.57094956248142,36.3777562632693,74.15220847849506,80,Secondary School,Right,Female,No,Never Smoked,Negative,Mild Activity,No,Yes,Balanced Diet,Poor,,0
+0,0.0717514976179642,82,94.81747671213144,36.35702072251387,62.37059749075616,82,Secondary School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Balanced Diet,Poor,Heart Disease,1
+1,0.1844688299991042,72,93.70160977871478,36.182158609167615,78.45229639212802,63,Primary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,1
+0,0.1229205463364405,74,96.5474453109204,37.43172477644254,60.06288812586912,67,Primary School,Left,Female,Yes,Former Smoker,Negative,Mild Activity,No,Yes,Low-Carb Diet,Poor,,0
+1,0.0127031525210455,85,95.52969381990232,37.08260120097888,61.6163572513209,85,Secondary School,Right,Female,Yes,Never Smoked,Negative,Moderate Activity,No,Yes,Mediterranean Diet,Poor,Diabetes,0
+1,0.0111815990387111,61,95.37214680431954,36.41358761801981,97.10652665717068,61,No School,Left,Female,No,Never Smoked,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Poor,Diabetes,1
+0,0.1542478192057796,68,92.67565701224363,36.76741361793034,76.22632753148608,86,Primary School,Left,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Balanced Diet,Good,,0
+0,0.1883295886283433,71,99.56300619058224,36.39098309268428,67.5313787276495,70,Secondary School,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Low-Carb Diet,Good,Hypertension,0
+1,0.163009822249416,95,92.56575705172972,36.89502633445153,59.24159488942203,70,Secondary School,Left,Female,No,Never Smoked,Positive,Moderate Activity,Yes,No,Low-Carb Diet,Good,Diabetes,1
+0,0.0049255070968204,86,94.92278740763716,36.96051233141269,59.5060383194858,70,Secondary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,,1
+1,0.03111919023906,88,96.29231535444258,36.53757666220723,93.33274940680994,60,Diploma/Degree,Right,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Balanced Diet,Good,Diabetes,0
+1,0.1953166774906581,79,90.71602937879068,36.6675579857936,70.07409412049147,64,Primary School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+0,0.0239643139488515,98,98.60291864144922,36.93057255623644,89.01253367048385,70,Secondary School,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,No,Low-Carb Diet,Poor,Hypertension,0
+0,0.1622303539580217,98,93.34155212362484,36.70980487562085,54.8935971115069,78,Primary School,Left,Female,Yes,Former Smoker,Positive,Sedentary,Yes,No,Low-Carb Diet,Poor,,1
+0,0.1197926126159129,99,93.61518651691928,37.40681630390405,69.68987840129572,78,Diploma/Degree,Right,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Good,Hypertension,0
+1,0.1689352494483768,77,94.77878104886832,36.42247707303502,68.1648839637262,71,Primary School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,No,Low-Carb Diet,Good,Diabetes,1
+0,0.0902132368008218,68,90.81770802988171,37.15454093182598,52.58732878647697,89,No School,Right,Female,No,Former Smoker,Negative,Moderate Activity,No,No,Mediterranean Diet,Good,Heart Disease,0
+1,0.0610101632471736,61,97.5520123347896,36.84215522364865,82.1724847011427,82,Secondary School,Right,Female,Yes,Never Smoked,Positive,Moderate Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.0629847448331316,60,95.65099925188854,37.30159660723533,95.16530752571056,90,Primary School,Left,Female,Yes,Former Smoker,Negative,Sedentary,No,No,Low-Carb Diet,Good,Heart Disease,0
+0,0.1373611169906716,63,93.32210650379838,36.46765047443282,89.85497488130252,84,Secondary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Mediterranean Diet,Good,,1
+1,0.1389453566205253,61,94.06941815702032,36.78822894583611,65.58077352434658,62,Diploma/Degree,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+0,0.0239799657851761,64,97.64138209299162,36.48525518938751,68.817795070299,65,Secondary School,Right,Female,No,Never Smoked,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Good,,0
+1,0.0288624687433516,68,90.2862448089151,37.362178114703205,83.71617991810842,85,Primary School,Right,Female,No,Former Smoker,Positive,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.0366919453651432,86,95.43071524677536,36.960348764087776,69.20839576741241,73,No School,Right,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Mediterranean Diet,Good,Diabetes,1
+0,0.1666430586931856,72,94.87882112963484,36.347871335563006,89.6321645943342,82,Primary School,Left,Female,No,Former Smoker,Positive,Sedentary,No,No,Low-Carb Diet,Poor,,1
+1,0.1297612608834591,67,93.52657112130592,36.13131227832292,88.10661015516705,81,Primary School,Right,Female,No,Current Smoker,Negative,Sedentary,No,No,Mediterranean Diet,Poor,Diabetes,0
+1,0.1525826627644615,66,99.5432739479403,36.35312398086532,95.27441707250009,65,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.0983911267419055,90,95.88264427029166,36.9942266773603,69.43842337771281,90,Primary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,Yes,No,Low-Carb Diet,Poor,,1
+0,0.0662226051723861,68,91.07503091719654,37.33679889047984,98.8372851746565,61,Primary School,Left,Female,No,Never Smoked,Negative,Mild Activity,No,No,Mediterranean Diet,Poor,Heart Disease,0
+0,0.0656933234519776,63,99.2226468496485,36.315420806360684,70.19757528464999,71,No School,Right,Female,No,Never Smoked,Positive,Moderate Activity,No,No,Mediterranean Diet,Good,,1
+1,0.0862146223109282,99,98.6260303920212,36.19143064524421,57.76275678595583,79,Primary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,No,Balanced Diet,Good,Diabetes,0
+0,0.0415654838856945,89,97.6769912118221,37.34361790235354,61.05385804885029,67,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,Yes,Yes,Balanced Diet,Poor,,1
+0,0.05977682899694,70,95.19113137929,37.34243677549281,97.28312092547624,80,Secondary School,Right,Female,Yes,Never Smoked,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Poor,,1
+1,0.003468079636111,82,96.12143134059365,36.393572258243246,72.5102287223262,67,Diploma/Degree,Left,Female,Yes,Former Smoker,Negative,Mild Activity,No,No,Balanced Diet,Poor,Diabetes,0
+0,0.1568023965805755,94,98.48141565840842,37.18801854497209,51.45449023039871,88,Diploma/Degree,Right,Female,No,Never Smoked,Positive,Sedentary,Yes,Yes,Low-Carb Diet,Poor,,1
+0,0.1236147650978849,91,96.12340363071073,37.10181676793945,73.11563756679064,76,No School,Right,Female,No,Never Smoked,Positive,Sedentary,No,No,Mediterranean Diet,Poor,Hypertension,1
+0,0.0174697412703073,79,93.48192402371284,36.12196085602583,76.50839267055079,88,Primary School,Right,Female,No,Former Smoker,Positive,Moderate Activity,No,Yes,Balanced Diet,Good,Hypertension,1
+1,0.0926398548116362,79,90.48741740469958,36.469083949325466,86.4891403786178,62,No School,Left,Female,Yes,Former Smoker,Positive,Moderate Activity,Yes,No,Mediterranean Diet,Poor,Diabetes,1
+0,0.0030543871330434,61,94.87600504818565,36.47803110774541,52.445483202081405,83,Secondary School,Right,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.0321762550448328,68,94.5307668873603,37.058370207561815,82.38181004219577,68,No School,Right,Female,Yes,Former Smoker,Negative,Sedentary,No,Yes,Balanced Diet,Good,Heart Disease,0
+1,0.1494720448258466,65,95.66352874126618,36.58139474403383,88.9377088233579,62,Primary School,Left,Female,No,Never Smoked,Positive,Sedentary,Yes,No,Mediterranean Diet,Good,Diabetes,1
+1,0.0178731672316499,84,90.84469442582514,37.33997016981779,66.3350987761473,89,Diploma/Degree,Left,Female,No,Current Smoker,Positive,Mild Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.1668949077318704,66,90.42720571763368,36.42430956710468,83.84994499858392,74,Primary School,Right,Female,Yes,Never Smoked,Negative,Mild Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+0,0.0612973282322952,79,91.78101233826196,37.17009798934742,60.30386894945745,84,Secondary School,Right,Female,No,Former Smoker,Positive,Sedentary,No,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.0839091867371065,93,90.1527613549735,36.64813036244321,73.54695934552699,63,Diploma/Degree,Left,Female,No,Never Smoked,Positive,Moderate Activity,Yes,Yes,Mediterranean Diet,Good,Heart Disease,1
+0,0.0079225550177208,87,94.27680668787224,36.88984895432506,79.58374701837982,68,No School,Right,Female,No,Former Smoker,Positive,Mild Activity,Yes,Yes,Mediterranean Diet,Poor,Hypertension,1
+1,0.190630461664039,87,93.26981440051748,36.6130007968282,61.60061584884603,85,Secondary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Mediterranean Diet,Good,Diabetes,0
+1,0.0553961753514843,61,93.94979886378782,36.472604239537006,76.04737044469681,83,Secondary School,Left,Female,Yes,Former Smoker,Negative,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,0
+0,0.1409030891315044,87,96.29740244935148,37.08696204907221,55.3756887409467,73,No School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,,1
+0,0.0598563597396166,76,91.63603330820008,36.15009240247311,56.09526623517062,90,Secondary School,Right,Female,Yes,Former Smoker,Positive,Mild Activity,No,Yes,Balanced Diet,Good,Heart Disease,0
+0,0.0135354095564615,65,98.19375889264256,36.144228113731536,64.14290162408912,66,Primary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Hypertension,0
+1,0.1502995747411543,81,98.03541212877926,37.27500099250268,98.2088227541157,62,Diploma/Degree,Left,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Diabetes,1
+0,0.0191610791915477,83,98.45547870405134,36.55135370921973,86.39264522708945,77,Diploma/Degree,Left,Female,No,Current Smoker,Negative,Sedentary,No,Yes,Mediterranean Diet,Good,Heart Disease,0
+0,0.0113981805925784,97,91.9508390610852,37.01152703927241,58.43334973765472,90,Secondary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Heart Disease,0
+0,0.014994663050852,90,90.81721121683414,36.219945321214205,61.92799378200672,60,No School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,No,Mediterranean Diet,Good,Hypertension,1
+1,0.0786748218484965,93,91.50000546004412,36.533926957265294,83.27502151057291,86,Secondary School,Left,Female,Yes,Never Smoked,Negative,Sedentary,No,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.052985443040327,74,95.53791703933489,36.533911864167024,89.32273389297626,67,Primary School,Left,Female,Yes,Never Smoked,Negative,Mild Activity,Yes,Yes,Mediterranean Diet,Good,Heart Disease,1
+1,0.1201308946156179,63,97.79986178969098,37.31548685700819,66.08626040930174,67,Diploma/Degree,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.0123328347540641,86,99.62121490092524,36.04919112320202,94.68579970454428,77,No School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,No,Low-Carb Diet,Poor,Diabetes,1
+0,0.1955756150093147,83,97.96237883916372,36.28741237408205,82.96659388970406,70,Primary School,Right,Female,No,Former Smoker,Positive,Mild Activity,No,Yes,Low-Carb Diet,Good,Hypertension,0
+1,0.1251419002100782,64,94.21800982217036,36.78424525782544,88.91598655335996,66,Diploma/Degree,Right,Female,Yes,Never Smoked,Negative,Sedentary,No,No,Low-Carb Diet,Poor,Diabetes,0
+1,0.1720269496212481,75,90.47511580738542,36.50548120759271,70.73149549376866,65,Primary School,Left,Female,No,Never Smoked,Negative,Sedentary,No,Yes,Balanced Diet,Good,Diabetes,0
+1,0.1008245916709387,93,95.31549538740096,36.42666591533632,87.8816788992683,72,Secondary School,Right,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Balanced Diet,Poor,Diabetes,0
+0,0.0867111007991599,85,98.79700348028332,36.1988863807882,71.6815228819872,67,Primary School,Right,Female,Yes,Never Smoked,Positive,Mild Activity,Yes,No,Mediterranean Diet,Good,Hypertension,1
+0,0.0777571217095919,95,99.27006395242134,36.88093320372889,53.42591319098102,75,No School,Left,Female,Yes,Never Smoked,Positive,Moderate Activity,No,No,Low-Carb Diet,Poor,,1
+0,0.0938900227138188,76,97.9222654033377,36.904231155909216,65.16610565856946,79,No School,Right,Female,No,Never Smoked,Positive,Sedentary,Yes,Yes,Balanced Diet,Good,Heart Disease,1
+1,0.0196903573307059,63,98.7920280280137,36.22848681216025,55.34381584125981,89,Primary School,Left,Female,No,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.019056268350063,84,97.7598026269662,36.58670739629513,75.58177850133103,74,Secondary School,Right,Female,No,Never Smoked,Negative,Moderate Activity,No,Yes,Mediterranean Diet,Good,Diabetes,0
+1,0.1394638054176478,84,94.08316995118535,36.05388273743445,53.488676946169456,76,Secondary School,Left,Female,No,Never Smoked,Positive,Mild Activity,No,Yes,Mediterranean Diet,Poor,Diabetes,1
+1,0.0027245096920832,84,93.62411066771628,37.03996611024701,80.76886931703972,83,No School,Right,Female,Yes,Former Smoker,Positive,Moderate Activity,No,No,Low-Carb Diet,Poor,Diabetes,1
+1,0.1452494228344986,97,94.5223913266376,36.27080364253776,94.00648383958978,80,Primary School,Left,Female,No,Never Smoked,Negative,Moderate Activity,No,Yes,Low-Carb Diet,Poor,Diabetes,0
+1,0.0736917852747138,65,98.5783877411698,37.06570275955272,80.08861278178082,67,Primary School,Right,Female,No,Never Smoked,Positive,Sedentary,No,Yes,Balanced Diet,Good,Diabetes,0
+0,0.0859694010748621,90,95.52282520613568,36.0267482661116,57.67145476967681,80,Secondary School,Left,Female,Yes,Never Smoked,Positive,Mild Activity,No,Yes,Mediterranean Diet,Good,Heart Disease,0
