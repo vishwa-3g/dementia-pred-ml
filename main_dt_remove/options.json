@@ -1,0 +1,757 @@
+{
+    "version": "3.2.1",
+    "cli_args": "df-analyze.py --spreadsheet /Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/W_Pres_Cogn.csv --target Dementia --mode classify --classifiers knn lgbm rf lr sgd dummy gandalf --feat-select filter embed wrap --redundant-wrapper-selection --embed-select lgbm linear --wrapper-select step-up --wrapper-model linear --norm robust --nan median --filiter-method assoc pred --filter-assoc-cont-classify mut_info --filter-assoc-cat-classify mut_info --filter-pred-classify acc --htune-trials 50 --htune-cls-metric acc --test-val-metric 0.4 --outdir ./results",
+    "datapath": {
+        "_raw_paths": [
+            "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/W_Pres_Cogn.csv"
+        ],
+        "_drv": "",
+        "_root": "/",
+        "_tail_cached": [
+            "Users",
+            "gagandeepsingh",
+            "Documents",
+            "MLD_Tab1",
+            "df-analyze",
+            "W_Pres_Cogn.csv"
+        ],
+        "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/W_Pres_Cogn.csv"
+    },
+    "target": "Dementia",
+    "grouper": null,
+    "categoricals": [],
+    "ordinals": [],
+    "drops": [],
+    "nan_handling": {
+        "_value_": "median",
+        "_name_": "Median",
+        "__objclass__": {
+            "py/type": "df_analyze.enumerables.NanHandling"
+        },
+        "_sort_order_": 2
+    },
+    "norm": {
+        "_value_": "robust",
+        "_name_": "Robust",
+        "__objclass__": {
+            "py/type": "df_analyze.enumerables.Normalization"
+        },
+        "_sort_order_": 1
+    },
+    "feat_select": [
+        {
+            "_value_": "embed",
+            "_name_": "Embedded",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.FeatureSelection"
+            },
+            "_sort_order_": 1
+        },
+        {
+            "_value_": "filter",
+            "_name_": "Filter",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.FeatureSelection"
+            },
+            "_sort_order_": 0
+        },
+        {
+            "_value_": "wrap",
+            "_name_": "Wrapper",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.FeatureSelection"
+            },
+            "_sort_order_": 2
+        }
+    ],
+    "embed_select": [
+        {
+            "_value_": "lgbm",
+            "_name_": "LGBM",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.EmbedSelectionModel"
+            },
+            "_sort_order_": 0
+        },
+        {
+            "_value_": "linear",
+            "_name_": "Linear",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.EmbedSelectionModel"
+            },
+            "_sort_order_": 1
+        }
+    ],
+    "wrapper_select": {
+        "_value_": "step-up",
+        "_name_": "StepUp",
+        "__objclass__": {
+            "py/type": "df_analyze.enumerables.WrapperSelection"
+        },
+        "_sort_order_": 0
+    },
+    "wrapper_model": {
+        "_value_": "linear",
+        "_name_": "Linear",
+        "__objclass__": {
+            "py/type": "df_analyze.enumerables.WrapperSelectionModel"
+        },
+        "_sort_order_": 0
+    },
+    "n_filter_cont": 0.5,
+    "n_filter_cat": 0.5,
+    "n_feat_filter": 0.5,
+    "n_feat_wrapper": 20,
+    "filter_assoc_cont_cls": {
+        "_value_": "mut_info",
+        "_name_": "MutualInfo",
+        "__objclass__": {
+            "py/type": "df_analyze.analysis.univariate.associate.ContClsStats"
+        },
+        "_sort_order_": 6
+    },
+    "filter_assoc_cat_cls": {
+        "_value_": "mut_info",
+        "_name_": "MutualInfo",
+        "__objclass__": {
+            "py/type": "df_analyze.analysis.univariate.associate.CatClsStats"
+        },
+        "_sort_order_": 0
+    },
+    "filter_assoc_cont_reg": {
+        "_value_": "F",
+        "_name_": "F",
+        "__objclass__": {
+            "py/type": "df_analyze.analysis.univariate.associate.ContRegStats"
+        },
+        "_sort_order_": 3
+    },
+    "filter_assoc_cat_reg": {
+        "_value_": "H",
+        "_name_": "H",
+        "__objclass__": {
+            "py/type": "df_analyze.analysis.univariate.associate.CatRegStats"
+        },
+        "_sort_order_": 1
+    },
+    "filter_pred_cls_score": {
+        "_value_": "acc",
+        "_name_": "Accuracy",
+        "__objclass__": {
+            "py/type": "df_analyze.enumerables.ClsScore"
+        },
+        "_sort_order_": 0
+    },
+    "filter_pred_reg_score": {
+        "_value_": "mae",
+        "_name_": "MAE",
+        "__objclass__": {
+            "py/type": "df_analyze.enumerables.RegScore"
+        },
+        "_sort_order_": 0
+    },
+    "redundant_selection": true,
+    "redundant_threshold": 0.005,
+    "redundant_corr_threshold": 0.8,
+    "is_classification": true,
+    "classifiers": [
+        {
+            "_value_": "dummy",
+            "_name_": "Dummy",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+            },
+            "_sort_order_": 8
+        },
+        {
+            "_value_": "gandalf",
+            "_name_": "GANDALF",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+            },
+            "_sort_order_": 7
+        },
+        {
+            "_value_": "knn",
+            "_name_": "KNN",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+            },
+            "_sort_order_": 0
+        },
+        {
+            "_value_": "lgbm",
+            "_name_": "LGBM",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+            },
+            "_sort_order_": 1
+        },
+        {
+            "_value_": "lr",
+            "_name_": "LR",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+            },
+            "_sort_order_": 3
+        },
+        {
+            "_value_": "rf",
+            "_name_": "RF",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+            },
+            "_sort_order_": 2
+        },
+        {
+            "_value_": "sgd",
+            "_name_": "SGD",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+            },
+            "_sort_order_": 4
+        }
+    ],
+    "regressors": [
+        {
+            "_value_": "dummy",
+            "_name_": "Dummy",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeRegressor"
+            },
+            "_sort_order_": 8
+        },
+        {
+            "_value_": "elastic",
+            "_name_": "ElasticNet",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeRegressor"
+            },
+            "_sort_order_": 3
+        },
+        {
+            "_value_": "knn",
+            "_name_": "KNN",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeRegressor"
+            },
+            "_sort_order_": 0
+        },
+        {
+            "_value_": "lgbm",
+            "_name_": "LGBM",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeRegressor"
+            },
+            "_sort_order_": 1
+        },
+        {
+            "_value_": "sgd",
+            "_name_": "SGD",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.DfAnalyzeRegressor"
+            },
+            "_sort_order_": 4
+        }
+    ],
+    "htune_trials": 50,
+    "htune_cls_metric": {
+        "_value_": "acc",
+        "_name_": "Accuracy",
+        "__objclass__": {
+            "py/type": "df_analyze.enumerables.ClassifierScorer"
+        },
+        "_sort_order_": 0
+    },
+    "htune_reg_metric": {
+        "_value_": "mae",
+        "_name_": "MAE",
+        "__objclass__": {
+            "py/type": "df_analyze.enumerables.RegressorScorer"
+        },
+        "_sort_order_": 0
+    },
+    "test_val_size": 0.4,
+    "outdir": {
+        "_raw_paths": [
+            "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+            "W_Pres_Cogn"
+        ],
+        "_drv": "",
+        "_root": "/",
+        "_tail_cached": [
+            "Users",
+            "gagandeepsingh",
+            "Documents",
+            "MLD_Tab1",
+            "df-analyze",
+            "results",
+            "W_Pres_Cogn"
+        ],
+        "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn"
+    },
+    "is_spreadsheet": true,
+    "separator": ",",
+    "verbosity": {
+        "_value_": 1,
+        "_name_": "INFO",
+        "__objclass__": {
+            "py/type": "df_analyze.cli.cli.Verbosity"
+        },
+        "_sort_order_": 1
+    },
+    "no_warn_explosion": false,
+    "no_preds": false,
+    "program_dirs": {
+        "root": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1"
+        },
+        "terminal": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "terminal_outputs.txt"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "terminal_outputs.txt"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/terminal_outputs.txt"
+        },
+        "options": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "options.json"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "options.json"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/options.json"
+        },
+        "joblib_cache": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "__JOBLIB_CACHE__"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "__JOBLIB_CACHE__"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/__JOBLIB_CACHE__"
+        },
+        "renames": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "feature_renamings.md"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "feature_renamings.md"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/feature_renamings.md"
+        },
+        "inspection": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "inspection"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "inspection"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/inspection"
+        },
+        "prepared": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "prepared"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "prepared"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/prepared"
+        },
+        "features": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "features"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "features"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/features"
+        },
+        "associations": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "features/associations"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "features",
+                "associations"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/features/associations"
+        },
+        "predictions": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "features/predictions"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "features",
+                "predictions"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/features/predictions"
+        },
+        "selection": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "selection"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "selection"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/selection"
+        },
+        "filter": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "selection/filter"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "selection",
+                "filter"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/selection/filter"
+        },
+        "embed": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "selection/embed"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "selection",
+                "embed"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/selection/embed"
+        },
+        "wrapper": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "selection/wrapper"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "selection",
+                "wrapper"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/selection/wrapper"
+        },
+        "tuning": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "tuning"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "tuning"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/tuning"
+        },
+        "results": {
+            "_raw_paths": [
+                "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "results"
+            ],
+            "_drv": "",
+            "_root": "/",
+            "_tail_cached": [
+                "Users",
+                "gagandeepsingh",
+                "Documents",
+                "MLD_Tab1",
+                "df-analyze",
+                "results",
+                "W_Pres_Cogn",
+                "249ee985edf07652c36bb91b592feff1",
+                "results"
+            ],
+            "_str": "/Users/gagandeepsingh/Documents/MLD_Tab1/df-analyze/results/W_Pres_Cogn/249ee985edf07652c36bb91b592feff1/results"
+        },
+        "needs_clean": false
+    },
+    "comparables": {
+        "model": [
+            {
+                "_value_": "dummy",
+                "_name_": "Dummy",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+                },
+                "_sort_order_": 8
+            },
+            {
+                "_value_": "gandalf",
+                "_name_": "GANDALF",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+                },
+                "_sort_order_": 7
+            },
+            {
+                "_value_": "knn",
+                "_name_": "KNN",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+                },
+                "_sort_order_": 0
+            },
+            {
+                "_value_": "lgbm",
+                "_name_": "LGBM",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+                },
+                "_sort_order_": 1
+            },
+            {
+                "_value_": "lr",
+                "_name_": "LR",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+                },
+                "_sort_order_": 3
+            },
+            {
+                "_value_": "rf",
+                "_name_": "RF",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+                },
+                "_sort_order_": 2
+            },
+            {
+                "_value_": "sgd",
+                "_name_": "SGD",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.DfAnalyzeClassifier"
+                },
+                "_sort_order_": 4
+            }
+        ],
+        "selection": [
+            {
+                "_value_": "embed",
+                "_name_": "Embedded",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.FeatureSelection"
+                },
+                "_sort_order_": 1
+            },
+            {
+                "_value_": "filter",
+                "_name_": "Filter",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.FeatureSelection"
+                },
+                "_sort_order_": 0
+            },
+            {
+                "_value_": "wrap",
+                "_name_": "Wrapper",
+                "__objclass__": {
+                    "py/type": "df_analyze.enumerables.FeatureSelection"
+                },
+                "_sort_order_": 2
+            }
+        ],
+        "norm": {
+            "_value_": "robust",
+            "_name_": "Robust",
+            "__objclass__": {
+                "py/type": "df_analyze.enumerables.Normalization"
+            },
+            "_sort_order_": 1
+        }
+    }
+}
