@@ -1,0 +1,23 @@
+feature_name,user,inferred,reason
+APOE_ε4,,bin,Two unique non-Nan values
+Depression_Status,,bin,Two unique non-Nan values
+Diabetic,,bin,Two unique non-Nan values
+Dominant_Hand,,bin,Two unique non-Nan values
+Family_History,,bin,Two unique non-Nan values
+Gender,,bin,Two unique non-Nan values
+Medication_History,,bin,Two unique non-Nan values
+Sleep_Quality,,bin,Two unique non-Nan values
+Chronic_Health_Conditions,,cat,Data not interpretable as numeric
+Education_Level,,cat,Data not interpretable as numeric
+Nutrition_Diet,,cat,Data not interpretable as numeric
+Physical_Activity,,cat,Data not interpretable as numeric
+Prescription,,cat,Data not interpretable as numeric
+Smoking_Status,,cat,Data not interpretable as numeric
+AlcoholLevel,,cont,All values are not integers and convert to float
+BloodOxygenLevel,,cont,All values are not integers and convert to float
+BodyTemperature,,cont,All values are not integers and convert to float
+Dosage_in_mg,,cont,All values are not integers and convert to float
+Weight,,cont,All values are not integers and convert to float
+Age,,ord,Integers not starting at 0 or 1
+HeartRate,,ord,Integers not starting at 0 or 1
+Cognitive_Test_Scores,,ord-coerce,"Coerced to ordinal due to no decimal, feature name or undersampled levels"
